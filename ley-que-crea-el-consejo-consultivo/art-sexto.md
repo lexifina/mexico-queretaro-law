@@ -1,0 +1,1 @@
+ARTICULO SEXTO.- El Consejo Consultivo llevará a cabo reuniones ordinarias y extraordinarias, las primeras se efectuarán una vez al mes, previo citatorio del Gobernador del Estado; las extraordinarias cada vez que se haga necesario a criterio del Titular del Poder Ejecutivo o de las dos terceras partes de los miembros del Consejo.
