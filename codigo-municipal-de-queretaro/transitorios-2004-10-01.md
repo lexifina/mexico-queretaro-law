@@ -1,0 +1,6 @@
+P.O. 1 DE OCTUBRE DE 2004.
+PRIMERO. Publíquese en la Gaceta Municipal y en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+SEGUNDO. La presente reforma entrará en vigor el día siguiente al de su publicación en los medios de difusión precisados en el transitorio anterior.
+TERCERO. Respecto de las reformas a los artículos 910, 973 Bis, 987, 992 y 995 del Código Municipal de Querétaro, se aplicarán las disposiciones de la Ley de Procedimientos Administrativos para el Estado y Municipios.
+CUARTO. Los procedimientos o recursos administrativos, que se hubieren iniciado con anterioridad a la entrada en vigencia de la Ley de Procedimientos Administrativos para el Estado y Municipios, se tramitarán y resolverán conforme a las disposiciones que los originaron.
+QUINTO. Notifíquese a los titulares de la Secretaría General de Gobierno Municipal, Secretaría de Administración, Secretaría de Desarrollo Sustentable del Municipio de Querétaro, Secretaría de Obras Públicas Municipales, Secretaría de la Contraloría Municipal, Secretaría de Economía y Finanzas y Tesorería Municipal, Secretaría de Desarrollo Social, Secretaría de Servicios Públicos Municipales e Instituto Municipal de Equidad de Género.

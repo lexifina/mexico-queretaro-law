@@ -1,3 +1,3 @@
-(ADICIONADO, P.O. 5 DE FEBRERO DE 1999)
-ARTICULO 83 bis 2.- El titular de la Contraloría Interna Municipal, será nombrado a propuesta del Presidente Municipal, con aprobación del Ayuntamiento; dependerá funcionalmente de este cuerpo colegiado y operacionalmente del Presidente Municipal; quien se auxiliará del personal que le sea necesario para el desempeño de sus funciones.
-El Ayuntamiento analizará y aprobará en su caso las políticas, planes y sistemas que le proponga la Contraloría para el cumplimiento de sus tareas; igualmente aprobará la calendarización y programa de actividades de la Contraloría.
+(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)
+ARTICULO 83 bis 2.- El Secretario de la Contraloría Municipal, será nombrado a propuesta del Presidente Municipal, con aprobación del Ayuntamiento; dependerá funcionalmente de este cuerpo colegiado y operacionalmente del Presidente Municipal; quien se auxiliará del personal que le sea necesario para el desempeño de sus funciones.
+El Ayuntamiento analizará y aprobará en su caso las políticas, planes y sistemas que le proponga la Contraloría para el cumplimiento de sus tareas; igualmente aprobará la calendarización y programa de actividades de la Secretaría de la Contraloría Municipal.
