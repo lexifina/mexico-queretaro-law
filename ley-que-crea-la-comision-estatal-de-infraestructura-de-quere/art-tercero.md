@@ -1,0 +1,1 @@
+ARTICULO TERCERO.- El Ejecutivo del Estado determinará el procedimiento mediante el cual se proceda a incorporar a la Comisión Estatal de Caminos las acciones, sistemas, derechos y obligaciones de la Junta Local de Caminos del Estado de Querétaro.

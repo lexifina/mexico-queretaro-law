@@ -1,0 +1,1 @@
+ARTICULO SEGUNDO.- Se abroga la Ley No. 128 de fecha 28 de febrero de 1933, publicada en el Periódico Oficial el 16 de Marzo del mismo año, y se derogan todas las disposiciones que se opongan a la presente Ley.

@@ -1,0 +1,1 @@
+ARTICULO CUARTO.- Todos los derechos de los trabajadores de la Junta Local de Caminos serán respetados y las relaciones de trabajo entre la Comisión Estatal de Caminos y sus Trabajadores y empleados se regirán por el Reglamento Interior que se expida para tal efecto y su normatividad jurídica depende de su naturaleza de organismos público descentralizado del Gobierno del Estado.
