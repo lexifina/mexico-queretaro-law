@@ -1,3 +1,3 @@
 P.O. 19 DE DICIEMBRE DE 1985
 Artículo Primero.- Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado, "La Sombra de Arteaga" y en los cartelones que señala el Artículo 164 de la Constitución Política Local y remítase copia autorizada de la misma a los Ayuntamientos de los Municipios de la Entidad para los efectos de lo previsto en el Artículo 163 de la Ley Suprema invocada.
-Artículo Primero.- Aprobadas, en su caso, las Reformas Propuestas al texto Constitucional, la presente Ley entrará en vigor al día siguiente de la Publicación en el Periódico Oficial del Estado, de la declaratoria que al respecto emita el Congreso del Estado.
+Artículo Segundo.- Aprobadas, en su caso, las Reformas Propuestas al texto Constitucional, la presente Ley entrará en vigor al día siguiente de la Publicación en el Periódico Oficial del Estado, de la declaratoria que al respecto emita el Congreso del Estado.

@@ -1,0 +1,3 @@
+P.O. 14 DE ABRIL DE 1988
+ARTICULO PRIMERO.- Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" y en los Cartelones que señala el Artículo 164 de la Constitución Política Local y remítase copia autorizada de la misma a los Ayuntamientos de los Municipios de la Entidad para los efectos previstos en el Artículo 163 de la Ley Suprema invocada.
+ARTICULO SEGUNDO.- Aprobadas, en su caso las Reformas y Adiciones propuestas al texto de la Constitución Política Local, la presente Ley entrará en vigor al día siguiente de la publicación de la Declaratoria que al respecto emita el Congreso.
