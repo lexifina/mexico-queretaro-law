@@ -1,0 +1,6 @@
+LEY QUE CREA LA ESCUELA NORMAL SUPERIOR DE QUERETARO
+Ley Publicada en el Periódico Oficial del Estado " La Sombra de Arteaga", el 9 de Septiembre de 1976.
+LEY QUE CREA LA ESCUELA NORMAL SUPERIOR DE QUERETARO
+ANTONIO CALZADA, Gobernador Constitucional del Estado Libre y Soberano de Querétaro Arteaga, a los habitantes del mismo, sabed que:
+LA CUADRAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL ESTADO DE QUERÉTARO ARTEAGA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 63 DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y... ha tenido a bien dictar la siguiente
+L E Y QUE CREA LA ESCUELA NORMAL SUPERIOR DE QUERÉTARO
