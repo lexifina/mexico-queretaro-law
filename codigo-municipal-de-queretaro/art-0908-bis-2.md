@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 22 DE AGOSTO DE 1997)
+ARTICULO 908 bis 2.- Las integrantes del Consejo Directivo serán designadas por el Presidente Municipal escogiendo de este las mujeres miembros del Instituto a quienes se hayan destacado por su trabajo y conocimiento a cerca (sic) de la problemática de género, el número de las designadas no será menor de 10, para tal efecto recibirán por parte del Presidente Municipal su nombramiento oficial.

@@ -1,0 +1,6 @@
+P.O. 12 DE JUNIO DE 1997.
+ACUERDO QUE REFORMA LOS ARTICULOS 544, 545, 546, 547, 548, 549, 971, 972, 973 Y ADICIONADA EL 973 BIS DEL CODIGO MUNICIPAL.
+ARTICULO PRIMERO.- En la medida que las nuevas tecnologías logren desarrollar equipos que ofrezcan mayores ventajas que el equipo descritos (sic) en el manual de procedimientos que entrará en vigencia conjuntamente con el presente ordenamiento, podrá adoptarse su incorporación después de haberse demostrado en la práctica y con el soporte de pruebas de laboratorio las bondades de los desarrollos.
+ARTICULO SEGUNDO.- Para las instalaciones actuales propiedad del Municipio será a consideración del Titular del Departamento de Alumbrado Público de la Secretaría de Servicios Públicos Municipales el cual supervisará y dará a conocer márgenes específicos para su actualización.
+SEGUNDO (SIC).- Se aprueba el MANUAL DE PROCEDIMIENTOS de observancia obligatoria para, quienes pretenden realizar mejoras, ampliaciones y nuevas obras en los Sistemas de Alumbrado en área públicas, vialidades y exteriores de Templos, Monumentos Históricos, entre otros, dentro del Municipio de Querétaro.
+TERCERO.- Publíquese en la Gaceta Municipal y en el Periódico Oficial del Gobierno del Estado, conforme a lo dispuesto por el artículo 169 de la Ley Orgánica Municipal.
