@@ -1,5 +1,5 @@
 (ADICIONADA, P.O. 19 DE DICIEMBRE DE 1996)
-ARTICULO 150 BIS. Independientemente de las sanciones que correspondan en los términos del artículo 150 de este código y fuera de las causas de exclusión del delito previstas por la ley, se sancionará con una pena de uno a ocho años de prisión y de doscientos a setecientos cincuenta días multa, al que:
+ARTICULO 150 BIS.- Independientemente de las sanciones que correspondan en los términos del artículo 150 de este código y fuera de las causas de exclusión del delito previstas por la ley, se sancionará con una pena de uno a ocho años de prisión y de doscientos a setecientos cincuenta días multa, al que:
 I. Actúe como intermediario en las negociaciones del rescate, sin el acuerdo de quienes representen o gestionen en favor de la víctima;
 II. Colabore en la difusión pública de las pretensiones o mensajes de los secuestradores, fuera del estricto derecho a la información;
 III. Actúe como asesor de quienes representen o gestionen en favor de la víctima, y evite informar o colaborar con la autoridad competente en el conocimiento de la comisión del secuestro;
