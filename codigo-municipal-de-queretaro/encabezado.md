@@ -1,4 +1,4 @@
-CODIGO MUNICIPAL DE QUERETARO
+CÓDIGO MUNICIPAL DE QUERÉTARO
 Código publicado en el Anexo al Periódico Oficial del Estado de Querétaro, el jueves 9 de noviembre de 1995.
 Lic. Jesús Rodríguez Hernández, Presidente Constitucional del Municipio de Querétaro, a los habitantes del mismo, sabed que:
 El H. Ayuntamiento del Municipio de Querétaro en uso de las facultades que le confiere el artículo 86 de la Constitución Política del Estado, y
