@@ -7,3 +7,5 @@ P.O. 24 DE ENERO DE 1929 (LEY NUMERO 38)
 UNICO.- Esta ley entrará en vigor el día primero de octubre del año de mil novecientos veintinueve.
 P.O. 24 DE ENERO DE 1929 (LEY NUMERO 39)
 UNICO.- Esta ley comenzará a surtir sus efectos desde la fecha de su publicación.
+P.O. 24 DE ENERO DE 1929 (LEY NUMERO 42)
+UNICO.- Esta ley comenzará a surtir sus efectos desde la fecha de su publicación.
