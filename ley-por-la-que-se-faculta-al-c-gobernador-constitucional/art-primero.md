@@ -1,0 +1,1 @@
+ARTICULO PRIMERO.- Se faculta al C. Gobernador Constitucional del Estado para declarar zonas urbanas las que, sin estar comprendidas dentro del perímetro asignado a la ciudad de Querétaro, hayan adquirido las características que corresponden a una zona de tal naturaleza.
