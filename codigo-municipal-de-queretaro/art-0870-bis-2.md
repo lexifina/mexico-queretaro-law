@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 28 DE ENERO DE 2000)
+ARTICULO 870 bis 2.- Los verificadores en el ejercicio de sus funciones tendrán libre acceso a los edificios, establecimientos comerciales, industriales y de servicios, transportes y, en general a todos los lugares en que sea necesario practicar visitas. Los propietarios, responsables, encargados u ocupantes de establecimientos o conductores de los transportes sujetos a verificación, estarán obligados a permitir el acceso y dar facilidades e informes a los verificadores para el desarrollo de su labor.
+Las visitas de verificación podrán ser ordinarias y extraordinarias. Las primeras se efectuarán en días y horas hábiles y las segundas en cualquier tiempo.
