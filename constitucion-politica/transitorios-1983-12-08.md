@@ -1,0 +1,4 @@
+P.O. 8 DE DICIEMBRE DE 1983
+ARTICULO PRIMERO.- Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado y en los cartelones que ordena el artículo 164 de la Constitución Política Local y remítase copia autorizada de la misma a los Ayuntamientos de los Municipios de la Entidad, para que se sirvan aprobarla o reprobarla y manifiesten a esta Legislatura su resolución.
+ARTICULO SEGUNDO.- El Presidente de la Cámara, luego que se hayan recibido las constancias de la votación a que se refiere el artículo anterior, convocará al Pleno a Sesión para el solo efecto de que se haga el cómputo de las aprobaciones o desaprobaciones de los Ayuntamientos, y se emita el Acuerdo respectivo.
+ARTICULO TERCERO.- La presente Ley entrará en vigor al día siguiente de la publicación del Acuerdo a que se refiere el artículo anterior, en el Periódico Oficial del Gobierno del Estado.
