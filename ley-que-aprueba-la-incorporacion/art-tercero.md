@@ -1,0 +1,2 @@
+ARTICULO TERCERO.- Se autoriza al Ejecutivo y a los Ayuntamientos para que en caso de que el Estado de Querétaro y sus Municipios se descoordinen con la Federación en Materia de Derechos, se aplique el cobro de los derechos establecidos en la Ley de Hacienda del Estado y en la Ley General de Hacienda de los Municipios de Querétaro vigentes en 1984, bajo las tasas y tarifas según sus respectivas Leyes de Ingresos de ese año, hasta en tanto que el Congreso Local legislara lo que corresponde sobre la materia.
+T R A N S I T O R I O S :
