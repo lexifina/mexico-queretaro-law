@@ -1,0 +1,1 @@
+ARTICULO SEGUNDO. Se abroga la Ley Orgánica de la Universidad Autónoma de Querétaro publicada en el Periódico Oficial el 26 de Agosto de 1976 y se derogan todas las disposiciones que se opongan a la presente Ley.
