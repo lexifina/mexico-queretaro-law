@@ -1,0 +1,1 @@
+ARTICULO OCTAVO.- Los sectores que integran la Comisión Estatal Tripartita podrán nombrar a su vez un asesor general y el número de asesores técnicos que se requerirán para todas y cada una de las comisiones de los Estudios que se formen.

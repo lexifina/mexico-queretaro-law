@@ -1,0 +1,1 @@
+ARTICULO DÉCIMO SEXTO.- Las actas de las sesiones ordinarias y extraordinarias, una vez que se aprueben deberán ser firmadas por el Presidente y por el Secretario de la Comisión, en el libro respectivo.

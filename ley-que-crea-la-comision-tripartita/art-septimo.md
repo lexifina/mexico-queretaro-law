@@ -1,0 +1,1 @@
+ARTICULO SEPTIMO.- En todos los casos las comisiones de estudio contarán cuando menos con dos representantes de los trabajadores y dos de los empresarios, con sus respectivos adjuntos y serán presididas por uno de los representantes del Gobierno.

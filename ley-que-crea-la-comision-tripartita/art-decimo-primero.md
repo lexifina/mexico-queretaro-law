@@ -1,0 +1,1 @@
+ARTICULO DÉCIMO PRIMERO.- Se considera quórum legal para las sesiones de la Comisión Estatal Tripartita y las de estudio que lleguen a formarse, la asistencia de más de la mitad de los miembros que las integran.

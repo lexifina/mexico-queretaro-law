@@ -1,0 +1,1 @@
+ARTICULO DÉCIMO TERCERO.- Los acuerdos que se tomen en las sesiones de la Comisión Estatal Tripartita tendrán el carácter de recomendaciones, que podrán ser unánimes o tripartitas las que se produzcan por los tres sectores, bipartitas las que se tomen por dos sectores y unilaterales las de un solo sector.

@@ -1,0 +1,1 @@
+ARTICULO DÉCIMO OCTAVO.- Las proposiciones que se aprueben en las sesiones de la Comisión Estatal Tripartita, se elevarán con el carácter de recomendaciones al C. Gobernador del Estado, remitiendo con las mismas los estudios en que se fundan, así como todos los antecedentes de las proposiciones.

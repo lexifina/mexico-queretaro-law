@@ -1,0 +1,1 @@
+ARTICULO DÉCIMO SEGUNDO.- En las votaciones cada sector representa un voto que será emitido por la mayoría de los presentes del sector de que se trata. Los asesores solamente tendrán voz en el seno de las reuniones.

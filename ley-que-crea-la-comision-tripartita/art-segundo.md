@@ -1,0 +1,1 @@
+ARTICULO SEGUNDO.- La Comisión Tripartita del Estado de Querétaro se integrará por veinticinco miembros; Diez representantes del sector obrero, diez representantes del sector empresarial y cinco del Gobierno del Estado.

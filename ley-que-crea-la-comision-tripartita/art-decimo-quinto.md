@@ -1,0 +1,1 @@
+ARTICULO DÉCIMO QUINTO.- Cuando alguno de los representantes no concurra a dos reuniones consecutivas, tanto en la Comisión Estatal Tripartita como en las Comisiones de Estudio, se dará cuenta a los sectores respectivos para que tomen las medidas pertinentes o lo sustituyan.
