@@ -1,2 +1,1 @@
-(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)
-ARTICULO 83 bis 6.- La Secretaría de la Contraloría Municipal, con autorización expresa del Presidente Municipal, podrá contratar los servicios profesionales de despachos privados de contabilidad, auditoría y fiscalización para coadyuvar en el cumplimiento de sus tareas o para encomendarles en forma integral algunas acciones de la competencia de la propia Secretaría de la Contraloría Municipal. En este caso, se establecerá por escrito el carácter confidencial de las diligencias y sus resultados deberán informarse al Ayuntamiento.
+ARTICULO 83 bis 6.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DEL TRIBUNAL MUNICIPAL DE RESPONSABILIDADES ADMINISTRATIVAS, P.O. 15 DE JUNIO DE 2005)
