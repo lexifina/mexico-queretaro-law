@@ -1,0 +1,6 @@
+P.O. 31 DE ENERO DE 2006.
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga", una vez verificado el procedimiento a que se refiere el artículo 103 de la Constitución Política del Estado Libre y Soberano de Querétaro Arteaga.
+SEGUNDO. La Legislatura del Estado tendrá 30 hábiles contados a partir del inicio de vigencia de la presente Ley para expedir la Ley Reglamentaria de la Entidad Superior de Fiscalización.
+TERCERO. Una vez que entre en vigor la Ley reglamentaria de la Entidad, el personal administrativo y los recursos materiales y financieros de que actualmente dispone la Contaduría Mayor de Hacienda de la Legislatura del Estado, pasarán a formar parte de esta Entidad Superior de Fiscalización, observándose en lo conducente las disposiciones de la Ley para la entrega-recepción administrativa en el Estado de Querétaro.
+La Legislatura, una vez que entre en vigor la ley reglamentaria de la Entidad, designará conforme a los procedimientos y requisitos señalados en el texto constitucional y legal al titular de la Entidad Superior de Fiscalización del Estado.
+Las reformas realizadas a los artículos 41 fracciones XV y XXV, 47 y 87 por la presente Ley, entrarán en vigor una vez que inicie su vigencia la Ley reglamentaria de la Entidad.
