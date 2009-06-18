@@ -1,0 +1,10 @@
+LEY ORGANICA DEL COLEGIO DE BACHILLERES DEL ESTADO DE QUERETARO
+Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de junio de 2009.
+LA QUINCUAGÉSIMA QUINTA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LA FACULTAD QUE LE CONFIERE EL ARTÍCULO 17 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 82 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
+CONSIDERANDO.
+Por lo anteriormente expuesto, la Quincuagésima Quinta Legislatura del Estado de Querétaro, expide la siguiente:
+LEY ORGÁNICA DEL COLEGIO DE BACHILLERES DEL ESTADO DE QUERÉTARO
+Título Primero
+Disposiciones generales
+Capítulo Primero
+Disposiciones preliminares
