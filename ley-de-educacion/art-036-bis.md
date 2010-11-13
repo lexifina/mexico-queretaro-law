@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2010)
+Artículo 36 Bis. A efecto de asegurar la protección y el cuidado de la salud de los educandos menores de edad, queda prohibida, en las cooperativas escolares y en los espacios comerciales donde se expendan o consuman alimentos, en las instituciones de nivel básico, la venta de alimentos o bebidas que contengan alto contenido calórico y bajo o nulo valor nutricional que no cumplan con los estándares de nutrición que para el efecto establezcan la Secretaría de Salud del Estado y las disposiciones federales aplicables.
