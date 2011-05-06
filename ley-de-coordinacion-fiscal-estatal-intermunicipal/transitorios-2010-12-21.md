@@ -55,5 +55,10 @@ Las personas morales que tributen en términos del Título III de la Ley del Imp
 En caso de que las personas a que se refieren los párrafos anteriores no acrediten lo establecido en este artículo, pagarán los derechos que se originen con motivo de los servicios previstos en la fracción II del artículo 135 de la Ley de Hacienda del Estado de Querétaro, en cantidad de 46 VSMGZ.
 XIX. Por los servicios de control vehicular contemplados en el artículo 135, fracciones I y II, de la Ley de Hacienda del Estado de Querétaro, se causará y pagará el equivalente a 0.40 VSMGZ adicional al derecho que en dicho precepto se señala.
 El recurso que se obtenga por concepto de esta contribución, se destinará para equipamiento y/o gastos de operación de los cuerpos voluntarios de bomberos, de acuerdo con las necesidades que acrediten ante un Comité que estará formado por el Secretario de Seguridad Ciudadana, el titular de la Dirección de Gestión de Emergencias y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo, pudiendo nombrarse un coordinador.
+(F. DE E, P.O. DE 6 DE MAYO DE 2011)
 Artículo Segundo. La presente Ley entrará en vigor el día primero de enero de 2011.
+(F. DE E, P.O. DE 6 DE MAYO DE 2011)
+Salvo lo dispuesto en el párrafo siguiente, los procedimientos a que se refiere el artículo 60 del Código Fiscal del Estado de Querétaro, vigente hasta el 31 de diciembre de 2010, que se encuentren en tramite al momento de entrar en vigor la presente Ley, continuaran hasta su total resolución conforme a las disposiciones legales vigentes a partir del 1° de enero de 2011.
+(F. DE E, P.O. DE 6 DE MAYO DE 2011)
+Cuando las autoridades fiscales hubieren emitido requerimientos en términos de la fracción III, del numeral 60 del Código Fiscal del Estado de Querétaro vigente hasta el 31 de diciembre de 2010, podrán imponer las multas que correspondan, de conformidad con dicha fracción.
 Artículo Tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
