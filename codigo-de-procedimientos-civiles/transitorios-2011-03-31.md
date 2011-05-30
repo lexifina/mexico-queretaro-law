@@ -1,0 +1,8 @@
+P.O. 31 DE MARZO DE 2011.
+Artículo Primero. La presente Ley entrará en vigor, sesenta días naturales posteriores al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+Artículo Segundo. El Titular del Poder Ejecutivo del Estado, contará con sesenta días naturales, contados a partir de la publicación de la presente Ley en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", para crear o, en su caso, modificar y publicar las disposiciones reglamentarias necesarias para el cumplimiento de la presente Ley.
+Artículo Tercero. Las adopciones que se encuentren en trámite a la fecha de inicio de vigencia de esta Ley, se resolverán de acuerdo a las disposiciones aplicables hasta antes de la publicación de la presente Ley.
+No obstante lo anterior, si en las adopciones simples que actualmente se tramitan, hubiere la voluntad del adoptante de obtener la adopción en los términos de la presente Ley, podrá seguirse el procedimiento previsto para ello en este cuerpo legal.
+Cuando el adoptante o adoptantes soliciten la conversión de la adopción simple a la adopción en los términos de la presente Ley, el juez citará a los solicitantes a una audiencia verbal que se celebrará dentro de los ocho días siguientes a la recepción de la solicitud, con la intervención del Ministerio Público, luego de la cual resolverá lo conducente en el término de ocho días posteriores a la referida audiencia.
+Artículo Cuarto. El Poder Ejecutivo del Estado de Querétaro, proporcionará los recursos necesarios para asegurar la efectiva aplicación de esta Ley y la operatividad de las autoridades involucradas.
+Artículo Quinto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
