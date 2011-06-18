@@ -1,0 +1,9 @@
+(ADICIONADO, P.O. 17 DE JUNIO DE 2011)
+Artículo 6 Sexies. Los exámenes toxicológicos a que se refiere el artículo anterior, se sujetarán a lo siguiente:
+I. Serán practicados salvaguardando el respeto, la dignidad, la privacidad, la integridad, la seguridad personal y los derechos fundamentales del personal sujeto a examen;
+II. Se practicarán por personal de instituciones públicas autorizado por el Director General, pudiendo emplearse previamente pruebas de valor estimativo, indicativo e indiciario; de arrojar éstas un resultado positivo, deberán utilizarse pruebas de confirmación a través de personal calificado y por instituciones que acrediten tener la experiencia y conocimientos necesarios para llevar a cabo este proceso, en estricto cumplimiento a las disposiciones aplicables;
+III. Serán practicados a partir de muestras en las cantidades suficientes para los fines científicos que se persiguen; las muestras deberán estar plenamente identificadas con los datos del personal del que hayan sido tomadas. Por cada muestra se conservará una de respaldo, por el tiempo de durabilidad útil, que será analizada en caso de confusión o impugnación respecto de la primera;
+IV. Se levantará un acta circunstanciada, que firmará el personal encargado de la aplicación del examen, la persona sometida a examen, si fuese su voluntad y el funcionario que señale el Consejo;
+V. Si la persona examinada se negare a firmar, así se asentará en el acta correspondiente, debiendo firmar dos testigos de asistencia, sin que dicha circunstancia afecte la validez de la prueba;
+VI. La negativa tácita o expresa a someterse al examen toxicológico, se considerará un desacato grave a la disciplina del Sistema Penitenciario del Estado, constituyendo causa suficiente para la separación inmediata del insubordinado; y
+VII. Los resultados de los exámenes toxicológicos se harán constar en el expediente personal respectivo.
