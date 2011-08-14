@@ -1,6 +1,3 @@
-(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 25 DE OCTUBRE DE 2002)
-CAPITULO IV
-PORNOGRAFIA CON MENORES O INCAPACES
 (ADICIONADO, P.O. 25 DE OCTUBRE DE 2002)
 ARTICULO 239 BIS.- Al que por cualquier medio filme, grabe o imprima actos de exhibicionismo corporal, lascivos o sexuales de menores de dieciocho años de edad o de incapaces, con el fin de exhibirlos, difundirlos, o trasmitirlos por cualquier medio impreso o electrónico, se le impondrá prisión de 2 a 10 años, de 20 a 600 días multa y se la inhabilitará para ser tutor o curador.
 La misma pena se le impondrá a quién:
