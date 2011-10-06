@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)
+Artículo 88 Ter. Cuando el profesional de la salud, no cuente con cédula profesional con efectos de Patente correspondiente que lo faculte para ejercer el nivel técnico, licenciatura, la especialidad o el grado académico con que se ostente, la Comisión de Arbitraje Médico, dará vista al Ministerio Público Investigador, a fin de que ejercite la acción penal que corresponda.
