@@ -15,3 +15,4 @@ PRIMER SECRETARIO
 Rúbrica
 Lic. Francisco Garrido Patrón, Gobernador Constitucional del Estado de Querétaro, en ejercicio de lo dispuesto por el artículo 22, fracción I de la Constitución Política del Estado de Querétaro; expido y promulgo la presente Ley de Justicia Constitucional del Estado de Querétaro.
 Dado en el Palacio de la Corregidora, sede del Poder Ejecutivo del Estado de Querétaro, en la Ciudad de Santiago de Querétaro, Qro., el día veintiséis del mes de marzo del año dos mil nueve, para su debida publicación y observancia.
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
