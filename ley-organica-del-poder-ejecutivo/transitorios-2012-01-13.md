@@ -1,0 +1,8 @@
+P.O. 13 DE ENERO DE 2012.
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+Artículo Segundo. Se abroga la "Ley de Protección Civil para el Estado de Querétaro" publicada en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" el día 3 de diciembre de 1992.
+Artículo Tercero. Se derogan las demás disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+Artículo Cuarto. El titular del Poder Ejecutivo emitirá las normas reglamentarias de la presente Ley, que resulten necesarias para su aplicación.
+Artículo Quinto. Los programas que hasta antes de la entrada en vigor de la presente Ley habían sido ejecutados por la Dirección de Gestión de Emergencias de la Secretaría de Seguridad Ciudadana, estarán a cargo de la Unidad Estatal de Protección Civil, por lo que el Gobernador del Estado y las demás autoridades competentes realizarán las gestiones necesarias a fin de que no se interrumpa dicha ejecución.
+Artículo Sexto. El Gobernador del Estado realizará las gestiones necesarias, a fin de que el Consejo Estatal de Protección Civil sea instalado dentro de los cien días naturales posteriores a aquél en que entre en vigor la presente Ley.
+Artículo Séptimo. Dentro de los ciento ochenta días naturales contados a partir de la entrada en vigor de la presente Ley, los 18 Ayuntamientos del Estado de Querétaro realizarán las gestiones correspondientes con la Unidad Estatal de Protección Civil, asimimo (sic) capacitarán y comprarán el equipo para contar con el Atlas de Riesgos Municipal.
