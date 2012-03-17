@@ -1,4 +1,4 @@
-CODIGO CIVIL DEL ESTADO DE QUERETARO
+CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 LIC. JOSÉ EDUARDO CALZADA ROVIROSA,
 Gobernador Constitucional del Estado de Querétaro, a los habitantes del mismo, sabed que:
