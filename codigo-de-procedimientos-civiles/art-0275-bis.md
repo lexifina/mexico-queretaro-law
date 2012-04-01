@@ -1,4 +1,4 @@
-N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (ADICIONADO, P.O. 22 DE JULIO DE 2011)
 Artículo 275 Bis. Contestada que sea la demanda y en su caso, la reconvención, el juez de oficio citará personalmente a las partes para que dentro de los diez días siguientes acudan a una audiencia oral conciliatoria ante el Centro de Mediación del Poder Judicial del Estado de Querétaro. Dicha audiencia se verificará sin que se suspenda el procedimiento.
 Las partes deberán comparecer personalmente o a través de representante facultado para transigir.
