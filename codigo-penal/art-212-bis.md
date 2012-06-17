@@ -1,0 +1,6 @@
+(ADICIONADO, P.O. 8 DE JUNIO DE 2012)
+ARTICULO 212 BIS.- Al que sin tener relación familiar o de parentesco con un menor de edad o con persona que no tenga capacidad para comprender el significado del hecho o para resistirlo, sin el consentimiento de quien ejerza su custodia o guarda legítima, lo sustraiga con la finalidad de violar derechos de familia, se le impondrá de 5 a 10 años de prisión y de 40 a 120 veinte días de multa.
+Se le impondrá de 3 a 6 años de prisión y de 20 a 60 días de multa al ascendiente, descendiente o pariente hasta el cuarto grado, de un menor de edad o de persona que no tenga capacidad para comprender el significado del hecho o para resistirlo, lo sustraiga sin el consentimiento de quien ejerza su custodia o guarda legítima, cuando concurra cualquiera de las siguientes circunstancias:
+I. Que no ejerza sobre él la patria potestad o la haya perdido o ejerciéndola se encuentre suspendida o limitada; o
+II. No tenga la guarda y custodia provisional o definitiva o la tutela sobre él.
+Si el agente devuelve al menor o a la persona que no tenga capacidad para comprender el significado del hecho o para resistirlo, dentro de los 3 días siguientes a la consumación del delito, se le aplicará hasta una mitad las penas arriba señaladas.
