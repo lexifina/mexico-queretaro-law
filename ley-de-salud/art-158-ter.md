@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 22 DE JUNIO DE 2012)
+Artículo 158 Ter. Se consideran procedimientos de embellecimiento del cuerpo humano no quirúrgicos, aquellos que se utilizan para modificar las características externas y superficiales, mediante la aplicación de sustancias, productos o preparados de uso externo, masajes faciales o terapias fisícocorporales y similares, destinados a incrementar la belleza o a mejorar su apariencia física.

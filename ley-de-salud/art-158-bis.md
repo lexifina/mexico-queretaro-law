@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 22 DE JUNIO DE 2012)
+Artículo 158 Bis. Para los efectos de esta Ley, se entiende por peluquerías, salones de belleza, estéticas, centros de masajes y otros similares, los dedicados a rasurar, teñir, peinar, cortar, rizar o realizar cualquier actividad similar con el cabello de las personas; arreglo estético de uñas, manos y pies; la aplicación de tratamientos capilares de belleza o faciales, así como aquellos que se dediquen a realizar procedimientos de embellecimiento del cuerpo humano no quirúrgicos.
