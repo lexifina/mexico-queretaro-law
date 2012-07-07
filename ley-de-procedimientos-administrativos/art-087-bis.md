@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 6 DE JULIO DE 2012)
+Artículo 87 Bis. Son objeto de la verificación o inspección los documentos, bienes muebles, lugares o establecimientos donde se desarrollen actividades o presten servicios, domicilios particulares o cualquier tipo de inmueble, siempre que dichas diligencias se realicen por las autoridades competentes y en estricto apego al artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
+Las personas usuarias de servicios públicos o quienes realicen actividades sujetas a regulación, deberán diseñar sus instalaciones, colocar los instrumentos de medición y los accesos a los mismos por parte de las autoridades, de tal forma que se faciliten estas acciones y no resulten incómodas o molestas a los administrados.
