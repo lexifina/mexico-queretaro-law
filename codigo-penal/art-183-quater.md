@@ -1,0 +1,3 @@
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA LEY QUE MODIFICA ESTE ORDENAMIENTO
+(ADICIONADO, P.O. 8 DE JUNIO DE 2012)
+ARTICULO 183 QUÁTER.- Se sancionará con pena de uno a quince años de prisión y de 100 a 750 días multa, si el robo se realiza en bodega, edificio, local comercial o cuarto que estén destinados para ejercer el comercio, comprendiéndose en esta denominación no solo los que estén fijos en la tierra, sino también los móviles, sea cual fuere la materia de la que estén construidos.
