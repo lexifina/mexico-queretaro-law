@@ -1,0 +1,12 @@
+(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2012)
+TÍTULO NOVENO
+OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2012)
+CAPÍTULO ÚNICO
+OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2012)
+ARTÍCULO 246-H.- Se impondrán de cinco a quince años de prisión y de mil a cinco mil días multa, al que por sí o por interpósita persona, realice cualquiera de las siguientes conductas: adquiera, enajene, administre, posea, custodie, cambie, deposite, dé en garantía, invierta, transporte o transfiera, dentro del territorio del Estado de Querétaro, de éste hacia el exterior del mismo o a la inversa, recursos, valores, bienes o derechos de cualquier naturaleza, con conocimiento de que proceden o representan el producto de una actividad ilícita, con alguno de los siguientes propósitos: ocultar o pretender ocultar, encubrir o impedir conocer el origen, localización, destino o propiedad de dichos recursos, valores, bienes o derechos, o propiciar alguna actividad ilícita.
+Para efectos de este artículo, se entiende que son producto de una actividad ilícita, los recursos, valores, bienes o derechos de cualquier naturaleza, cuando existan indicios fundados o la certeza de que provienen directa o indirectamente, o representan las ganancias derivadas de la comisión de algún delito, y no pueda acreditarse su legítima procedencia.
+La pena prevista en el primer párrafo se aumentará en una mitad, cuando la conducta ilícita sea cometida por servidores públicos, o bien por ex servidores públicos, si la conducta se realizó por ellos dentro de los dos años inmediatamente posteriores a su separación o baja del servicio público por cualquier causa. En este caso, se impondrá a los responsables, además, la inhabilitación para desempeñar empleo, cargo o comisión públicos, hasta por un tiempo igual al de la pena de prisión impuesta.
+Las penas a las que se refiere el primer párrafo de este artículo, también serán aumentadas hasta en una mitad, si quien realice la conducta típica, utiliza a personas menores de dieciocho años de edad o que no tengan capacidad para comprender el significado del hecho o para resistirlo.
+Cuando la persona que realiza los actos jurídicos, con alguno de los resultados mencionados en el párrafo primero, revele a la autoridad competente la identidad de quien haya aportado los recursos o de quien se conduzca como dueño, la pena podrá ser reducida hasta en dos terceras partes.
