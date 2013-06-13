@@ -1,4 +1,2 @@
 (ADICIONADO, P.O. 17 DE JUNIO DE 2011)
 Artículo 37 Bis. Al sentenciado por el delito de secuestro, en términos del artículo 19 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la Fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, no tendrá derecho a los beneficios de la libertad preparatoria, sustitución, conmutación de la pena o cualquier otro que implique la libertad anticipada, lo que incluye la remisión parcial de la pena.
-Sección Séptima
-Del tratamiento preliberacional

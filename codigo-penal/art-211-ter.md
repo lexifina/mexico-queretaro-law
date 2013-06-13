@@ -1,2 +1,4 @@
 (ADICIONADO, P.O. 7 DE MARZO DE 2012)
 ARTICULO 211 TER.- No se impondrá pena alguna o quedarán sin efecto las que se hubieren impuesto, cuando el obligado pague todas las cantidades que hubiere dejado de ministrar por concepto de alimentos o se someta al régimen de pago que el Juez o la autoridad ejecutora, en su caso, determinen, garantizando mediante fianza u otra caución, la amortización de las cantidades que en el futuro le corresponda satisfacer, cuando menos por tres meses.
+(ADICIONADO, P.O. 12 DE JUNIO DE 2013)
+El beneficio a que se refiere este artículo no podrá ser otorgado más de una sola vez.

@@ -1,2 +1,2 @@
-(ADICIONADO, P.O. 29 DE FEBRERO DE 2008)
-ARTICULO 217 TER.- Se considera también constitutivo de violencia familiar y se sancionará con igual pena, cuando se haga uso de los medios señalados en el artículo anterior, en contra de la persona con la que se encuentre unida fuera de matrimonio llevando relación de pareja o de cualquier otra que esté sujeta a la custodia, protección o cuidado de ésta, siempre y cuando el agresor habite en el mismo domicilio.
+(REFORMADO, P.O. 12 DE JUNIO DE 2013)
+ARTICULO 217 TER.- Se considera también constitutivo de violencia familiar y se sancionará con pena de uno a cuatro de prisión, cuando se haga uso de los medios señalados en el artículo anterior, en contra de la persona con la que se encuentre unida fuera de matrimonio llevando relación de pareja o de cualquier otra naturaleza, que implique la sujeción del pasivo a la custodia, protección o cuidado del activo, aun cuando los sujetos no convivan en el mismo domicilio.
