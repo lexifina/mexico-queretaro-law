@@ -1,4 +1,4 @@
-LEY DE OBRA PUBLICA DEL ESTADO DE QUERETARO
+LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 12 de noviembre de 2003.
 LIC. FRANCISCO GARRIDO PATRÓN,
 Gobernador Constitucional del Estado Libre y Soberano de Querétaro Arteaga, a los habitantes del mismo, sabed que:
