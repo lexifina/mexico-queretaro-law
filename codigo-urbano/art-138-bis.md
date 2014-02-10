@@ -1,0 +1,4 @@
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.
+(ADICIONADO, P.O. 7 DE FEBRERO DE 2014)
+Artículo 138 Bis. Por especies nativas se entienden aquellos organismos vegetales propios de un sitio o región determinado, ubicados dentro de su ámbito de distribución natural, que crecen espontáneamente y se encuentran ecológicamente adaptados a las condiciones físicas y biológicas de su entorno.
+El desarrollador está obligado a la introducción de plantas de especies nativas de la región para el equipamiento urbano del fraccionamiento, por lo menos en un 70% de la superficie; para la selección de las plantas, deberá tomar en consideración el catálogo de especies nativas, con que para tal efecto cuente la Secretaría de Desarrollo Sustentable.
