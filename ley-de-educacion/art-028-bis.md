@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 12 DE MARZO DE 2014)
+Artículo 28 Bis. Las evaluaciones que, en el ámbito de su competencia, lleven a cabo las autoridades educativas locales y municipales, serán sistemáticas, integrales, obligatorias y periódicas. Estas evaluaciones deberán considerar los contextos demográfico, social y económico de los agentes del Sistema Educativo, los recursos o insumos humanos, materiales y financieros destinados a éste y demás condiciones que intervengan en el proceso de enseñanza-aprendizaje.

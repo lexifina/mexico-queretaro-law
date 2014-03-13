@@ -8,7 +8,3 @@ V. Proponer al Instituto, criterios de contextualización que orienten el diseñ
 VI. Hacer recomendaciones técnicas sobre los instrumentos de evaluación, su aplicación y el uso de sus resultados;
 VII. Opinar sobre los informes anuales que rinda el Presidente del Instituto, aportando elementos para valorar el nivel de logro de los objetivos establecidos; y
 VIII. Las demás que se establezcan en otras disposiciones normativas y que sean necesarias para el funcionamiento del Sistema Nacional de Evaluación Educativa.
-Título Cuarto
-De la equidad de la educación
-Capítulo Único
-De la equidad educativa
