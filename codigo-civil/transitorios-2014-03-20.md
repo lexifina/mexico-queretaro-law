@@ -1,0 +1,6 @@
+P.O. 20 DE MARZO DE 2014.
+Artículo Primero. La presente Ley entrará en vigor a los noventa días naturales siguientes a su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+Artículo Tercero. El titular del Poder Ejecutivo del Estado promoverá las modificaciones jurídicas e instruirá se realicen las administrativas y presupuestales necesarias para implementar las instituciones previstas en el presente ordenamiento, para el siguiente ejercicio fiscal.
+Artículo Cuarto. La Procuraduría General de Justicia y el Poder Judicial del Estado, ambos del Estado de Querétaro, dentro los sesenta días naturales siguientes al inicio de vigencia de la presente Ley, proporcionarán la capacitación técnica respectiva a los Jueces, Agentes del Ministerio Público y personal al que corresponda conocer de los procedimientos de extinción de dominio.
+Asimismo, el titular del Poder Ejecutivo del Estado, en el mismo plazo referido en el párrafo anterior, deberá proporcionar la capacitación técnica al personal de su adscripción que participe en los procedimientos de extinción de dominio.
