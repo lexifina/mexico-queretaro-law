@@ -1,0 +1,8 @@
+LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE QUERÉTARO
+Ley publicada en el Periódico Oficial del Estado de Querétaro, el domingo 29 de junio de 2014.
+LIC. JOSÉ EDUARDO CALZADA ROVIROSA,
+Gobernador Constitucional del Estado de Querétaro, a los habitantes del mismo, sabed que:
+LA QUINCUAGÉSIMA SÉPTIMA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17, FRACCIÓN XIX, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
+CONSIDERANDO…
+Por lo anteriormente expuesto, la Quincuagésima Séptima Legislatura del Estado de Querétaro, expide la:
+LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE QUERÉTARO
