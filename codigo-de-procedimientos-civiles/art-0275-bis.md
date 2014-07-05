@@ -1,12 +1,11 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
-(ADICIONADO, P.O. 22 DE JULIO DE 2011)
-Artículo 275 Bis. Contestada que sea la demanda y en su caso, la reconvención, el juez de oficio citará personalmente a las partes para que dentro de los diez días siguientes acudan a una audiencia oral conciliatoria ante el Centro de Mediación del Poder Judicial del Estado de Querétaro. Dicha audiencia se verificará sin que se suspenda el procedimiento.
-Las partes deberán comparecer personalmente o a través de representante facultado para transigir.
-La audiencia será única e indiferible y lo tratado en el proceso de mediación será confidencial, conforme lo establece el Reglamento del Centro de Mediación del Poder Judicial del Estado de Querétaro.
-El Director del Centro de Mediación, al concluir la audiencia, hará saber de inmediato al juzgador si las partes llegaron a un acuerdo o no. En el caso de que las partes lo hayan hecho, tendrá la obligación de entregar al juez el original del convenio para que sea ratificado en ese mismo momento.
-El juez, dentro de los tres días siguientes a la ratificación del convenio, lo calificará y, en su caso, lo aprobará, adquiriendo éste la categoría de cosa juzgada.
-Al citar a las partes a esta audiencia, se les apercibirá de que, en caso de no asistir sin justa causa; se les impondrá una multa por el equivalente a 100 días de salario mínimo.
-La causa para no comparecer, deberá hacerse del conocimiento del juzgador por lo menos un día antes de la fecha señalada para la audiencia, exhibiendo los comprobantes respectivos. Si se tratare de una enfermedad, el correspondiente certificado deberá ratificarse ante la presencia judicial por el médico que lo expida, el mismo día fijado para la audiencia. El juzgador podrá autorizar que el mediador se traslade, en compañía del colitigante, al lugar en que se encuentre el enfermo y ahí se llevará a cabo la audiencia.
+(REFORMADO, P.O. 4 DE JULIO DE 2014)
+Artículo 275 Bis. Contestada que sea la demanda y, en su caso, la reconvención, deberá citarse a las partes, en términos de ley para que dentro de los diez días siguientes acudan a una audiencia oral conciliatoria, la cual deberá ser desahogada por el propio juzgador o por alguno de los secretario (sic) auxiliares del juzgado.
+La tramitación y desahogo de la audiencia de conciliación no suspenderá el procedimiento.
+Las partes podrán comparecer personalmente o a través de representante legal facultado para transigir.
+La audiencia será única e indiferible y lo tratado en el proceso de conciliación será confidencial.
+En la constancia relativa deberá asentarse quiénes acudieron a la cita y si se logró o no un acuerdo conciliatorio. Para el caso de haberse logrado la conciliación, el juez o el secretario auxiliar que desahogó la audiencia, redactará inmediatamente el convenio respectivo y las partes deberán ratificarlo en el acto.
+Dentro de los tres días siguientes a la ratificación del convenio, el juzgador lo calificará y, en su caso, lo aprobará, adquiriendo éste la categoría de cosa juzgada.
+Cuando las partes no lleguen a un acuerdo o, en su caso, una o ambas partes no se presenten a la audiencia conciliatoria, ello no afectará el desarrollo del juicio, por lo que, sin mayor trámite, se deberá continuar con la secuela del procedimiento.
 Capítulo Segundo
 De la prueba
 Reglas generales
