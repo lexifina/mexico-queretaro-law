@@ -1,8 +1,8 @@
 (ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2012)
-TÍTULO NOVENO
+TITULO NOVENO
 OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 (ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2012)
-CAPÍTULO ÚNICO
+CAPITULO UNICO
 OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 (ADICIONADO, P.O. 18 DE DICIEMBRE DE 2012)
 ARTÍCULO 246-H.- Se impondrán de cinco a quince años de prisión y de mil a cinco mil días multa, al que por sí o por interpósita persona, realice cualquiera de las siguientes conductas: adquiera, enajene, administre, posea, custodie, cambie, deposite, dé en garantía, invierta, transporte o transfiera, dentro del territorio del Estado de Querétaro, de éste hacia el exterior del mismo o a la inversa, recursos, valores, bienes o derechos de cualquier naturaleza, con conocimiento de que proceden o representan el producto de una actividad ilícita, con alguno de los siguientes propósitos: ocultar o pretender ocultar, encubrir o impedir conocer el origen, localización, destino o propiedad de dichos recursos, valores, bienes o derechos, o propiciar alguna actividad ilícita.
