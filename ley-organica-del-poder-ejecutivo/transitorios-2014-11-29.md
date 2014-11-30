@@ -1,0 +1,5 @@
+P.O. 29 DE NOVIEMBRE DE 2014.
+Artículo Primero. EI (sic) presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+Artículo Tercero. Para los efectos legales a que haya lugar, la Oficialía Mayor del Poder Ejecutivo del Estado de Querétaro, sustituirá a la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro en los procedimientos contenciosos en materia laboral a que se refiere esta Ley, así como en los actos jurídicos derivados y también de los que se deriven de tales juicios, que se inicien en forma posterior a la entrada en vigor de esta Ley.
+Artículo Cuarto. Dentro de los 90 días naturales siguientes a la entrada en vigor de la presente Ley, deberán realizarse las adecuaciones que correspondan a los reglamentos interiores de la Secretaría de Gobierno y de la Oficialía Mayor, respectivamente, para armonizarlos con la presente Ley.

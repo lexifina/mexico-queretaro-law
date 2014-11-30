@@ -1,0 +1,5 @@
+P.O. 29 DE NOVIEMBRE DE 2014.
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+Artículo Tercero. Hasta en tanto se crea la Asesoría Jurídica de Víctimas de la Comisión Ejecutiva, las funciones del Asesor Jurídico Público seguirán cumpliéndose a través del área jurídica de la Dirección de Atención a Víctimas y Ofendidos del Delito, de la Procuraduría General de Justicia del Estado de Querétaro, conforme a sus posibilidades de servicio.
+Artículo Cuarto. Las disposiciones del Código de Procedimientos Penales para el Estado de Querétaro continuarán en vigencia, conforme a la gradualidad establecida en el Decreto por el que la Quincuagésima Séptima Legislatura del Estado de Querétaro, declara que en la legislación local ha quedado incorporado el Sistema Procesal Penal Acusatorio y declara el inicio de vigencia del Código Nacional de Procedimientos Penales.

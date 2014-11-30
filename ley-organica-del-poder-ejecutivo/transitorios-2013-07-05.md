@@ -1,6 +1,6 @@
 P.O. 5 DE JULIO DE 2013.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
-Artículo Segundo. El Gobernador del Estado nombrará al Director General del Instituto Queretano del Transporte, dentro los (sic) 10 diez días naturales siguientes al de la entrada en vigor de la presente Ley.
+Artículo Segundo. El Gobernador del Estado nombrará al Director General del Instituto Queretano del Transporte, dentro (sic) los 10 diez días naturales siguientes al de la entrada en vigor de la presente Ley.
 Artículo Tercero. En tanto se expide el nombramiento de Director General del Instituto, asumirá dichas funciones, en carácter de encargado de despacho, el Director de Transporte de la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro.
 Artículo Cuarto. Dentro de los quince días naturales posteriores a la entrada en vigor de la presente Ley, el Consejo Directivo del Instituto celebrará su sesión de instalación.
 Artículo Quinto. A partir de la entrada en vigor de la presente Ley, todos los programas públicos, recursos humanos, materiales y financieros asignados a la Dirección de Transporte de la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro, se transfieren al Instituto.
