@@ -1,0 +1,6 @@
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
+(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2014)
+Artículo 12-Bis. Los municipios del Estado podrán destinar o afectar a mecanismos de fuente de pago y/o garantía, las aportaciones y sus accesorios que con cargo al fondo a que se refiere el artículo 25, fracción IV de la Ley de Coordinación Fiscal reciban, en los supuestos y términos que dicha Ley establezca y de conformidad con lo dispuesto en el presente artículo.
+En este caso, las cantidades del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal que tengan derecho a recibir los municipios, podrán destinarse al pago y/o afectarse en garantía del cumplimiento de las obligaciones de pago generadas por los derechos y aprovechamientos por concepto de agua y descargas de agua residuales que deban cubrir a la Comisión Nacional del Agua o, en su caso, de sus organismos prestadores de los servicios correspondientes, en términos de lo dispuesto por los artículos 37 y 51 de la Ley de Coordinación Fiscal y las reglas que al efecto emita la Secretaría de Hacienda y Crédito Público.
+Capítulo Tercero
+Del Sistema de Colaboración Administrativa Estatal Intermunicipal
