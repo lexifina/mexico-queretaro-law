@@ -1,0 +1,5 @@
+P.O. 8 DE MAYO DE 2015.
+LEY POR LA QUE SE DEROGA EL ARTÍCULO 202 BIS Y SE REFORMAN LOS ARTÍCULOS 203 Y 207 DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO.
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+Artículo Segundo. Los Ayuntamientos de los Municipios del Estado de Querétaro, dentro de los seis meses siguientes al inicio de vigencia de la presente Ley, emitirán las disposiciones reglamentarias que correspondan o adecuarán las existentes, a efecto de que los daños que se cometan por medio de pintas de signos o grabados, mensajes o dibujos sobre bienes muebles o inmuebles ajenos o propios que no estén bajo posesión legal de quien los realiza y sin el consentimiento de quien esté facultado para otorgarlo conforme a la ley, sean sancionados de manera administrativa.
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
