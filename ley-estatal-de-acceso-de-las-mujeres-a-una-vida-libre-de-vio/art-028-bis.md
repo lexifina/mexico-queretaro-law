@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)
+Artículo 28 Bis. Las actividades a favor de la prevención y atención a la violencia contra las mujeres, que proporcionen los miembros del Sistema Estatal, como parte de la prevención y la atención a la violencia contra las mujeres, serán gratuitas.
+La rehabilitación o reeducación del agresor son una sanción o medida de seguridad, realizadas exclusivamente a solicitud de la autoridad jurisdiccional o ministerial, y serán dirigidas a erradicar las conductas violentas a través de una educación que elimine los estereotipos de supremacía masculina y los patrones que generaron la violencia.

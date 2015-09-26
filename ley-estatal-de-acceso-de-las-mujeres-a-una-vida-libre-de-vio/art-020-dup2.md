@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)
+Artículo 20. Bis. Constituyen violencia docente: aquellas conductas que dañan las diferentes dimensiones de la autoestima de las alumnas mediante la discriminación por razones de sexo, edad, condición social, académica, limitaciones o características físicas, que les infligen docentes, personal directivo o personal administrativo de la institución académica a la cual asistan, pudiendo ejecutarse dentro o fuera del recinto escolar.
