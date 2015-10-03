@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 2 DE OCTUBRE DE 2015)
+Artículo 175 Bis. Cuando proceda, el trabajador será indemnizado con salarios vencidos que se calcularán desde la fecha del despido hasta por un máximo de doce meses, a razón del que le corresponda en la fecha en que el trabajador fuera despedido.
+Si al término del plazo señalado en el párrafo anterior no ha concluido el procedimiento o no se ha dado cumplimiento al laudo, también se pagarán al trabajador los intereses que se generen sobre el importe de doce meses de salario, a razón del dos por ciento mensual, capitalizable al momento del pago. Lo dispuesto en este párrafo no será aplicable para el pago de otro tipo de indemnizaciones o prestaciones.
+En caso de muerte del trabajador, dejarán de computarse los salarios vencidos como parte del conflicto, a partir de la fecha del fallecimiento.
