@@ -1,0 +1,1 @@
+Artículo Tercero. Las referencias que se hagan del salario mínimo o al salario mínimo general de la zona, en las normas locales vigentes, en tanto no se reformen para contemplar el Factor de Cálculo, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas al Factor de Cálculo, a partir de la entrada en vigor de la presente Ley.

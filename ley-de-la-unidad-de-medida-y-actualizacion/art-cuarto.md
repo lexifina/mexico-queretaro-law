@@ -1,0 +1,1 @@
+Artículo Cuarto. Durante el ejercicio fiscal 2016, sólo será aplicable la presente Ley tratándose de las normas locales vigentes en el Estado de Querétaro, relativas a las materias fiscal, hacendaria y administrativa estatal.

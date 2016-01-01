@@ -1,0 +1,1 @@
+Artículo Quinto. Los órganos constitucionales autónomos y demás entidades públicas, deberán tomar las medidas necesarias para sustituir, en el ámbito de su competencia, las referencias al salario mínimo vigente en el Estado de Querétaro por el Factor de Cálculo.
