@@ -1,0 +1,5 @@
+P.O. 15 DE ENERO DE 2016.
+[N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE REFORMAN LAS FRACCIONES III Y IV DEL ARTÍCULO 70, LAS FRACCIONES XVII, XXIII Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 73; LA FRACCIÓN VIII, EL PRIMERO Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 74; LA FRACCIÓN V DEL ARTÍCULO 192, EL ARTÍCULO 194, ASÍ COMO LA DENOMINACIÓN DE LOS CAPÍTULOS VI Y VII, DEL APARTADO SEGUNDO, TÍTULO SEGUNDO; Y SE DEROGA LA FRACCIÓN XV DEL ARTÍCULO 73 DEL CÓDIGO MUNICIPAL DE QUERÉTARO".]
+ARTÍCULO PRIMERO.- Publíquese el presente Acuerdo en la Gaceta Oficial del Ayuntamiento del Municipio de Querétaro y en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+ARTÍCULO SEGUNDO.- El presente Acuerdo entrará en vigor el día siguiente a la fecha de la primera de las publicaciones mencionadas en el artículo transitorio anterior.
+ARTÍCULO TERCERO.- Notifíquese el presente Acuerdo a los titulares de la Secretaría Particular, Secretaría de Desarrollo Económico, Planeación Urbana y Ecología, Secretaría de Movilidad, Secretaría de Desarrollo Humano y Social y Secretaría de Administración.

@@ -16,5 +16,6 @@ VI. Realizar las acciones derivadas de la celebración de convenios y acuerdos d
 VII. Los demás que le atribuyan las leyes y reglamentos vigentes en el Estado o le asigne el Presidente Municipal.
 (REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)
 Para el despacho de los asuntos de su competencia, el Secretario de Obras Públicas Municipales se auxiliará con la Dirección de Obras Públicas, así como de los departamentos que al efecto se designen.
+(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ENERO DE 2016)
 CAPITULO VII
-Secretaría de Desarrollo Social
+De la Secretaría de Desarrollo Humano y Social
