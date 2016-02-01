@@ -1,0 +1,6 @@
+P.O. 2 DE OCTUBRE DE 2015.
+Artículo Primero. La presente Ley entrará en vigor el 1 de febrero de 2016.
+Artículo Segundo. Con la finalidad de garantizar el escalonamiento en el nombramiento de los Comisionados, se amplia por 5 años el periodo del Comisionado Presidente de la Comisión Estatal de Información Gubernamental, a partir de la entrada en vigencia de la presente reforma, quien se desempeñará como Presidente durante el periódo de su encargo.
+Artículo Tercero. La Legislatura del Estado nombrará, antes de la entrada en vigencia de la presente reforma, a dos Comisionados que conformarán, junto con el Presidente, el Pleno de la Comisión. Uno de los Comisionados será electo por 6 años y otro por 7 años, para garantizar el escalonamiento en la renovación de la Comisión.
+Artículo Cuarto. La Legislatura del Estado proveerá, en el Presupuesto de Egresos para el ejercicio del año 2016, lo necesario para garantizar el adecuado funcionamiento de Comisión Estatal de Información Gubernamental, atendiendo al incremento en sus atribuciones y estructura.
+Artículo Quinto. Los actuales Comisionados Honorarios de la Comisión Estatal de Información Gubernamental serán Consejeros del Órgano Consultivo y permanecerán en el mismo por el periodo que fueron electos.
