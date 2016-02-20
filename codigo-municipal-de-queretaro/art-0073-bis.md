@@ -1,5 +1,5 @@
 (REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2015)
-ARTICULO 73 bis.- La Secretaría de Obras Públicas Municipales, es la encargada de la proyección y construcción de las obras públicas municipales, sin perjuicio de las atribuciones conferidas a la Secretaría de Movilidad; y le corresponde el despacho de los siguientes asuntos:
+ARTICULO 73 BIS.- La Secretaría de Obras Públicas Municipales, es la encargada de la proyección y construcción de las obras públicas municipales, sin perjuicio de las atribuciones conferidas a la Secretaría de Movilidad; y le corresponde el despacho de los siguientes asuntos:
 (REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)
 l. Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras públicas, en coordinación con la Secretaría de Movilidad;
 (REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)
