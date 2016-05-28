@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 27 DE MAYO DE 2016)
+Artículo 598 Bis. Cuando el monto líquido de la condena fuere superior al valor de los bienes muebles o inmuebles, previamente valuados en los términos de este Código y del certificado de gravámenes, tratándose de inmuebles, no aparecieren otros acreedores, el ejecutante podrá optar por la adjudicación directa de los bienes que haya en su favor, al valor fijado en el avalúo.
+En el caso previsto en el párrafo anterior, al tratarse de adjudicación de inmuebles, el juez y el adjudicatario, sin más trámite, otorgarán la escritura correspondiente ante fedatario público y, previo a los trámites de ley, se pondrá en posesión material y jurídica al adjudicatario.

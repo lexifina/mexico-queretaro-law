@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 27 DE MAYO DE 2016)
+Artículo 105 Sexies. Los conductores del servicio de transporte privado a través de aplicaciones tecnológicas, además de registrarse y cumplir con los requisitos establecidos por la persona física o moral especializada en materia de transporte privado de pasajeros, deberán portar licencia de conducir y haber aprobado los exámenes toxicológicos y de capacidad, realizados por la empresa.

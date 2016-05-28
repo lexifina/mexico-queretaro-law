@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 27 DE MAYO DE 2016)
+Artículo 100 Quinquies. Las empresas especializadas deberán acreditar ante el Instituto que cuentan con la capacidad y experiencia necesaria para prestar el servicio mediante la operación, utilización y administración de aplicaciones para el control, programación, geolocalización o telemetría o similares en dispositivos fijos o móviles, a fin de que los particulares puedan contratar sus servicios.

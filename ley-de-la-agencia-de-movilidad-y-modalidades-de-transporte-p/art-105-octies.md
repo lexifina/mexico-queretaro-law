@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 27 DE MAYO DE 2016)
+Artículo 105 Octies. Las personas físicas o morales especializadas en materia de transporte privado de pasajeros, deberán acreditar ante el Instituto que cuentan con la capacidad y experiencia necesaria para prestar el servicio, operar, utilizar y administrar aplicaciones para el control, programación, geolocalización y telemetría o similares en dispositivos fijos o móviles, a fin de que los particulares puedan contratar el servicio de transporte privado de personas en el Estado de Querétaro.
