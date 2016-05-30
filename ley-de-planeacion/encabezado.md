@@ -1,4 +1,4 @@
-LEY DE PLANEACION DEL ESTADO DE QUERETARO
+LEY DE PLANEACIÓN DEL ESTADO DE QUERÉTARO
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 LIC. FRANCISCO GARRIDO PATRÓN,
 Gobernador Constitucional del Estado de Querétaro, a los habitantes del mismo, sabed que:
