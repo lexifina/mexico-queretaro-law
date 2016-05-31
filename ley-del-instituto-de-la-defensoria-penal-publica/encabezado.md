@@ -1,0 +1,12 @@
+LEY DEL INSTITUTO DE LA DEFENSORÍA PENAL PÚBLICA DEL ESTADO DE QUERÉTARO
+Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 30 de mayo de 2016.
+FRANCISCO DOMÍNGUEZ SERVIÉN,
+Gobernador del Estado de Querétaro, a los habitantes del mismo, sabed que:
+LA QUINCUAGÉSIMA OCTAVA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
+CONSIDERANDO…
+Por lo anteriormente expuesto y fundado, la Quincuagésima Octava Legislatura del Estado de Querétaro expide la siguiente:
+LEY DEL INSTITUTO DE LA DEFENSORÍA PENAL PÚBLICA DEL ESTADO DE QUERÉTARO
+Título Primero
+Del Instituto de la Defensoría Penal Pública
+Capítulo Primero
+Disposiciones generales
