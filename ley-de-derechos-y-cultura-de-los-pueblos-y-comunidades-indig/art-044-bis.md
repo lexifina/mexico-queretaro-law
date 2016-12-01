@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2016)
+Artículo 44 Bis. El reconocimiento y la regulación de la medicina tradicional será facultad de la Secretaría de Salud, la cual indicará su denominación, sustentada en el reconocimiento a la diversidad cultural del Estado; y diseñará las estrategias y programas indispensables para su ejercicio, incrementando el impacto clínico de los servicios de salud.
+La Secretaría de Salud será también la encargada de establecer las formas de supervisión de la medicina tradicional, para que se lleve a cabo de acuerdo a los lineamientos que establece la Ley de Salud del Estado de Querétaro.
