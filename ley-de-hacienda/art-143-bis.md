@@ -1,9 +1,8 @@
 (ADICIONADO, P.O. 20 DE DICIEMBRE DE 2014)
 Artículo 143-Bis. Por los servicios prestados por la Dirección de Gobierno en relación con permisos y licencias expedidas por la Secretaría de la Defensa Nacional, se causarán y pagarán los siguientes derechos:
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
-(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)
+(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)
 I. Por la expedición de cada uno de los dictámenes de anuencia en materia de armas y municiones:
-CONCEPTOVFC
+CONCEPTOUMA
 Para la fabricación de armas de fuego, cartuchos,
 cartuchos de fuego central, armas deportivas o
 municiones esféricas de plomo.50
@@ -15,10 +14,9 @@ Para coleccionistas o museos de armas de fuego.25
 Por la adquisición y posesión de nuevas armas
 destinadas al enriquecimiento de una colección
 o de un museo.1.5
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
-(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)
+(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)
 II. Por la expedición de cada uno de los dictámenes de anuencia en materia de explosivos y sustancias químicas:
-CONCEPTOVFC
+CONCEPTOUMA
 Para el almacenamiento de materiales explosivos.92
 Para la fabricación de explosivos o sustancias
 químicas relacionadas con éstos, así como para el
@@ -28,6 +26,5 @@ químicas relacionadas con éstos.92
 Para el almacenamiento de sustancias químicas en la
 fabricación y venta de artificios pirotécnicos.13
 Por la modificación de un dictamen de anuencia previamente expedido, se causarán y pagarán los mismos derechos que para su otorgamiento.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
-(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)
-Tratándose de dictámenes de anuencia por parte de la Secretaría de Gobierno, que la Secretaría de la Defensa Nacional requiera a un particular para la expedición de una licencia o permiso en materia de armas de fuego, municiones, explosivos y sustancias químicas, distintos de los previstos en el presente artículo, se causarán y pagarán 20 VFC.
+(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)
+Tratándose de dictámenes de anuencia por parte de la Secretaría de Gobierno, que la Secretaría de la Defensa Nacional requiera a un particular para la expedición de una licencia o permiso en materia de armas de fuego, municiones, explosivos y sustancias químicas, distintos de los previstos en el presente artículo, se causarán y pagarán 20 UMA.

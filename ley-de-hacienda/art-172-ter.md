@@ -1,7 +1,6 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
-(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)
+(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)
 Artículo 172 Ter. Por los servicios relativos en materia del Registro Público de Transporte, se causarán y pagarán derechos, de conformidad con las siguientes cuotas:
-CONCEPTOVFC
+CONCEPTOUMA
 Por la inscripción del concesionario de servicio1
 público o especial de transporte, en cualquiera
 de sus modalidades, así como por la modificación
@@ -32,7 +31,7 @@ Por la inscripción de alta o baja de vehículo amparado1
 por una concesión de servicio público o especial de
 transporte, en cualquiera de sus modalidades.
 Por la inscripción de refrendo autorizado de una1
-Concesión de servicio público o especial de
+concesión de servicio público o especial de
 transporte, en cualquiera de sus modalidades.
 Por la inscripción de la designación de beneficiarios1
 por persona física titular de una concesión de servicio
