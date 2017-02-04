@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 3 DE FEBRERO DE 2017)
+Artículo 23 Bis. Para los efectos de esta Ley, se consideran deportistas con discapacidad a aquellas personas que practican algún deporte y que viven con alguna deficiencia anatómica, fisiológica o sensorial, de carácter permanente o temporal, que puede ser agravada por el entorno económico y social y que limita su capacidad para ejercer una o más actividades esenciales de la vida cotidiana.
