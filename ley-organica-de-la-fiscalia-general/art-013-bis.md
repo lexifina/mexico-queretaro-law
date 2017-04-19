@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 18 DE ABRIL DE 2017)
+Artículo 13 bis. La Fiscalía Especializada en el Combate a la Corrupción, es el órgano de la Fiscalía General con autonomía técnica y operativa para la investigación y persecución de los delitos previstos en las disposiciones legales aplicables en materia anticorrupción.
+Contará con un Fiscal Especializado, que será el Titular, Fiscales, Peritos y Policías de Investigación Especializados en el Combate a la Corrupción, personal administrativo, así como de cualquier otro que se encuentre adscrito a la Fiscalía Especializada Anticorrupción necesario para el cumplimiento de sus funciones.

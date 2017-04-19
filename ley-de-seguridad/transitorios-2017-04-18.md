@@ -1,0 +1,6 @@
+P.O. 18 DE ABRIL DE 2017.
+[N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PARA EL ESTADO DE QUERÉTARO Y LA LEY DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DEL ESTADO DE QUERÉTARO".]
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+Artículo Tercero. A partir de la entrada en vigor de la presente Ley, las actividades, trámites, atenciones y procedimientos que realizaba la Dirección Ejecutiva de Atención a Víctimas perteneciente a la Subsecretaría de Prevención Social y Atención a Víctimas de la Secretaría de Seguridad Ciudadana, serán realizados por la Comisión Estatal de Atención a Víctimas de Delito.
+Artículo Cuarto. Los recursos humanos con que contaba la Dirección Ejecutiva de Atención a Víctimas perteneciente a la Subsecretaría de Prevención Social y Atención a Víctimas de la Secretaría de Seguridad Ciudadana, pasarán a formar parte (sic) la Comisión Estatal de Atención a Víctimas de Delito, conservando sus trabajadores sus derechos laborales correspondientes.
