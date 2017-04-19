@@ -1,0 +1,11 @@
+LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUERÉTARO
+Ley publicada en el Periódico Oficial del Gobierno del Estado de Querétaro, el martes 18 de abril de 2017.
+LA QUINCUAGÉSIMA OCTAVA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17, FRACCIÓN XIX, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
+CONSIDERANDO
+[…]
+Por lo expuesto, la Quincuagésima Octava Legislatura del Estado de Querétaro, expide la siguiente:
+LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUERÉTARO
+Título Primero
+De la naturaleza y competencia del Tribunal
+Capítulo Primero
+De la naturaleza del Tribunal
