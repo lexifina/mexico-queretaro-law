@@ -16,8 +16,9 @@ IV. Si de las observaciones se desprendiera la necesidad de verificar la veracid
 Sin dicha validación, la Comisión quedará imposibilitada para continuar con el trámite correspondiente; en este caso se rechazará la solicitud de pensión o jubilación.
 E. Del dictamen definitivo.
 Una vez realizado el estudio de las observaciones al proyecto de dictamen y su respectiva validación o en caso de no haber existido observaciones, la Comisión emitirá el dictamen definitivo, fundado y motivado, el que será puesto a consideración y votación del Pleno, siguiendo el trámite previsto en los Capítulos Tercero, Cuarto, Quinto y Sexto del presente Título. La resolución del Pleno que recaiga a las solicitudes tendrá el carácter de decreto.
+(REFORMADO, P.O. 12 DE MAYO DE 2017)
 F. De su aprobación en sentido favorable.
-En caso de que el Pleno de la Legislatura haya resuelto de forma favorable la solicitud para el otorgamiento de la jubilación, pensión por vejez o pensión por muerte, el decreto respectivo se remitirá para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+En caso de que el Pleno de la Legislatura haya resuelto de forma favorable la solicitud para el otorgamiento de la jubilación, pensión por vejez o pensión por muerte, el decreto respectivo se remitirá para su promulgación y publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 G. De su aprobación en sentido de rechazo.
 Cuando el Pleno de la Legislatura no apruebe la solicitud de jubilación o pensión por vejez o pensión por muerte, según sea el caso, notificará de su determinación al titular de la Oficialía Mayor o su equivalente del ente público que corresponda.
 H. Revisión de decreto de jubilación o pensión.
