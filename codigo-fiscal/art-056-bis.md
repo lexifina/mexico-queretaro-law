@@ -1,4 +1,3 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (ADICIONADO, P.O. 20 DE DICIEMBRE DE 2014)
 Artículo 56-Bis. Las declaraciones que presenten los contribuyentes serán definitivas y sólo se podrán modificar por el propio contribuyente hasta en tres ocasiones, siempre que no se haya iniciado el ejercicio de las facultades de comprobación.
 No obstante lo dispuesto en el párrafo anterior, el contribuyente podrá modificar en más de tres ocasiones las declaraciones correspondientes, aun cuando se hayan iniciado las facultades de comprobación, en los siguientes casos:

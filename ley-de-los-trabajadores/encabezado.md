@@ -1,3 +1,4 @@
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 20 de marzo de 2009.
 LIC. FRANCISCO GARRIDO PATRÓN, Gobernador Constitucional del Estado de Querétaro, a los habitantes del mismo, sabed que:

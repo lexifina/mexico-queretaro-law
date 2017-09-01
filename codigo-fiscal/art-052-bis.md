@@ -1,4 +1,3 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (ADICIONADO, P.O. 20 DE DICIEMBRE DE 2014)
 Artículo 52-Bis. En el caso de consultas que se presenten ante las autoridades fiscales, además de lo señalado en el artículo anterior, deberá cumplirse con lo siguiente:
 I. Indicar si los hechos o circunstancias sobre los que versa la promoción han sido previamente planteados ante la misma autoridad u otra distinta, o han sido materia de medios de defensa ante autoridades administrativas o jurisdiccionales y, en su caso, el sentido de la resolución.
