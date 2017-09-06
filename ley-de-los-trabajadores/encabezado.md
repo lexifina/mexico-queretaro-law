@@ -3,7 +3,8 @@ LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 20 de marzo de 2009.
 LIC. FRANCISCO GARRIDO PATRÓN, Gobernador Constitucional del Estado de Querétaro, a los habitantes del mismo, sabed que:
 LA QUINCUAGÉSIMA QUINTA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17 II Y 19 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO, Y
-CONSIDERANDO...
+CONSIDERANDO
+[...]
 Por lo anteriormente expuesto, la Quincuagésima Quinta Legislatura del Estado de Querétaro, aprueba la siguiente:
 LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO
 Título Primero

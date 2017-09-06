@@ -25,3 +25,4 @@ Rúbrica
 Ing. Germán Giordano Bonilla
 Secretario de Planeación y Finanzas
 Rúbrica
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
