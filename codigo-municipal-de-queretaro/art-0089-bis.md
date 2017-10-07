@@ -1,0 +1,2 @@
+(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE OCTUBRE DE 2017)
+ARTICULO 89 BIS.- La Administración Pública Municipal se abstendrá de exigir el examen de gravidez, el certificado médico de no embarazo y de Virus de Inmunodeficiencia Humana (VIH), como requisito de ingreso, permanencia o ascenso en el centro de trabajo, así como el despido o la coacción de la renuncia por motivos de embarazo, cambio de estado civil o tener bajo cuidado a familiares dependientes.
