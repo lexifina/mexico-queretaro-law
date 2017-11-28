@@ -3,4 +3,5 @@ Artículo 82 Bis. Sin perjuicio de lo establecido en el artículo anterior, el P
 Para efectos del presente artículo, se deberá entregar a la Entidad Superior de Fiscalización del Estado de Querétaro, a más tardar el día 15 de enero del referido año, un calendario de aportaciones que tenga como objetivo constituir dicha reserva.
 El calendario deberá incluir los compromisos mensuales de aportación a la mencionada reserva, para cada uno de los meses del periodo enero a agosto del citado ejercicio. Dichos compromisos serán comprobados mensualmente por la Entidad Superior de Fiscalización del Estado de Querétaro.
 La reserva a que se refiere el primer párrafo de este artículo, no podrá destinarse a fines distintos a los establecidos en el mismo.
-El incumplimiento a lo señalado en este artículo, dará lugar al inicio de un procedimiento administrativo sancionatorio a los servidores públicos que incurran en dicha omisión, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro.
+(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2017)
+El incumplimiento a lo señalado en este artículo, dará lugar al inicio de un procedimiento administrativo sancionatorio a los servidores públicos que incurran en dicha omisión, en términos de la legislación aplicable.

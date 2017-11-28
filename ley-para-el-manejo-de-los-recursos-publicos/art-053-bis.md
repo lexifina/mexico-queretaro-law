@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2017)
+Artículo 53 Bis. El Financiamiento Propio se integra por los recursos que, al cierre del ejercicio fiscal, se tengan en la tesorería de los Sujetos de la Ley, así como, en su caso, los que provengan de Disponibilidades o de transferencias federales que no fueron pagadas ni devengadas. Dicho Financiamiento Propio podrá ser de libre disposición o etiquetado, según su naturaleza.
