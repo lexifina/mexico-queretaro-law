@@ -10,4 +10,5 @@ b) Se deberá fijar un plazo para el registro de los aspirantes, quienes en su r
 c) Se solicitará un ensayo con temática referente a la procuración de justicia en materia de combate a la corrupción.
 d) Contemplará una etapa en la que los aspirantes acudirán a exponer su perfil, su experiencia y su proyecto de trabajo, de manera pública, ante los integrantes de la Quincuagésima Octava Legislatura del Estado de Querétaro. Dichas audiencias serán presididas por la Junta de Coordinación Política.
 e) El procedimiento incluirá la etapa de dictaminación, propuesta y elección del Fiscal Especializado en el Combate a la Corrupción.
-Artículo Sexto. El funcionamiento del Centro de Evaluación y Control de Confianza entrará en vigor el 1 de enero de 2018.
+(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)
+Artículo Sexto. El funcionamiento del Centro de Evaluación y Control de Confianza entrará en vigor el 2 de julio de 2018.

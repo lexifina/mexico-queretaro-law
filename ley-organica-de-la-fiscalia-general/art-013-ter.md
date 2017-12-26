@@ -7,4 +7,5 @@ III. Contar con una residencia en el Estado de Querétaro de cuando menos tres a
 IV. Contar con título profesional de Licenciado en Derecho con una antigüedad mínima de cinco años;
 V. Tener cuando menos cinco años de experiencia en la procuración de justicia o bien cinco años de reconocida trayectoria en materia de derecho penal; y
 VI. No haber sido condenado por delito doloso y gozar de buena reputación.
-Las ausencias del Fiscal Anticorrupción se suplirán por el Titular de la Dirección adscrita a la Fiscalía Anticorrupción.
+(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)
+Las ausencias del Fiscal Anticorrupción se suplirán por el Titular de la Dirección adscrita a la Fiscalía Anticorrupción o, en su caso, por el servidor público que designe el Fiscal Anticorrupción.
