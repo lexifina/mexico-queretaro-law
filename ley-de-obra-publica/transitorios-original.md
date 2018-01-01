@@ -6,7 +6,7 @@ ARTÍCULO CUARTO.- El Ejecutivo del Estado expedirá el reglamento de esta ley e
 ARTÍCULO QUINTO.- Las disposiciones administrativas expedidas en esta materia, vigentes al momento de la publicación de este ordenamiento se seguirán aplicando en todo lo que no se opongan a la presente ley, en tanto se expidan las que deban sustituirlas.
 ARTÍCULO SEXTO.- Los procedimientos de contratación, de aplicación de sanciones y de inconformidades, así como los demás asuntos que se encuentren en trámite o pendiente de solución se tramitarán y resolverán conforme a las disposiciones vigentes al momento en que se inician.
 ARTÍCULO SÉPTIMO.- Los contratos de obra pública y servicios relacionados con las mismas que se encuentren vigentes al entrar en vigor esta ley, continuarán rigiéndose por las disposiciones vigentes en el momento en que se celebraron.
-ARTICULO OCTAVO.- Al inicio de la vigencia de la Ley de Procedimiento Administrativo, quedará sin efectos en su totalidad, el capitulo VIII de la presente ley.
+ARTÍCULO OCTAVO.- Al inicio de la vigencia de la Ley de Procedimiento Administrativo, quedará sin efectos en su totalidad, el capitulo VIII de la presente ley.
 LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y MANDARÁ SE IMPRIMA, PUBLIQUE Y OBSERVE.
 DADA EN EL RECINTO OFICIAL DEL PODER LEGISLATIVO A LOS ONCE DÍAS DEL MES DE SEPTIEMBRE DEL AÑO DOS MIL TRES.
 A T E N T A M E N T E
