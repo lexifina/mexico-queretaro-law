@@ -1,4 +1,4 @@
-LEY PARA EL FOMENTO DE LA INVESTIGACION CIENTIFICA, TECNOLOGICA E INNOVACION DEL ESTADO DE QUERETARO
+LEY PARA EL FOMENTO DE LA INVESTIGACIÓN CIENTÍFICA, TECNOLÓGICA E INNOVACIÓN DEL ESTADO DE QUERÉTARO
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 30 de enero de 2010.
 LIC. JOSÉ EDUARDO CALZADA ROVIROSA,
 Gobernador Constitucional del Estado de Querétaro, a los habitantes del mismo, sabed que:
