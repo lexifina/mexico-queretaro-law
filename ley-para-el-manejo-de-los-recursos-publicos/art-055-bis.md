@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 9 DE MAYO DE 2018)
+Artículo 55 Bis. Corresponde a las oficialías mayores o equivalentes de los Sujetos de la Ley, emitir las disposiciones administrativas que permitan la racionalidad en el ejercicio del gasto corriente, establecer los mecanismos de control para una adecuada gestión y manejo de dicho gasto, de los almacenes y los inventarios, así como emitir los lineamientos en materia del ejercicio de recursos tratándose de servicios personales.

@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 9 DE MAYO DE 2018)
+Artículo 80 Bis. Son ayudas sociales las asignaciones que se otorgan a personas, instituciones y diversos sectores de la población, de acuerdo a los programas institucionales, así como las ayudas extraordinarias para adquisición o mejoramiento de vivienda, su equipamiento y becas que se otorguen a favor de los servidores públicos y/o sus dependientes económicos.
+Para fines del párrafo anterior, los titulares de las dependencias o los ejecutores de gasto, deberán identificar la población objetivo, el propósito o destino principal, la temporalidad de su otorgamiento, así como los mecanismos de distribución, operación y administración que permitan garantizar que los recursos se entreguen a la población objetivo.
