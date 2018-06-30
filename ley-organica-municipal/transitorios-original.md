@@ -1,27 +1,30 @@
 TRANSITORIOS
-ARTICULO PRIMERO.- Se abroga la Ley Orgánica Municipal del Estado de Querétaro, expedida con fecha veinticinco de junio de mil novecientos noventa y tres, publicada en el periódico Oficial de Gobierno del Estado "La Sombra de Arteaga" de fecha quince de Julio de 1993 mil novecientos noventa y tres;
-ARTICULO SEGUNDO.- La presente Ley entrará en vigor a partir del 1º de junio del 2001, con excepción de lo establecido en la Fracción V y VI del Artículo 112 de la presente Ley, cuyos efectos serán exigibles a partir del 1º de enero del año 2002.
-ARTICULO TERCERO.- Los Ayuntamientos expedirán o adecuarán sus reglamentos a más tardar en 6 meses contados a partir de la publicación de la presente Ley. En tanto estos se expidan o adecuen, se aplicarán las disposiciones reglamentarias existentes, en todo aquello que no se opongan a la presente ley.
-ARTICULO CUARTO.- Se derogan todas las disposiciones que se opongan a la presente ley.
-ARTICULO QUINTO.- Las concesiones, licencias y permisos otorgados con anterioridad a la entrada en vigor del presente decreto, continuarán vigentes hasta que concluya el plazo fijado en los mismos, salvo que se actualice alguna causa de revocación, caducidad o rescate.
-ARTICULO SEXTO.- Las solicitudes (sic) se encuentren en trámite y en fase de dictamen presentadas con anterioridad a la entrada en vigor de la presente Ley, se sustanciarán bajo las disposiciones de la ley que se abroga.
-ARTICULO SÉPTIMO.- Los procedimientos de revocación de mandato, así como los relativos a conflictos de límites entre municipios, que se encuentren en trámite en la Legislatura del Estado a la entrada en vigor de la presente Ley, continuarán sustanciándose bajo las disposiciones de la Ley que se abroga.
-LO TENDRA ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y MANDARA SE IMPRIMA, PUBLIQUE Y OBSERVE.
-DADO EN EL RECINTO OFICIAL DEL PODER LEGISLATIVO A LOS VEINTICUATRO DIAS DEL MES DE ABRIL DEL AÑO DOS MIL UNO.
-A T E N T A M E N T E
-SUFRAGIO EFECTIVO. NO REELECCIÓN
+PRIMERO.- La presente Ley entrará en vigor el día 1º de enero del año 2003.
+SEGUNDO.- En virtud de la firma de los convenios de límites territoriales firmados en el año 2002 entre diversos Municipios, y hasta en tanto el Instituto Nacional de Estadística, Geografía e Informática emita oficialmente en cualquier publicación los cambios derivados en habitantes y territorio de los Municipios que hubieren firmado los convenios de referencia, los porcentajes a que se refiere esta Ley serán revisados y modificados por la Secretaría de Planeación y Finanzas, debiendo actualizar únicamente lo referente a esa información y sólo a los municipios involucrados, debiendo dar aviso a la Legislatura en un plazo no mayor a 20 días después de realizadas las actualizaciones.
+TERCERO.- Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+LO TENDRA ENTENDIDO EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO DE QUERÉTARO Y MANDARÁ SE IMPRIMA, PUBLIQUE Y OBSERVE.
+DADO EN EL RECINTO OFICIAL DEL PODER LEGISLATIVO A LOS VEINTICUATRO DÍAS DEL MES DE OCTUBRE DEL AÑO 2002.
+ATENTAMENTE
+LIII LEGISLATURA DEL ESTADO DE QUERÉTARO
 MESA DIRECTIVA
-DIP. JOSE IGNACIO FERNANDEZ GARCIA
+DIP. ODILÓN HERNÁNDEZ GUERRERO
 PRESIDENTE
-DIP. RIGOBERTO TORRES SAUCEDA
+Rúbrica
+DIP. HUGO COVARRUBIAS ALVARADO
+VICEPRESIDENTE
+Rúbrica
+DIP. OSCAR SÁNCHEZ AGUILAR
 PRIMER SECRETARIO
-DIP. RAUL ROGELIO CHAVARRIA SALAS
+Rúbrica
+DIP. JUAN JOSÉ FLORES SOLÓRZANO
 SEGUNDO SECRETARIO
-Ing. Ignacio Loyola Vera, Gobernador Constitucional del Estado de Querétaro, en ejercicio de lo dispuesto por el artículo 57 fracción I de la Constitución Política del Estado Libre y Soberano de Querétaro Arteaga; expido y promulgo la presente Ley en el Palacio de la Corregidora, sede del Poder Ejecutivo del Estado a los veinticuatro días del mes de mayo del año dos mil uno, para su debida publicación y observancia.
+Rúbrica
+Ing. Ignacio Loyola Vera, Gobernador Constitucional del Estado de Querétaro, en ejercicio de lo dispuesto por el artículo 57 fracción I de la Constitución Política del Estado Libre y Soberano de Querétaro Arteaga; expido y promulgo la Ley que fija las bases, montos y plazos conforme a las cuales se distribuirán las participaciones federales correspondientes a los Municipios del Estado de Querétaro para el Ejercicio Fiscal 2003, en el Palacio de la Corregidora, sede del Poder Ejecutivo del Estado a los doce días del mes de noviembre del año dos mil dos, para su debida publicación y observancia.
 SUFRAGIO EFECTIVO. NO REELECCIÓN
 "UNIDOS POR QUERÉTARO"
 ING. IGNACIO LOYOLA VERA
 GOBERNADOR CONSTITUCIONAL DEL ESTADO
-LIC. MARIA GUADALUPE MURGUIA GUTIERREZ
+Rúbrica
+LIC. BERNARDO GARCÍA CAMINO
 SECRETARIO DE GOBIERNO
-N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+Rúbrica.
