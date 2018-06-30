@@ -14,5 +14,6 @@ XI. Solicitar la aplicación de medidas cautelares, la imposición de penas y me
 XII. Intervenir en los procedimientos de ejecución de sanciones penales conforme a las disposiciones legales aplicables; y
 XIII. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
 La Fiscalía Anticorrupción contará con los órganos, las direcciones y el personal necesario para el cumplimiento de sus atribuciones y que se establezcan en las disposiciones reglamentarias.
-Capítulo Cuarto
-De los Vice Fiscales
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE JUNIO DE 2018)
+Capítulo Tercero Ter
+De la Fiscalía Especializada para la Investigación y Persecución de los Delitos de Desaparición Forzada de Personas y Desaparición Cometida por Particulares.
