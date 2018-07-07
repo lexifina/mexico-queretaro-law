@@ -1,0 +1,5 @@
+P.O. 7 DE JULIO DE 2018.
+[N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO Y DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO".]
+Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+Artículo Segundo. Lo previsto en el párrafo tercero, del artículo 75, de la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, vigente a partir del 10 de mayo de 2018, no será aplicable respecto de las autorizaciones de ayudas sociales emitidas durante el periodo comprendido entre la fecha antes mencionada y aquella en que se publique la presente Ley. El trámite de autorización y otorgamiento de las ayudas sociales a que se refiere el presente artículo, estarán a lo dispuesto por el artículo 55 de la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro.
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo previsto en la presente Ley.

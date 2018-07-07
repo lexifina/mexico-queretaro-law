@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 7 DE JULIO DE 2018)
+Artículo 49 Bis. Si durante el desarrollo del proceso legislativo correspondiente al Proyecto de Decreto de Presupuesto de Egresos del Estado, se formularan propuestas diversas que impliquen la modificación al proyecto remitido por el Poder Ejecutivo del Estado, la Legislatura observará que dichas modificaciones atiendan a lo dispuesto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, en la Ley General de Contabilidad Gubernamental y en las demás disposiciones que regulan el gasto público.

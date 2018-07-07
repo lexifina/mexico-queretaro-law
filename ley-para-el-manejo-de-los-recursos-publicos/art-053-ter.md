@@ -1,2 +1,2 @@
-(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2017)
-Artículo 53 Ter. Los Sujetos de la Ley, adicionalmente a los ingresos que establece la fracción V del artículo 29 de esta Ley, deberán estimar el monto del Financiamiento Propio con que iniciarán el ejercicio fiscal que corresponda.
+(REFORMADO, P.O. 7 DE JULIO DE 2018)
+Artículo 53 Ter. Los Sujetos de la Ley, adicionalmente a los ingresos que establece la fracción V del artículo 29 de esta Ley, deberán estimar el monto del Financiamiento Propio con que iniciarán el ejercicio fiscal que corresponda, debiendo identificar aquellos recursos etiquetados, ya sean de origen federal o local, que estén comprometidos, devengados, o vinculados a compromisos formales de pago, así como los que sean de libre disposición.
