@@ -1,0 +1,12 @@
+P.O. 26 DE SEPTIEMBRE DE 2018.
+[N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO".]
+Artículo Primero. La presente Ley entrará en vigor el día 26 de septiembre de 2018.
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+Artículo Tercero. La entrada en vigor de la presente Ley, no afectará la conformación de los órganos del Poder Legislativo, los cuales se entenderán integrados en los mismos términos en que venían funcionando y hasta la conclusión de la LVIII Legislatura del Estado, aún en caso de las Comisiones que hayan cambiado de denominación.
+Artículo Cuarto. Para el ejercicio fiscal 2018, los órganos y dependencias del Poder Legislativo, continuarán funcionando con los mismos recursos asignados para el cumplimiento de sus facultades y obligaciones.
+Artículo Quinto. La duración de la Mesa Directiva que se encuentre en funciones al momento de que entré en vigor la presente Ley, se ajustará a lo dispuesto por el artículo 120 de este mismo ordenamiento, para que la Mesa Directiva que sea electa, inicie el periodo el veintiséis de septiembre del año en curso.
+Artículo Sexto. Para efectos de la integración y conformación de las comisiones de dictamen que establece el artículo 145 de la presente Ley, se estará a dicha conformación para el inicio de los trabajos de la Legislatura del Estado, es decir, a partir del 26 de septiembre de 2018.
+Hasta en tanto entra en vigor dicha disposición, la integración de las comisiones (competencia) se estará a las disposiciones de la presente Ley, en lo que no contravenga su funcionamiento.
+Artículo Séptimo. A partir de la vigencia de la presente Ley, las dependencias que cambien su denominación, conformación y atribuciones, deberán realizar los ajustes, avisos, notificaciones, cambios de nomenclatura y demás trámites administrativos que sean necesarios para el cumplimiento de sus funciones y obligaciones.
+Para tal efecto deberá considerarse en los procesos de entrega recepción tal situación y condiciones que requiera ser aclarada o manifiesta.
+Artículo Octavo. Los recursos humanos, materiales y financieros considerados para el ejercicio fiscal 2018 se seguirán ejerciendo según lo aprobado para tal efecto, la legislatura deberá considerar los ajustes necesarios para el correcto funcionamiento de sus órganos y dependencias en los ejercicios posteriores, de conformidad con las disposiciones legales aplicables.
