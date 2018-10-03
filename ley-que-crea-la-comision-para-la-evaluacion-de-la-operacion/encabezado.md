@@ -1,0 +1,12 @@
+LEY QUE CREA LA COMISIÓN PARA LA EVALUACIÓN DE LA OPERACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO DEL ESTADO DE QUERÉTARO, DENOMINADA "COSMOS"
+Ley publicada en el Número 87 del Periódico Oficial del Estado de Querétaro, el miércoles 3 de octubre de 2018.
+FRANCISCO DOMÍNGUEZ SERVIÉN, Gobernador del Estado de Querétaro, a los habitantes del mismo, sabed que:
+LA QUINCUAGÉSIMA OCTAVA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
+CONSIDERANDO
+[…]
+Por lo anteriormente expuesto, la Quincuagésima Octava Legislatura del Estado de Querétaro, expide la siguiente:
+LEY QUE CREA LA COMISIÓN PARA LA EVALUACIÓN DE LA OPERACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO DEL ESTADO DE QUERÉTARO, DENOMINADA "COSMOS"
+Título Primero
+Disposiciones Generales
+Capítulo Único
+Objeto de la Comisión de Evaluación
