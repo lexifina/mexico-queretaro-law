@@ -1,3 +1,4 @@
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 LEY DEL NOTARIADO DEL ESTADO DE QUERETARO
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 26 de junio de 2009.
 LIC. FRANCISCO GARRIDO PATRON, Gobernador Constitucional del Estado de Querétaro, a los habitantes del mismo, sabed que:
