@@ -1,0 +1,4 @@
+P.O. 3 DE OCTUBRE DE 2018.
+[N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO Y DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, EN MATERIA DE COMUNICACIÓN SOCIAL".]
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", con excepción de sus disposiciones en materia de comunicación social, cuyo inicio de vigencia se sujetará a lo dispuesto en los Artículos Transitorios del Decreto por el que se expide la Ley General de Comunicación Social.
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo previsto en la presente Ley.
