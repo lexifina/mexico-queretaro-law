@@ -1,4 +1,3 @@
-(DEROGADO SEGUNDO PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)
 (ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)
 ARTICULO 166 BIS.- Se podrán aumentar hasta en dos terceras partes de las penas previstas en los artículos 165 y 166, cuando el delito se cometa:
 I. Con intervención directa o inmediata de dos o más personas;
