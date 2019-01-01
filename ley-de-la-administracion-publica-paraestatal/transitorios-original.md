@@ -16,7 +16,7 @@ DIP. JOSÉ GUADALUPE GARCÍA RAMÍREZ
 PRIMER SECRETARIO
 Rúbrica
 Lic. Francisco Garrido Patrón, Gobernador Constitucional del Estado de Querétaro, en ejercicio de lo dispuesto por el artículo 22, fracción I de la Constitución Política del Estado de Querétaro; expido y promulgo la presente Ley de la Administración Pública Paraestatal del Estado de Querétaro.
-Dado en el Palacio de la Corregidora, sede del Poder Ejecutivo del Estado de Querétaro, en la Ciudad de Santiago de Querétaro, Qro:, el día dieciséis del mes de junio del año dos mil nueve, para su debida publicación y observancia.
+Dado en el Palacio de la Corregidora, sede del Poder Ejecutivo del Estado de Querétaro, en la Ciudad de Santiago de Querétaro, Qro., el día dieciséis del mes de junio del año dos mil nueve, para su debida publicación y observancia.
 Lic. Francisco Garrido Patrón
 Gobernador Constitucional del Estado de Querétaro
 Rúbrica

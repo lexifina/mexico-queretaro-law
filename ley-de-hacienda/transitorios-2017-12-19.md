@@ -5,7 +5,7 @@ La reforma y adición al artículo 6 bis de la Ley de Deuda Pública del Estado 
 Lo dispuesto en el artículo 150 de la Ley de Hacienda del Estado de Querétaro, estará en vigor hasta en tanto el Comité Coordinador del Sistema Nacional Anticorrupción establezca la operación del Sistema nacional de Servidores públicos y particulares sancionados, previsto por el artículo 49, fracción III, de la Ley General del Sistema Nacional Anticorrupción.
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
 Artículo Tercero. Las disposiciones de vigencia anual relativas a la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2018, serán las siguientes:
-l. (DEROGADA, P.O. 3 DE OCTUBRE DE 2018)
+I. (DEROGADA, P.O. 3 DE OCTUBRE DE 2018)
 II. (DEROGADA, P.O. 3 DE OCTUBRE DE 2018)
 III. (DEROGADA, P.O. 3 DE OCTUBRE DE 2018)
 IV. (DEROGADA, P.O. 3 DE OCTUBRE DE 2018)
