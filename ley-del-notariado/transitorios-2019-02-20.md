@@ -1,0 +1,10 @@
+P.O. 20 DE FEBRERO DE 2019.
+[N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DEL NOTARIADO DEL ESTADO DE QUERÉTARO".]
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+Artículo Segundo. Las reformas a la Ley del Notariado del Estado de Querétaro que, a la fecha de aprobación de esta Ley se encuentren pendientes de entrar en vigor, iniciarán su vigencia a partir de la publicación de la presente Ley.
+Las referencias al Instituto de la Función Registral del Estado de Querétaro se entenderán realizadas al Registro Público de la Propiedad y del Comercio del Estado de Querétaro y al Archivo General de Notarias del Estado de Querétaro según corresponda, hasta en tanto entra en vigor la Ley que crea el Instituto de la Función Registral del Estado de Querétaro.
+Artículo Tercero. Los Notarios Adscritos nombrados a la entrada en vigor de la presente reforma, se les reconocerá el carácter de Notarios Titulares y permanecerán en la Notaría y adscripción a la que hayan sido asignados.
+Los Notarios deberán concluir los trámites y procedimientos que se hayan substanciado hasta la entrada en vigor de la presente reforma, conforme a la legislación y demás normatividad aplicable, por lo que tendrán la obligación de finalizar los actos que debían constar en el mismo protocolo.
+La Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro realizará las gestiones correspondientes para que los Notarios Titulares que no cuenten con sello, reciban la autorización y se les expida uno a su costa a fin de que desempeñen su función notarial.
+Adicionalmente, la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro realizará las acciones de apertura de Protocolo en los supuestos que corresponda.
+Artículo Cuarto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
