@@ -3,7 +3,8 @@ Artículo 28 decies. El Secretario Técnico del Sistema Estatal de Atención a V
 I. Analizar los casos de las víctimas de violación de Derechos Humanos o de violencia no constitutiva de delito;
 II. Canalizar ante las instancias, instituciones y dependencias competentes a las víctimas de violencia o violación de Derechos Humanos no constitutivos de delito;
 III. Estudiar, valorar y seguir ante las instancias de atención el proceso de las víctimas que les hayan sido canalizadas;
-IV. Solicitar estudios, programas y diagnósticos a la Comisión Estatal de Atención a Víctimas de Delito;
+(REFORMADA, P.O. 6 DE MARZO DE 2019)
+IV. Solicitar estudios, programas y diagnósticos a la Comisión Estatal de Atención Integral a Víctimas;
 V. Realizar el seguimiento del Sistema Estatal de Atención a Víctimas;
 VI. Supervisar la atención de víctimas de delito;
 VII. Elaborar anualmente el proyecto de Programa de Atención Integral a Víctimas y demás instrumentos programáticos relacionados con la protección, ayuda, asistencia, atención, defensa de los Derechos Humanos, acceso a la justicia, a la verdad y a la reparación integral de las víctimas;

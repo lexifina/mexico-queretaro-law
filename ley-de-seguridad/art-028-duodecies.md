@@ -1,2 +1,2 @@
-(ADICIONADO, P.O. 18 DE ABRIL DE 2017)
-Artículo 28 duodecies. La Comisión Estatal, es la Dirección perteneciente a la Subsecretaría de Prevención Social y Atención a Víctimas de la Secretaría de Seguridad, responsable de implementar la atención a las víctimas de delito, a través de la atención inmediata, asesoría jurídica y fondo compensatorio.
+(REFORMADO, P.O. 6 DE MARZO DE 2019)
+Artículo 28 duodecies. La Comisión Estatal de Atención Integral a Víctimas, es el órgano operativo del Sistema Estatal de Atención a Víctimas, que tiene la obligación de atender, asistir y, en su caso, reparar a las víctimas de delitos del fuero común o de violaciones a derechos humanos cometidos por servidores públicos del orden estatal o municipal en términos de las disposiciones legales aplicables en la materia.

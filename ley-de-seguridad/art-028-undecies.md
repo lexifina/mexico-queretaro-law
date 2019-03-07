@@ -8,6 +8,6 @@ V. Efectuar todas aquellas acciones necesarias para el desarrollo de las sesione
 VI. Llevar el archivo de los acuerdos adoptados por el Sistema Estatal de Atención a Víctimas;
 VII. Elaborar el proyecto del Reglamento del Sistema Estatal de Atención a Víctimas y sus modificaciones para la aprobación de sus integrantes; y
 VIII. Las demás que le instruya el Presidente del Sistema Estatal de Atención as (sic) Víctimas.
-(ADICIONADA, P.O. 18 DE ABRIL DE 2017)
+(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MARZO DE 2019)
 Sección Segunda
-De la Comisión Estatal de Atención a Víctimas de Delito
+De la Comisión Estatal de Atención Integral a Víctimas
