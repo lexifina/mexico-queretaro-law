@@ -1,3 +1,4 @@
+[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 13 DE DICIEMBRE DE 2008, PÁGINA 8592.]
 N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (ADICIONADO, P.O. 20 DE DICIEMBRE DE 2014)
 Artículo 12-Bis. Los municipios del Estado podrán destinar o afectar a mecanismos de fuente de pago y/o garantía, las aportaciones y sus accesorios que con cargo al fondo a que se refiere el artículo 25, fracción IV de la Ley de Coordinación Fiscal reciban, en los supuestos y términos que dicha Ley establezca y de conformidad con lo dispuesto en el presente artículo.

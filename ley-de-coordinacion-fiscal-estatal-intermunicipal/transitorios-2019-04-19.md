@@ -1,0 +1,5 @@
+P.O. 19 DE ABRIL DE 2019.
+[N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN FISCAL ESTATAL INTERMUNICIPAL DEL ESTADO DE QUERÉTARO Y DE LA LEY QUE FIJA LAS BASES, MONTOS Y PLAZOS CONFORME A LOS CUALES SE DISTRIBUIRÁN LAS PARTICIPACIONES FEDERALES CORRESPONDIENTES A LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, PARA EL EJERCICIO FISCAL 2019".]
+Artículo Primero. La presente Ley entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+Artículo Segundo. Se derogan todas aquellas disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
+Artículo Tercero. Se autoriza a la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado de Querétaro, para realizar las adecuaciones presupuestales que resulten necesarias a fin de dar cumplimiento a lo dispuesto en esta Ley, así como para efectuar los ajustes que se requieran a efecto de que la distribución del Fondo de Fomento Municipal y las participaciones federales correspondientes a 2019 entre los municipios del Estado, se realice con arreglo a lo previsto en la presente Ley.
