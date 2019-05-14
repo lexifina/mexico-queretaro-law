@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 14 DE MAYO DE 2019)
+Artículo 22 Ter. Tratándose de la adquisición de bienes y servicios en materia de seguridad, adicionalmente a lo establecido en los artículos 20 y 22 de esta Ley, los ejecutores de gasto a que se refiere la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, podrán acordar con las autoridades de la Federación dicha adquisición, a través de mecanismos o procedimientos de contrataciones consolidadas, en los términos previstos en los convenios y demás instrumentos jurídicos que al efecto se suscriban.
+En los casos de las contrataciones consolidadas a las que se refiere el párrafo anterior, no se requerirá la autorización por parte de los comités de adquisiciones señalados en el artículo 19 de esta Ley.
