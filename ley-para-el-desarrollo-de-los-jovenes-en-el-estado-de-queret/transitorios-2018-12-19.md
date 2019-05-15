@@ -11,7 +11,7 @@ Enero10%
 Febrero8%
 Marzo5%
 III. Se cancelan los créditos fiscales por incosteabilidad en el cobro.
-Para efectos de esta fracción, se considerán créditos de cobro incosteable, aquellos cuyo importe histórico al 31 de diciembre de 2018, sea inferior o igual al equivalente en moneda nacional a 2000 unidades de inversión.
+Para efectos de esta fracción, se consideran créditos de cobro incosteable, aquellos cuyo importe histórico al 31 de diciembre de 2018, sea inferior o igual al equivalente en moneda nacional a 2000 unidades de inversión.
 Se cancelan los adeudos del Impuesto Sobre Tenencia o Uso de Vehículos, así como los derechos por control vehicular previstos en la Ley de Hacienda del Estado de Querétaro, generados por los ejercicios fiscales 2014 y anteriores.
 IV. Las personas que resulten beneficiarias de los apoyos contenidos en el Programa de Apoyo a la Tenencia gozarán de una reducción en el impuesto sobre tenencia o uso de vehículos previsto en la Ley de Hacienda del Estado de Querétaro a su cargo, del noventa y nueve por ciento;
 V. Las autoridades fiscales podrán restituir las cantidades pagadas por los particulares por concepto de derechos contenidos en la Ley de Hacienda del Estado de Querétaro, siempre y cuando:
