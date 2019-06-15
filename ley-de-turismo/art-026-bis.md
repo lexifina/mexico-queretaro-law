@@ -6,5 +6,6 @@ III. Realizar eventos en el Estado, que permitan atraer al turista local, nacion
 IV. Con la colaboración de las autoridades competentes Federales, Estatales y Municipales, implementar programas que impulsen el desarrollo del turismo cultural, como una atracción turística de nuestro Estado a nivel nacional e internacional;
 V. Ofrecer información especializada y oportuna encaminada a promover la visita a los Pueblos Mágicos con que cuenta el Estado; y
 VI. En coordinación con instituciones y organizaciones privadas, autoridades Federales, Estatales, Municipales, el sector empresarial y hotelero, crear planes y programas que permitan la difusión en el Estado del turismo cultural.
-Capítulo Sexto
-De los mecanismos de coordinación
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE JUNIO DE 2019)
+Capítulo Quinto Ter
+De los pueblos con tradición

@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 14 DE JUNIO DE 2019)
+Artículo 26 Ter. Podrán ser considerados para declararse como Pueblo con tradición, aquellas localidades del Estado que cuentan con un atractivo turístico que las hace singular respecto de otros lugares, que han conservado y valorado su herencia natural, histórica o cultural y que cumplen con los lineamientos de incorporación y permanencia establecidos por la Secretaría.
