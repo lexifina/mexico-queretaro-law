@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 12 DE JULIO DE 2019)
+ARTICULO 235 TER.- Comete el delito de falsificación de objetos, vestimenta, insignias o equipo de una corporación policial o de cualquier institución de seguridad, el que sin autorización de la institución correspondiente fabrique, confeccione, produzca, imprima o pinte, cualquiera de los uniformes, insignias, credenciales de identificación, medallas, divisas, gafetes, escudos, documentos, adheribles, distintivos o piezas que contengan imágenes, siglas u otros elementos utilizados exclusivamente en dichas instituciones.
+La comisión de este delito se sancionará con una pena de 3 meses a 5 años de prisión y de 20 a 200 veces el valor diario de la UMA, además del decomiso.

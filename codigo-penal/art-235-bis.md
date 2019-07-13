@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 12 DE JULIO DE 2019)
+ARTICULO 235 BIS.- Al que sin un fin lícito, porte o utilice objetos, vestimenta, insignias, identificaciones o equipo falsos de una corporación policial o instituciones de seguridad sin la autorización correspondiente, se le impondrá una pena de 3 meses a 5 años de prisión y de 20 a 200 veces el valor diario de la UMA, además del decomiso.
+Se sancionará con la misma pena a quien sin un fin lícito se ostente o realice actos propios de los integrantes de alguna de una corporación policial o de alguna institución de seguridad sin la autorización correspondiente.

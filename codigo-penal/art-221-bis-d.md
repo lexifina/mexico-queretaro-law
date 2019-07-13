@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 12 DE JULIO DE 2019)
+ARTICULO 221 BIS-D.- Al propietario o al que actúe en su representación, que otorgue el uso o goce de un inmueble o vehículo y tenga conocimiento de que son destinados para la realización de un delito y omita hacerlo del conocimiento a las autoridades competentes, se le impondrá una pena de 1 a 5 años de prisión y multa de 500 a 1000 veces el valor diario de la UMA, con independencia de cualquier otra sanción que establezcan otras disposiciones jurídicas aplicables.

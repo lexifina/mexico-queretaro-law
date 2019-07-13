@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 12 DE JULIO DE 2019)
+ARTICULO 221 BIS-E.- Al que elabore o altere sin permiso de la autoridad competente una placa, engomado, holograma o tarjeta de circulación, o coloque una placa de circulación en cualquier vehículo o remolque que no corresponda a su registro legal de identificación, se le impondrá una pena de 1 a 5 años y multa de 500 a 1000 veces el valor diario de la UMA.
+Se impondrá la misma pena al que posea, utilice, adquiera o enajene cualquiera de los objetos a que se refiere el párrafo anterior, con conocimiento de que son falsificados o que fueron obtenidos indebidamente.

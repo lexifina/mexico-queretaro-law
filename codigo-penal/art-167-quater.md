@@ -1,0 +1,6 @@
+(ADICIONADO, P.O. 12 DE JULIO DE 2019)
+ARTICULO 167 QUÁTER.- Al que obtenga por cualquier medio imágenes o videos de las partes íntimas o genitales de una persona, sin el consentimiento de ésta, se le impondrá pena de 3 a 6 años de prisión, multa de 1000 a 2000 veces el valor diario de la UMA, y desde 1000 hasta 2000 veces el valor diario de la UMA por concepto de reparación del daño.
+Cuando esas imágenes o videos se reproduzcan de cualquier forma o se compartan a un tercero o públicamente, la pena prevista en el párrafo anterior se aumentará hasta la mitad.
+Cuando el sujeto activo sea docente o parte del personal administrativo de cualquier institución educativa o de asistencia social y utilice los medios o circunstancias que el encargo le proporcione, se aumentará hasta una tercera parte de la pena correspondiente al delito cometido.
+Si el sujeto activo mantuvo una relación de concubinato o matrimonio con la víctima, la pena privativa de la libertad se aumentará hasta una tercera parte de la pena correspondiente al delito cometido.
+Cuando el sujeto activo sea padre o tutor de la víctima, se aumentará hasta una tercera parte de la pena correspondiente al delito cometido y se le sancionará con la pérdida de la patria potestad.

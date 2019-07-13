@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 12 DE JULIO DE 2019)
+ARTICULO 167 QUINQUIES.- A quien sin la autorización correspondiente divulgue o amenace con difundir video o imágenes eróticas sexuales de una persona, obtenidas con o sin el consentimiento de esta, se le impondrá una pena de 3 a 6 años de prisión, de 1000 a 2000 veces el valor diario de la UMA, y desde 1000 hasta 2000 veces el valor diario de la UMA por concepto de reparación del daño.
