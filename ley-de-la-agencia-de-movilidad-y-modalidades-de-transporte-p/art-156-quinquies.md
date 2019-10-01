@@ -1,0 +1,7 @@
+(ADICIONADO, P.O. 11 DE MAYO DE 2018)
+Artículo 156 Quinquies. Los permisos complementarios se sujetan a lo siguiente:
+En ellos se determinará el itinerario o derrotero que seguirán los vehículos dentro del territorio del Estado, iniciando del punto de internamiento y hasta el destino que se señale en el mismo.
+El punto de internamiento de los servicios hacía el Estado de Querétaro, debe ser el de origen o destino que tenga señalado en su permiso o concesión original la ruta con la que se pretenda ingresar a nuestro territorio.
+En el permiso se detallará la tarifa, el número, tipo de vehículos, paradas y la frecuencia con la que operará el servicio en el territorio del Estado de Querétaro.
+Este tipo de permiso solamente podrá concederse a los titulares de concesiones o permisos vigentes, siempre que se trate del mismo tipo de servicio amparado (sic) la concesión o permiso que tengan otorgada por la autoridad competente en materia de transporte de la Entidad Federativa con la que se tenga celebrado convenio para la expedición de tales permisos.
+Los permisos complementarios no podrán implicar modificación de clasificación, modalidad y tipo de servicio que el autorizado tuviere concesionado en la Entidad Federativa de origen, y en las mismas se prevendrá al autorizado la prohibición de incrementar su parque vehicular o ampliar o modificar las bases y recorridos a que se refiera el permiso complementario.

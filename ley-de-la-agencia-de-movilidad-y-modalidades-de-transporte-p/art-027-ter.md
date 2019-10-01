@@ -1,3 +1,4 @@
+(DEROGADO SEGUNDO PÁRRAFO, P.O. 11 DE MAYO DE 2018)
 (ADICIONADO, P.O. 5 DE JULIO DE 2013)
 Artículo 27 Ter. El Consejo tendrá las siguientes atribuciones:
 I. Aprobar, a propuesta del Director General, la adquisición de bienes muebles e inmuebles en términos de la legislación aplicable, encaminados al cumplimiento del objeto del Instituto;
