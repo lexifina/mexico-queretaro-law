@@ -1,0 +1,5 @@
+P.O. 16 DE MARZO DE 2018.
+[N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD PARA EL TRANSPORTE DEL ESTADO DE QUERÉTARO, EN MATERIA DE TAXÍMETROS".]
+Artículo Primero. Para los municipios de Querétaro, Corregidora, El Marqués, Huimilpan, San Juan del Río y Tequisquiapan, la presente Ley iniciará su vigencia a partir del 1 de abril de 2018; para los municipios de Amealco de Bonfil, Arroyo Seco, Cadereyta de Montes, Colón, Ezequiel Montes, Jalpan de Serra, Landa de Matamoros, Pedro Escobado, Peñamiller, Pinal de Amoles, San Joaquín y Tolimán, la presente Ley iniciará su vigencia a partir del 1 de octubre de 2018.
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+Artículo Tercero. El titular del Poder Ejecutivo del Estado de Querétaro expedirá las disposiciones reglamentarias para la aplicación de la presente Ley, dentro de los siguientes 160 días naturales contados a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
