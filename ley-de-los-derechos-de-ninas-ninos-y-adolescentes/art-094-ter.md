@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 18 DE OCTUBRE DE 2019)
+Artículo 94 Ter. El Estado garantizará a niñas, niños y adolescentes su integración a la sociedad de la información y el conocimiento, acorde a los fines establecidos en la Constitución Federal y la Constitución Política del Estado de Querétaro, mediante políticas de inclusión digital universal en condiciones de equidad, asequibilidad, disponibilidad, accesibilidad y calidad.
