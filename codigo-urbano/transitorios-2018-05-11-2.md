@@ -3,3 +3,4 @@ P.O. 11 DE MAYO DE 2018.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 3 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, POR LO QUE ESTOS TRANSITORIOS QUEDAN DEROGADOS.]

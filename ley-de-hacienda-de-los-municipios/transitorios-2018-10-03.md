@@ -4,3 +4,4 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 (REFORMADO, P.O. 30 DE JUNIO DE 2019)
 Artículo Segundo. Los artículos de instrucción Segundo al Décimo de la presente Ley, entrarán en vigor a partir del 01 de enero de 2020.
 Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
+[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, POR LO QUE ESTOS TRANSITORIOS QUEDAN DEROGADOS.]
