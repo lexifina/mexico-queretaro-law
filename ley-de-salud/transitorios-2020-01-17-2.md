@@ -1,0 +1,5 @@
+P.O. 17 DE ENERO DE 2020.
+[N. DE E. TRANSITORIOS DE LA "LEY POR LA QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE BEBIDAS ALCOHÓLICAS DEL ESTADO DE QUERÉTARO Y ADICIONA LA FRACCIÓN IV AL ARTÍCULO 34 DE LA LEY DE SALUD DEL ESTADO DE QUERÉTARO".]
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+Artículo Tercero. La Secretaría de Salud contará con un plazo de 6 meses, contados a partir de la entrada en vigor de la presente Ley, para emitir la normatividad y lineamientos que correspondan según lo dispuesto por los artículos 100 y 136 de la Ley de Salud del Estado de Querétaro, para el cumplimiento de la obligación por parte de los establecimientos previstos en el artículo 12, fracción III, Tipo I y Tipo II, de la Ley sobre Bebidas Alcohólicas del Estado de Querétaro.
