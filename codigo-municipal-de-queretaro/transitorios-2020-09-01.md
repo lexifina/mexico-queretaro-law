@@ -1,0 +1,7 @@
+P.O. 1 DE SEPTIEMBRE DE 2020.
+[N. DE E. TRANSITORIOS DEL "REGLAMENTO PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS MERCANTILES EN EL MUNICIPIO DE QUERÉTARO".]
+ARTÍCULO PRIMERO. Publíquese en la Gaceta Oficial del Municipio de Querétaro y en el Periódico Oficial de (sic) Gobierno del Estado de Querétaro, "La Sombra de Arteaga".
+ARTÍCULO SEGUNDO. El presente reglamento entrará en vigor al día siguiente de la última publicación en los medios de difusión precisados en el artículo transitorio anterior.
+ARTÍCULO TERCERO. Se derogan los artículos 252, 253, 253 bis, 278 y 287 del Código Municipal, así como todas aquellas disposiciones de igual o menor jerarquía que contravengan las contenidas en el presente Reglamento.
+ARTÍCULO CUARTO. Se instruye a la Secretaría de Desarrollo Sostenible para que, en coordinación con la Comisión de Mejora Regulatoria del Municipio de Querétaro, solicite a la Secretaría del Ayuntamiento la publicación de las cédulas de trámite correspondientes en la Gaceta Oficial del Municipio de Querétaro, a más tardar 60 días hábiles posteriores a la entrada en vigor del presente reglamento.
+ARTÍCULO QUINTO. Se instruye a la Secretaría del Ayuntamiento para que notifique el presente Acuerdo a los titulares de la Secretaría General de Gobierno Municipal, Secretaría de Desarrollo Sostenible, Secretaría de Finanzas, Secretaría de Movilidad y Coordinación de Delegaciones e Institutos Desconcentrados.
