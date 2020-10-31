@@ -1,0 +1,12 @@
+(ADICIONADO, P.O. 30 DE OCTUBRE DE 2020)
+Artículo 27 Ter. Los Poderes del Estado, Ayuntamientos y entidades públicas, podrán celebrar contratos de suministro, conforme a lo siguiente:
+I. Se establecerá, de manera previa a la realización del procedimiento de adquisición, la cantidad mínima y máxima de bienes sujetos al contrato de suministro, así como el presupuesto máximo que podrá ejercerse en la adquisición, debiendo en todo caso relacionarse la partida presupuestal de la que se disponen los recursos y que ésta corresponda a los bienes que se pretenden adquirir.
+II. La cantidad mínima o máxima de los bienes que se contraten y máxima del presupuesto que podrá ejercerse, deberá establecerse por cada una de las partidas objeto de la contratación, en cuyo caso la evaluación y adjudicación del contrato se hará igualmente por partida.
+III. Se establecerá el plazo mínimo y máximo para el suministro de los bienes, así como la temporalidad en que se llevarán a cabo los pagos por los mismos, ya sea contra entrega o bien de inicio o al final del suministro de la totalidad de los bienes adquiridos;
+IV. Se hará una descripción completa de los bienes o servicios relacionada con sus correspondientes precios unitarios;
+En el caso de cambio de precios del producto, el proveedor asumirá los costos, lo que deberá constar en el contrato; en el caso de que exista un aumento que exceda de un 30% del valor de la mercancía se permitirá un ajuste en la contratación inicial, siempre que no resulte un incremento en el monto máximo total del contrato.
+V. Cada orden de compra que se emita con cargo al contrato deberá contar con la disponibilidad presupuestaria correspondiente
+VI. Deberá pactarse en el contrato de suministro correspondiente, penalizaciones por atraso en la entrega de los bienes, exclusivamente sobre el valor de lo entregado o prestado con atraso y no por la totalidad del contrato,
+VII. La vigencia del contrato no excederá del ejercicio fiscal correspondiente a aquel en que se suscriba;
+VIII. El proveedor suministrará los bienes y servicios a petición expresa del órgano usuario, en las cantidades y fechas que éste determine;
+IX. Los proveedores que celebren los contratos de suministro deberán garantizar, los anticipos que, en su caso, reciban, el cumplimiento de los contratos por la totalidad del período pactado, y el presupuesto máximo estimado a menos que se trate de la modalidad de pago posterior a la entrega de la mercancía, en la que la mercancía entregada constituirá garantía suficiente para efectos de la presente ley.
