@@ -1,3 +1,4 @@
-(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2002)
-ARTICULO 127 BIS 1.- Al que sabiendo que padece una enfermedad grave en periodo infectante, sin que la víctima u ofendido tenga conocimiento de esta circunstancia, ponga en peligro de contagio la salud de otro, por relaciones sexuales u otro medio transmisible se le impondrán las penas previstas para el delito de lesiones.
-En el caso de la fracción anterior, se perseguirá de oficio a excepción de cuando se trate de cónyuges, concubinarios o concubinas solo podrá procederse por querella del ofendido.
+(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)
+ARTICULO 127 BIS 1.- Al que sabiendo que padece una enfermedad grave en periodo infectante, sin que la víctima u ofendido tenga conocimiento de esta circunstancia, ponga en peligro de contagio la salud de otro o de varias personas, por cualquier forma o medio de transmisión, o por relaciones sexuales, se le impondrán de tres a seis años de prisión y de tres a seis meses de trabajo a favor de la comunidad, así como las medidas de seguridad por confinamiento que sean necesarias.
+Cuando la conducta anterior se realice en agravio de una persona mayor de sesenta años, un menor o persona que no tiene capacidad para comprender el significado del hecho o capacidad para resistirlo, sujeto a su tutela, custodia o guarda, se aumentará, hasta en una mitad, la pena señalada en este artículo.
+Este delito se perseguirá de oficio, a excepción de cuando se trate de cónyuges, concubinarios o concubinas en cuyo caso solo podrá procederse por querella del ofendido.
