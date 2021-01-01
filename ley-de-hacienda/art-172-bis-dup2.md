@@ -1,1 +1,0 @@
-Artículo 172 Bis. (DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
