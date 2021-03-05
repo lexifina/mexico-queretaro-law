@@ -1,2 +1,1 @@
-(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2015)
-Artículo 150 Bis. La Legislatura, a petición motivada, justificada y fundada de la Oficialía Mayor o equivalente del ente público que corresponda, que soporte su petición, podrá entrar al estudio y dictamen que corresponda, respecto de un decreto previamente emitido por dicho Poder, en el que se haya autorizado una pensión o jubilación, a efecto de su ratificación, modificación o revocación. La resolución que se emita, será a través de un decreto, el cual será notificado al trabajador y a la Oficialía Mayor o equivalente del ente público que corresponda.
+Artículo 150 Bis. (DEROGADO, P.O. 5 DE MARZO DE 2021)
