@@ -1,0 +1,6 @@
+P.O. 13 DE ABRIL DE 2021.
+[N. DE E. TRANSITORIOS DE LA "LEY QUE DEROGA, ADICIONA Y REFORMA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO."]
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+Artículo Segundo. En tanto se instituyen e inician operaciones los Tribunales Laborales y el Centro de Conciliación Laboral del Estado de Querétaro, la Junta de Conciliación y Arbitraje y, en su caso, la Secretaría del Trabajo, continuarán atendiendo las diferencias o conflictos que se presenten entre el capital y el trabajo y sobre el registro de los contratos colectivos de trabajo y de organizaciones sindicales.
+Artículo Tercero. Las autoridades competentes y la Junta de Conciliación y Arbitraje deberán transferir los expedientes y documentación que, en el ámbito de sus respectivas competencias, tengan bajo su atención o resguardo, al Centro Federal de Conciliación y Registro Laboral, en términos de lo previsto en los Transitorios de la reforma a la Ley Federal del Trabajo publicada el 1o. de mayo de 2019 en el Diario Oficial de la Federación.
+Artículo Cuarto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
