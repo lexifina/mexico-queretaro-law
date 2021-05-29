@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 28 DE MAYO DE 2021)
+Artículo 72 Octies. Los Consejos Ciudadanos Juveniles Municipales servirán como órganos de análisis del Ayuntamiento respectivo, para la planeación y programación de políticas y acciones relacionadas con el desarrollo integral de la juventud, de acuerdo con lo establecido en el Programa Municipal de la Juventud.
+Además, promoverán permanentemente la participación social en la toma de decisiones relacionadas con el Desarrollo de la Juventud y la defensa de los derechos de las y los Jóvenes en el Municipio respectivo; así como la coordinación interinstitucional ante órganos gubernamentales.
