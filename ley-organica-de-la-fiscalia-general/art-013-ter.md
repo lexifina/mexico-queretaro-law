@@ -9,3 +9,5 @@ V. Tener cuando menos cinco años de experiencia en la procuración de justicia 
 VI. No haber sido condenado por delito doloso y gozar de buena reputación.
 (REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)
 Las ausencias del Fiscal Anticorrupción se suplirán por el Titular de la Dirección adscrita a la Fiscalía Anticorrupción o, en su caso, por el servidor público que designe el Fiscal Anticorrupción.
+(ADICIONADO, P.O. 2 DE JUNIO DE 2021)
+El nivel jerárquico del Fiscal Anticorrupción en la estructura organizacional corresponde al de Vice Fiscal.
