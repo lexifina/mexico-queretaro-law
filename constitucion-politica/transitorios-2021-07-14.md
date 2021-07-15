@@ -1,0 +1,6 @@
+P. O. 14 DE JULIO DE 2021.
+[N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO".]
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+Artículo Tercero. El informe de la Legislatura del Estado, el Gobernador del Estado de Querétaro, así como el de los Presidentes Municipales correspondientes a la conclusión de su gestión en 2021, deberá rendirse durante el mes de agosto del mismo año, de conformidad con lo dispuesto en la presente iniciativa de reforma y con la finalidad de garantizar el ejercicio del mecanismo de consulta popular contemplado en la Constitución Política de los Estados Unidos Mexicanos y la Ley Federal de Consulta Popular.
+Artículo Cuarto. Toda referencia que se haga en cualquier disposición jurídica a la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro se deberá entender que se hace a la Comisión Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro.
