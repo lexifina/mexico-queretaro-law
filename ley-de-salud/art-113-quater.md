@@ -3,5 +3,8 @@ Artículo 113 Quater. En el rubro de las enfermedades no transmisibles, las auto
 I. Cardiovasculares;
 II. Diabetes Mellitus;
 III. Cáncer;
-IV. Enfermedades respiratorias crónicas; y
-V. Las demás que señale el Consejo de Salubridad General.
+(REFORMADA, P.O. 27 DE AGOSTO DE 2021)
+IV. Enfermedades respiratorias crónicas;
+(ADICIONADA, P.O. 27 DE AGOSTO DE 2021)
+V. Malnutrición, obesidad y sobrepeso; y
+VI. Las demás que señale el Consejo de Salubridad General.
