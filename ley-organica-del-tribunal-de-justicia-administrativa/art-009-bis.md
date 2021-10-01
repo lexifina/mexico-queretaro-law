@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)
+Artículo 9 Bis. En el caso de faltas temporales del Presidente del Tribunal, será suplido por el Magistrado Propietario con mayor antigüedad como Magistrado.
+En caso de que los otros dos Magistrados tengan la misma antigüedad, será suplido por el Magistrado que siga en orden alfabético de su primer apellido.
+Ante la falta temporal o definitiva, de cualquiera de los otros dos Magistrados que integran la Sala Superior, el Magistrado ausente será suplido por el Juez Administrativo de mayor antigüedad en el cargo; o, en su defecto, por el Juez Administrativo que siga en orden alfabético de su primer apellido.

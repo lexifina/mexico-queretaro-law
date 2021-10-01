@@ -1,2 +1,2 @@
-(REFORMADO, P.O. 10 DE OCTUBRE DE 2018)
-Artículo 5 Bis. Para la aplicación de la presente Ley, a la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado de Querétaro o a la dependencia encargada de las finanzas públicas del Municipio, según sea el caso, le corresponde, en el ámbito de su competencia, exclusivamente otorgar la suficiencia presupuestal en términos de las disposiciones aplicables.
+(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)
+Artículo 5 Bis. Para la aplicación de la presente Ley, a la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro o a la dependencia encargada de las finanzas públicas del Municipio, según sea el caso, le corresponde, en el ámbito de su competencia, exclusivamente otorgar la suficiencia presupuestal en términos de las disposiciones aplicables.

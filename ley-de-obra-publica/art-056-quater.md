@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)
+ARTÍCULO 56 QUÁTER.- La Secretaría de Desarrollo Urbano y Obras Públicas podrá realizar visitas de verificación a los concesionarios, a efecto de constatar el cumplimiento de las condiciones y obligaciones previstas en el título de concesión, así como el avance de la ejecución de la obra concesionada.
+El concesionario deberá otorgar las facilidades para la ejecución de las visitas de verificación, proporcionando la información y documentación que le sea solicitada para acreditar el cumplimiento de los términos del título de concesión.
+Las visitas de verificación podrán realizarse en el lugar en el que se desarrolle la obra concesionada y en el domicilio manifestado por el concesionario para el cumplimiento de las condiciones y obligaciones establecidas en el título de concesión.
+En la ejecución de las visitas de verificación y la emisión de las resoluciones de los procedimientos ejecutados, serán aplicables supletoriamente las disposiciones previstas en la Ley de Procedimientos Administrativos del Estado de Querétaro.

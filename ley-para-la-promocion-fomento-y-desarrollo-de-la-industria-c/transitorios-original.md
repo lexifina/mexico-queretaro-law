@@ -25,3 +25,4 @@ Rúbrica
 Lic. Jorge López Portillo Tostado
 Secretario de Gobierno del Poder Ejecutivo del Estado de Querétaro
 Rúbrica
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]

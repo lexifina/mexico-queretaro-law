@@ -6,7 +6,8 @@ III. Un Secretario Técnico, que será el Subsecretario de Prevención Social y 
 IV. Los siguiente (sic) vocales:
 a) El Secretario de Gobierno.
 b) El Fiscal General del Estado.
-c) El Secretario de Planeación y Finanzas.
+(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)
+c) El Secretario de Finanzas.
 d) El Secretario de Educación.
 e) El Secretario de Salud.
 f) El Secretario del Trabajo.
