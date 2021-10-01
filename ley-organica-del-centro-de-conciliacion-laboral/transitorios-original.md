@@ -1,5 +1,9 @@
 TRANSITORIOS
-Artículo Primero. La presente Ley entrará en vigor a partir del día 01 de octubre de 2021.
+(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)
+Artículo Primero. La presente Ley entrará en vigor a partir del 01 de octubre de 2021, salvo lo dispuesto por el segundo párrafo de este artículo.
+Los artículos 47 y 48 de la Ley Orgánica del Centro Conciliación Laboral del Estado de Querétaro, iniciarán su vigencia el 30 de septiembre de 2021.
+El titular del Poder Ejecutivo del Estado de Querétaro podrá designar al titular de la Dirección General del Centro Conciliación Laboral del Estado de Querétaro, en apego a lo establecido por los dos párrafos anteriores y en términos de las disposiciones legales aplicables.
+El titular de la Dirección General del Centro de Conciliación Laboral del Estado de Querétaro deberá realizar de inmediato los trámites correspondientes para la obtención de los registros fiscales y administrativos que exijan las disposiciones legales, para la debida operación de la entidad paraestatal, así como de las cuentas bancarias, convenios y demás instrumentos jurídicos con instituciones públicas y privadas para el cumplimiento de su objeto.
 Artículo Segundo. La Junta de Gobierno deberá instalarse en un plazo no mayor a quince días hábiles, contados a partir del día siguiente de la entrada en vigor de la presente Ley.
 Artículo Tercero. La Secretaría del Trabajo del Poder Ejecutivo del Estado de Querétaro llevará a cabo las gestiones necesarias a efecto de que Centro cuente con los recursos necesarios para el inicio de su operación.
 Artículo Cuarto. El Poder Ejecutivo del Estado de Querétaro, realizarán las adecuaciones presupuestales que resulten necesarias a fin de dotar de los recursos materiales y financieros que permitan el cumplimiento de la presente Ley.
@@ -23,3 +27,4 @@ Rúbrica
 Juan Martín Granados Torres
 Secretario de Gobierno
 Rúbrica
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
