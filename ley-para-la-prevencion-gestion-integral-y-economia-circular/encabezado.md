@@ -1,0 +1,13 @@
+LEY PARA LA PREVENCIÓN, GESTIÓN INTEGRAL Y ECONOMÍA CIRCULAR DE LOS RESIDUOS DEL ESTADO DE QUERÉTARO
+Ley publicada en el Número 104 del Periódico Oficial del Estado de Querétaro, el viernes 3 de diciembre de 2021.
+MAURICIO KURI GONZÁLEZ,
+Gobernador del Estado de Querétaro, a los habitantes del mismo, sabed que:
+LA QUINCUAGÉSIMA NOVENA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
+CONSIDERANDO
+[...]
+Por lo expuesto, la Quincuagésima Novena Legislatura del Estado de Querétaro expide la siguiente:
+LEY PARA LA PREVENCIÓN, GESTIÓN INTEGRAL Y ECONOMÍA CIRCULAR DE LOS RESIDUOS DEL ESTADO DE QUERÉTARO
+Título Primero
+Disposiciones generales
+Capítulo I
+Normas preliminares
