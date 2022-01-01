@@ -1,0 +1,3 @@
+Artículo 83 Bis-19. El impuesto causado deberá ser enterado mensualmente, por los sujetos de este impuesto mediante declaración e información adicional que se presentará ante la Secretaría de Finanzas por las personas físicas y morales, así como por las unidades económicas, a más tardar el día veintidós del mes inmediato siguiente a aquel en que los residuos de manejo especial hayan sido depositados o almacenados en los sitios que refiere el artículo 83 BIS-14 de la presente Ley o por tonelada de residuos peligrosos almacenados de manera temporal o confinados en el Estado.
+(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)
+Obligaciones

@@ -1,0 +1,3 @@
+Artículo 83 Bis-12. Los contribuyentes pagarán el impuesto a que se refiere esta Sección de manera anual, mediante declaración que se presentará en las formas y medios autorizados por la Secretaría de Finanzas, en el mes siguiente a aquel en que se haya realizado el respectivo informe en los Registros de Emisiones y Transferencias de Contaminantes (RETC) de la Secretaría de Medio Ambiente y Recursos Naturales del Gobierno Federal, así como los reportes de emisiones del Registro de Emisiones y Transferencia de Contaminantes (RETC) Estatal, de la Secretaría de Desarrollo Sustentable.
+(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)
+De las obligaciones

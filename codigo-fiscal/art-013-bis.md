@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)
+Artículo 13 Bis. Para los casos señalados en los artículos 12 y 13 de este Código, se regirán conforme al horario de la Zona Centro de México, de conformidad con la Ley del Sistema de Horario en los Estados Unidos Mexicanos y el Decreto por el que se establece el Horario Estacional que se aplicará en los Estados Unidos Mexicanos, a través de la utilización de herramientas electrónicas que permitan el desarrollo de los procedimientos conforme a la normativa expresa para aquellos casos.

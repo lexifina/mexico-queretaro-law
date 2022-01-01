@@ -1,0 +1,8 @@
+Artículo 83 Bis-17. Es base gravable para este impuesto la cantidad en toneladas de residuos de manejo especial depositados o almacenados en los sitios que refiere el artículo 83 BIS-14 de la presente Ley o por tonelada de residuos peligrosos confinados en el Estado.
+Los residuos de manejo especial ingresados en las estaciones de transferencia deberán ir en su totalidad a disposición final, cuando los sujetos de este impuesto no cuenten con infraestructura e instalaciones autorizadas para su valorización.
+No constituirán base del impuesto, los residuos de manejo especial o peligrosos que ingresen a cadenas de valor o vayan a procesos de valorización como: acopio y almacenamiento, separación, reutilización, tratamiento intermedio, co-procesamiento, aprovechamiento, mejorador de suelo, así como los que establezca la Secretaría de Desarrollo Sustentable, con excepción de lo siguiente:
+I. Cuando el residuo de manejo especial permanezca más de seis meses desde que fue depositado o almacenado, sin llevar a cabo el proceso de reutilización, de reciclado, de co-procesamiento o de valorización.
+II. Cuando el residuo sea peligroso y permanezca más de seis meses desde que fue almacenado temporalmente o enviado a confinamiento controlado, sin llevar a cabo el proceso de reutilización, de reciclado, de co-procesamiento o de valorización.
+III. Cuando los residuos depositados, almacenados o confinados no hayan sido destinados a los procesos de reutilización, de reciclado, de co-procesamiento o de valorización por más de seis meses, las toneladas de residuos formarán parte de la base gravable del impuesto del mes siguiente a aquel en que haya transcurrido dicho periodo.
+(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)
+Cuota
