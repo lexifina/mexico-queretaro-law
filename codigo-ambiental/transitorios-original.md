@@ -11,7 +11,8 @@ Artículo Noveno. El Poder Ejecutivo del Estado deberá expedir los Reglamentos 
 Artículo Décimo. Los Ayuntamientos del Estado de Querétaro, en uso de las facultades que les confiere el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, deberán emitir las disposiciones reglamentarias que sean exclusivas de su competencia, hasta en tanto, deberán sujetarse a las bases y disposiciones que señala el presente Código.
 Artículo Décimo Primero. Las guías de impacto ambiental; de estudio de riesgo y listados de actividades riesgosas que estén vigentes al momento de entrar en vigor el presente Código seguirán siendo aplicadas hasta que se publiquen las derivadas de este Código.
 Artículo Décimo Segundo. La Secretaría de Desarrollo Sustentable deberá implementar la plataforma electrónica referida en el artículo 115, en un plazo de 180 días.
-Artículo Décimo Tercero. A partir de la entrada en vigor del presente Código, la Secretaría de Desarrollo Sustentable y la Secretaría de Desarrollo Agropecuario, ambas del Poder Ejecutivo del Estado de Querétaro, tendrán un plazo de 90 días naturales para llevar a cabo el traslado programado de los recursos humanos, financieros y materiales, así como de la estructura orgánica, que actualmente atiende los asuntos y trámites en materia forestal, respetando los derechos laborales de los servidores públicos.
+(REFORMADO, P.O. 4 DE MARZO DE 2022)
+Artículo Décimo Tercero. La Secretaría de Desarrollo Sustentable y la Secretaría de Desarrollo Agropecuario, ambas del Poder Ejecutivo del Estado de Querétaro, tendrán hasta el 31 de octubre de 2022, para llevar a cabo el traslado programado de los recursos humanos, financieros y materiales, así como de la estructura orgánica, que actualmente atiende los asuntos y trámites en materia forestal, respetando los derechos laborales de los servidores públicos.
 LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO DE QUERÉTARO Y MANDARÁ SE IMPRIMA, PUBLIQUE Y OBSERVE. DADO EN EL SALÓN DE SESIONES "CONSTITUYENTES 1916-1917" RECINTO OFICIAL DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, A LOS VEINTIDÓS DÍAS DEL MES DE SEPTIEMBRE DEL AÑO DOS MIL VEINTIUNO.
 A T E N T A M E N T E
 QUINCUAGÉSIMA NOVENA LEGISLATURA DEL ESTADO DE QUERÉTARO
@@ -30,3 +31,4 @@ Rúbrica
 María Guadalupe Murguía Gutiérrez
 Secretaria de Gobierno
 Rúbrica
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
