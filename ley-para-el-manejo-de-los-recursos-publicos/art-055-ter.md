@@ -1,0 +1,9 @@
+(ADICIONADO, P.O. 20 DE MAYO DE 2022)
+Artículo 55 Ter. Los ejecutores de gasto deberán solicitar la autorización de la Secretaria o en su caso la equivalente de los sujetos de la Ley, para la celebración de compromisos plurianuales de adquisiciones, arrendamientos, servicios de cualquier índole, obras públicas y concesiones, durante el ejercicio fiscal siempre que:
+I. Justifiquen que su celebración representa ventajas económicas, simplificación administrativa o que sus términos o condiciones sean más favorables;
+II. Justifiquen el plazo de la contratación de que se trate; y
+III. Desglosen el gasto a precios del año para el ejercicio fiscal correspondiente y de los subsecuentes.
+La Secretaria o en su caso la dependencia encargada de las finanzas públicas de los Municipios, expedirá la suficiencia presupuestal y la viabilidad financiera de los compromisos plurianuales.
+Las dependencias y entidades deberán informar a la Secretaría de la Contraloría o en su caso al Órgano Interno de Control que corresponda, así como a la Secretaría o su equivalente en los Municipios, sobre la celebración de los contratos a que se refiere este artículo, dentro de los 30 días hábiles posteriores a su formalización.
+Los Poderes, organismos constitucionales autónomos y municipios, a través de sus respectivas dependencias encargadas de las finanzas públicas, podrán autorizar la celebración de compromisos plurianuales siempre y cuando cumplan con lo dispuesto en el presente artículo y demás disposiciones aplicables.
+Los ejecutores de gasto deberán de incluir en sus propuestas de presupuesto de egresos, conforme al ejercicio fiscal que corresponda, los compromisos plurianuales generados por éstos, remitiéndolos de manera integral a la Secretaría o su equivalente en los sujetos de la Ley. La Secretaría o su equivalente en los sujetos de la Ley propondrá su incorporación en el Proyecto de Presupuesto de Egresos del ejercicio fiscal que corresponda.
