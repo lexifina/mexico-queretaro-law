@@ -1,2 +1,4 @@
-(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)
-ARTICULO 285 BIS.- Al que cometa un delito en contra de un servidor público en el acto de ejercer sus funciones o con motivo de ellas, cuando se tenga conocimiento de esa circunstancia, se le aplicarán de uno a cinco años de prisión, además de la que le corresponda por el delito cometido.
+(ADICIONADO [N. DE E. REFORMADO], P.O. 27 DE MAYO DE 2022)
+ARTICULO 285 BIS.- Al que soborne, amenace, intimide, persuada o aleccione a una persona para conducirse con falsedad ante una autoridad se le impondrá de 3 a 6 años, de 200 a 500 días multa y 150 a 300 jornadas de medidas para mejorar la convivencia cotidiana.
+Cuando la conducta produzca un beneficio económico, o ventaja en un procedimiento de cualquier naturaleza, la pena será de 5 a 8 años de prisión, de 500 a 1000 días multa y 50 a 150 jornadas de medidas para mejorar la convivencia cotidiana.
+Si alguna de las conductas descritas en los párrafos anteriores, se realiza por persona que desempeñe una actividad regulada, la sanción será también de inhabilitación para ejercer la misma por el mismo tiempo de la pena de prisión impuesta.

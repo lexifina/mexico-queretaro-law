@@ -7,3 +7,5 @@ ARTICULO 217 BIS.- Al cónyuge, concubina o concubinario, pariente consanguíneo
 Las penas previstas en este artículo se incrementarán hasta en una mitad más de lo ya establecido, cuando el delito se cometa en contra de persona menor de edad, mayor de sesenta años de edad, personas con discapacidad o que, por las condiciones de sometimiento a las que se encuentren expuestos, les genere un estado de intimidación que les impida iniciar o continuar la denuncia.
 (ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)
 Cuando las conductas previstas en este artículo se realicen por personas que tienen medidas de restricción por la autoridad respectiva o quebrantando medidas de protección a favor de la víctima y de las que haya sido notificado legalmente, se impondrá una pena de prisión de 5 a 10 años, trabajo a favor de la comunidad hasta por seis meses y tratamiento médico psicológico.
+(ADICIONADO, P.O. 27 DE MAYO DE 2022)
+Adicional a las penas previstas en el presente artículo, se impondrá de 500 a 800 días multa y de 150 a 1000 jornadas de medidas para mejorar la convivencia cotidiana.
