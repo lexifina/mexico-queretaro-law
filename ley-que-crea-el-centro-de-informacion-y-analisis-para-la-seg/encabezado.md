@@ -1,5 +1,4 @@
 LEY QUE CREA EL CENTRO DE INFORMACIÓN Y ANÁLISIS PARA LA SEGURIDAD DE QUERÉTARO
-[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUERÉTARO EL 8 DE OCTUBRE DE 2021.]
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 17 de agosto de 2018.
 FRANCISCO DOMÍNGUEZ SERVIÉN,
 Gobernador del Estado de Querétaro, a los habitantes del mismo, sabed que:

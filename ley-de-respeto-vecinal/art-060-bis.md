@@ -1,0 +1,7 @@
+(ADICIONADO, P.O. 10 DE JUNIO DE 2022)
+Artículo 60 Bis. En la audiencia, en presencia del probable infractor y el abogado que le brinde asistencia jurídica, el Juez llevará a cabo las siguientes actuaciones:
+I. Dará lectura a la boleta de remisión, en caso de que exista detención por parte de un elemento de policía;
+II. Informará al probable infractor de los hechos de los que se le acusa;
+III. Dará el uso de la voz al presunto infractor para manifestar lo que a su derecho convenga y ofrecer las pruebas de que disponga, por sí o por medio de su abogado;
+IV. En caso de que el Juez lo estime conveniente, podrá solicitar la declaración del elemento de policía que tuvo conocimiento de los hechos; y
+V. Resolverá sobre la responsabilidad del probable infractor.

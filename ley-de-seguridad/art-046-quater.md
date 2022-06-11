@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 10 DE JUNIO DE 2022)
+Artículo 46 quáter. Corresponde a la Secretaría de Seguridad Ciudadana, a través de la Coordinación del Servicio Profesional de Carrera Policial y el Centro de Capacitación, Formación e Investigación para la Seguridad de Querétaro, coordinar y en su caso realizar, los programas de formación inicial y formación continua, que contemplen los programas de estudios, los procedimientos y todas las acciones necesarias para formar capacidades para el desempeño de la función policial con enfoque de proximidad.

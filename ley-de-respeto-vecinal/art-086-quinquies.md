@@ -1,0 +1,7 @@
+(ADICIONADO, P.O. 10 DE JUNIO DE 2022)
+Artículo 86 Quinquies. Cuando se determine la imposición de la sanción correspondiente al trabajo en favor de la comunidad, está se hará incorporando al infractor a alguno de los programas que previamente se encuentren registrados ante el Juzgado Cívico correspondiente.
+En este caso, el Juez Cívico pondrá al infractor a disposición de la institución encargada de llevar a cabo el programa.
+Las instituciones encargadas de llevar a cabo los programas de trabajo en favor de la comunidad, deberán contar con un registro de las horas que el infractor ha cumplido en el programa correspondiente e informar al Juez Cívico una vez que se hayan cumplimentado las horas impuestas.
+Los responsables del programa que omitan, simulen o falseen los registros e informes al juez cívico, serán sancionados en los términos de la Ley de Responsabilidades Administrativas del Estado de Querétaro y demás correspondientes, en su caso, se dará vista al ministerio público para la investigación del delito que corresponda.
+Si el responsable es un particular, y obtiene cualquier tipo de beneficio por las mismas conductas o favorece indebidamente al infractor, será separado del programa y se dará aviso al Ministerio Público.
+Si el infractor no cumple con las horas impuestas, la instancia encargada del programa informará al Juez Cívico, quien podrá aplicar las sanciones que correspondan en términos de las disposiciones jurídicas aplicables.
