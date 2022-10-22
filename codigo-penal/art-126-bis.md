@@ -25,3 +25,5 @@ Al servidor público que retarde o entorpezca maliciosamente o por negligencia l
 Para los efectos previstos en la fracción III, se entenderá por amenaza, la sola exteriorización por cualquiera que sea el medio de causar un daño o afectación a su persona, bienes o familia, sin requerir el inicio de indagatoria alguna por dichas circunstancias.
 (ADICIONADO, P.O. 27 DE MAYO DE 2022)
 Desde el inicio de la investigación, se deberá dar vista a la autoridad correspondiente a efecto de que las personas dependientes de la víctima de feminicidio que sean menores de edad o las personas en situación de discapacidad, accedan a la atención integral, que garantice cuando menos servicios psicológicos, educativos, de salud, seguridad y representación, en los términos de la legislación aplicable.
+(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)
+La pena se aumentará hasta en una tercera parte si la víctima fuera niña, adolescente o mujer con discapacidad.
