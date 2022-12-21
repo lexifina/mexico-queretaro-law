@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2022)
+Artículo 121 Quater decies. Para proteger la seguridad de los usuarios del servicio de transporte a demanda, las empresas especializadas en aplicaciones de movilidad permitirán al usuario conocer la identidad del operador del servicio bajo demanda y datos del vehículo previo a abordar el mismo.
+El operador del servicio bajo demanda también tendrá acceso al nombre de la persona que solicitó el vehículo. Además, las empresas especializadas en aplicaciones de movilidad darán a conocer en tiempo real la disponibilidad del servicio y estimados de tiempo para los trayectos.

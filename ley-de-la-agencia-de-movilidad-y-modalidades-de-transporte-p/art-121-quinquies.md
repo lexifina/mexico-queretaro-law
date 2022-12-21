@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2022)
+Artículo 121 Quinquies. El registro de la empresa especializada en aplicaciones de movilidad será personalísimo, intransferible, inalienable e inembargable y no generará derechos reales de ninguna clase a favor de la misma, salvo los que sean consecuencia inmediata de su naturaleza conforme al presente capítulo. Los actos mediante los cuales pretendan gravarse o enajenarse los registros de las empresas especializadas en aplicaciones de movilidad serán nulos y no producirán efecto legal alguno.

@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2022)
+Artículo 123 Bis. La Agencia podrá reasignar concesiones para prestar el servicio de transporte público, siempre y cuando los derechos sobre éstas hubieran sido declarados extintos o revocados a través de una resolución administrativa firme, esto con la finalidad de garantizar que el servicio de transporte público se preste manera continua, uniforme, regular y permanente.
+Las personas físicas o morales a las que se les reasigne la concesión, deberán acreditar que cuentan con la capacidad legal, administrativa, técnica y financiera que establece la presente ley y sus normas reglamentarias.
+En caso de que resulte procedente la reasignación de la concesión, el solicitante, dentro del plazo de 30 días hábiles, deberá realizar el pago correspondiente al refrendo del año en curso de la resolución de reasignación.

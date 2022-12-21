@@ -1,2 +1,2 @@
-(REFORMADO, P.O. 11 DE MAYO DE 2018)
-Artículo 105 Sexies. Los conductores del servicio de transporte privado de pasajeros a través de aplicaciones tecnológicas, además de registrarse y cumplir con los requisitos establecidos por la persona física o moral especializada en materia de transporte privado de pasajeros y los establecidos por el Instituto, deberán haber aprobado los exámenes toxicológicos y de capacidad, realizados por la empresa.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2022)
+Artículo 105 Sexies. Los conductores del servicio de transporte privado de pasajeros deberán haber aprobado los exámenes toxicológicos y de capacidad, realizados por la empresa.

@@ -1,2 +1,2 @@
-(REFORMADO, P.O. 11 DE MAYO DE 2018)
-Artículo 105 Septies. El Instituto integrará en el Registro Público de Transporte, la relación de las personas físicas o morales especializadas en materia de servicio (sic) transporte privado de pasajeros que operen, utilicen o administren aplicaciones para el control, programación, geolocalización o telemetría en dispositivos fijos o móviles, a través de los cuales los particulares pueden contratar el servicio en el Estado de Querétaro.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2022)
+Artículo 105 Septies. La Agencia integrará en el Registro Público de Transporte, la relación de las personas físicas que son titulares de permisos para prestar el servicio de transporte privado de pasajeros, así como los vehículos y los conductores con los que se presta el servicio.

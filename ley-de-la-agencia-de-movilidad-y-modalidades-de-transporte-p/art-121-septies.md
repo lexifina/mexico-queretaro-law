@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2022)
+Artículo 121 Septies. Es objeto de la contribución las contraprestaciones obtenidas por la prestación del servicio de transporte a demanda, por parte de los operadores del servicio bajo demanda.
+Para efectos de esta contribución, se entenderá como servicio de transporte a demanda, a aquel destinado al traslado de personas de un punto a otro, que se contrata a través de plataformas digitales con sistemas de posicionamiento global y plataformas tecnológicas, que permiten conectar a usuarios que demandan dicho servicio con operadores del servicio bajo demanda que ofrecen este servicio a través de empresas especializadas en aplicaciones de movilidad que cuentan con la misma tecnología.

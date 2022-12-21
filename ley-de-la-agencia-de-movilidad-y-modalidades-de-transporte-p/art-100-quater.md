@@ -1,2 +1,1 @@
-(ADICIONADO, P.O. 27 DE MAYO DE 2016)
-Artículo 100 Quater. El Instituto integrará al Registro Público de Transporte, la relación de personas físicas y morales que operen, utilicen y administren aplicaciones para el control, programación, geolocalización o telemetría en dispositivos fijos o móviles, a través de los cuales los particulares pueden contratar el servicio público de taxi en el Estado de Querétaro.
+Artículo 100 Quater. (DEROGADO, P.O. 21 DE DICIEMBRE DE 2022)

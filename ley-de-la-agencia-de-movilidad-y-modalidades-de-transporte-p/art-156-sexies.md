@@ -1,8 +1,14 @@
+(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2022)
+Artículo 156 Sexies. Solamente la Agencia podrá aprobar convenios de colaboración y reciprocidad; los concesionarios o permisionarios del Servicio de Transporte están impedidos para ello, y los que así se realicen serán declarados inexistentes. Tampoco serán válidos los convenios que tengan por objeto operar en territorio del Estado servicios de transporte que no se encuentren previstos en esta Ley.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2022)
+La Agencia podrá facultar al concesionario de una misma región o área geográfica del Estado, que esté conurbada con otra Entidad Federativa, para que éste efectúe el enlace y operación de sus servicios con los de la concesión que le haya emitido la Entidad Federativa colindante y los opere en el área geográfica conurbada a la primera.
 (ADICIONADO, P.O. 11 DE MAYO DE 2018)
-Artículo 156 Sexies. Solamente el Instituto podrá aprobar convenios de colaboración y reciprocidad; los concesionarios o permisionarios del Servicio de Transporte están impedidos para ello, y los que así se realicen serán declarados inexistentes. Tampoco serán válidos los convenios que tengan por objeto operar en territorio del Estado servicios de transporte que no se encuentren previstos en esta Ley.
-El Instituto podrá facultar al concesionario de una misma región o área geográfica del Estado, que esté conurbada con otra Entidad Federativa, para que éste efectúe el enlace y operación de sus servicios con los de la concesión que le haya emitido la Entidad Federativa colindante y los opere en el área geográfica conurbada a la primera.
 Los convenios de enlace se sujetan (sic) las siguientes formalidades:
-I. Sólo podrán celebrarse si existe convenio para operación común de servicios celebrado entre el Instituto y la competente de la Entidad Federativa de que se trate;
-II. El convenio de enlace de rutas sólo puede autorizarse a personas físicas o morales titulares de concesiones y deberá contener los requisitos y menciones que se refieran en el convenio celebrado entre el Instituto y la competente de la Entidad Federativa de que se trate; y
+(REFORMADA, P.O. 21 DE DICIEMBRE DE 2022)
+I. Sólo podrán celebrarse si existe convenio para operación común de servicios celebrado entre la Agencia y la competente de la Entidad Federativa de que se trate;
+(REFORMADPA, P.O. 21 DE DICIEMBRE DE 2022)
+II. El convenio de enlace de rutas sólo puede autorizarse a personas físicas o morales titulares de concesiones y deberá contener los requisitos y menciones que se refieran en el convenio celebrado entre la Agencia y la competente de la Entidad Federativa de que se trate; y
+(ADICIONADOA, P.O. 11 DE MAYO DE 2018)
 III. Los convenios de enlace no surten efectos para extender o fusionar las rutas enlazadas, y tampoco tienen efecto para transferir las concesiones o los derechos amparados en ellas.
+(ADICIONADO, P.O. 11 DE MAYO DE 2018)
 Quien preste cualquiera de los servicios señalados anteriormente, sin contar con el permiso respectivo, será sancionado conforme a la presente Ley con independencia de la revocación del permiso otorgado.

@@ -1,5 +1,6 @@
-(ADICIONADO, P.O. 27 DE MAYO DE 2016)
-Artículo 105 Bis. El servicio de transporte privado de pasajeros, para su prestación requiere contar con un permiso otorgado por el Instituto a la persona física o moral que esté especializada en materia de transporte de personas que lo solicite y cumpla los requisitos y procedimientos previstos en la presente Ley, las disposiciones reglamentarias que al efecto se expidan, así como los acuerdos, circulares, manuales de especificaciones técnicas y condiciones de operación que determine el Instituto.
-Asimismo, el solicitante deberá registrar ante el Instituto una aplicación electrónica a través de la cual se preste el servicio, así como sus vehículos y sus conductores.
-(REFORMADO, P.O. 11 DE MAYO DE 2018)
-Para efectos de esta Ley, se considera como persona física o moral especializada en materia de servicio de transporte privado de pasajeros, a los prestadores de servicios mediante la contratación del servicio que se les haga a través de aplicaciones en teléfonos inteligentes. Lo anterior sin perjuicio de lo establecido en el Título Quinto de la presente Ley.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2022)
+Artículo 105 Bis. El servicio de transporte privado de pasajeros, para su prestación, requiere contar con un permiso otorgado por la Agencia a la persona física que lo solicite y cumpla los requisitos y procedimientos previstos en la presente Ley, las disposiciones reglamentarias que al efecto se expidan, así como los acuerdos, circulares, manuales de especificaciones técnicas y condiciones de operación que determine la Agencia.
+Las personas físicas que obtengan el permiso para prestar el servicio de transporte privado de pasajeros, podrán prestar simultáneamente el servicio de transporte a demanda, para lo cual están obligados a cumplir con las obligaciones que deriven del presente Capítulo, así como con las establecidos (sic) en el Título Tercero Bis de la Ley.
+Este servicio no podrá estar sujeto a itinerarios, rutas, frecuencias de paso u horarios fijos.
+Los vehículos con los que se presta el servicio, no podrán hacer base o sitio, ofertar de manera directa en la vía pública sus servicios, ni prestar más de un servicio a la vez.
+La tarifa será acordada entre el prestador de servicio y el usuario, sin intervención de autoridad competente.

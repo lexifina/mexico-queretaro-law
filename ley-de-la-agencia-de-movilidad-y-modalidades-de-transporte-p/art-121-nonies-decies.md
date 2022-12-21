@@ -1,0 +1,7 @@
+(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2022)
+Artículo 121 Nonies decies. Los operadores del servicio bajo demanda que deseen prestar el servicio de transporte a demanda deberán cumplir, por lo menos, con los siguientes requisitos:
+I. Contar como mínimo con licencia de conducir oficial vigente;
+II. Estar inscritos en una empresa especializada en aplicaciones de movilidad que a su vez esté registrada ante la Agencia;
+III. Tomar los cursos, capacitaciones, exámenes de capacidad o psicométricos que establezca la empresa especializada en aplicaciones de movilidad como condición para registrarse o permanecer registrado en su Plataforma o la Plataforma de su empresa relacionada; o contar con Tarjetón de Identificación del Operador, obtenido conforme a esta ley.
+Las empresas especializadas en aplicaciones de movilidad, serán responsables de verificar el cumplimiento de los requisitos solicitados en la presente normativa, el incumplimiento u omisión a los citados requerimientos será sancionado conforme lo marca esta Ley y la Legislación que aplique al caso concreto.
+En caso de hechos de tránsito, donde por motivo cualquiera los vehículos registrados en la empresa especializada en aplicaciones de movilidad, no cuenten con seguro vigente que cubra lo relativo a la responsabilidad civil, la empresa especializada en aplicaciones de movilidad actuará como obligado subsidiario del conductor y responderá en los términos que establece la legislación aplicable, hasta por el monto de la cobertura del seguro que debió haber contratado el conductor para tal riesgo.

@@ -1,2 +1,2 @@
-(REFORMADO, P.O. 11 DE MAYO DE 2018)
-Artículo 105 Quater. Son vehículos del servicio de transporte privado de pasajeros, aquellas unidades utilizadas y aptas para brindar dicho servicio, cuya contratación será únicamente a través de aplicaciones tecnológicas y registradas por el Instituto, que cuenten con registro y certificación de la persona física o moral especializada en materia de servicio de transporte privado de pasajeros, además de cumplir con los requisitos y procedimientos previstos en la presente Ley, sus normas reglamentarias y demás disposiciones legales aplicables.
+(DEROGADO ÚLTIMO PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2022)
+Artículo 105 Quater. (DEROGADO, P.O. 21 DE DICIEMBRE DE 2022)

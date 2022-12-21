@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2022)
+Artículo 121 Sexies decies. El servicio de transporte a demanda por medio de aplicaciones se prestará únicamente a usuarios previamente registrados en la Plataforma que lo soliciten a través de la misma, por lo que queda estrictamente prohibido a los operadores del servicio bajo demanda hacer base, aceptar paradas en la calle u ofertar de manera directa en la vía pública sus servicios.
