@@ -1,47 +1,75 @@
 (REFORMADO, P.O. 19 DE DICIEMBRE DE 2018)
 Artículo 119 Bis. Por la ejecución de plano catastral que contenga elementos físicos o virtuales de un predio o un desarrollo inmobiliario, se causarán y pagarán:
-(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)
+(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)
 I. Cuando impliquen la realización de trabajos técnicos de topografía o geodesia, de un predio o un desarrollo inmobiliario con superficie de:
-Metros CuadradosUMAAdicionar 1.25 UMA por cada:
-Hasta de 15037Costo fijo
-De más de 1503714 m2 hasta llegar a 500 m2
-De más de 5007025 m2 hasta llegar a 1,000 m2
-De más de 1,00096120 m2 hasta llegar a 5,000 m2
-De más de 5,000140145 m2 hasta llegar a 20,000 m2
-De más de 20,000276170 m2 hasta llegar a 50,000 m2
-De más de 50,000507300 m2 hasta llegar a 100,000 m2
-De más de 100,000726600 m2 hasta llegar a 500,000 m2
-De más de 500,0001,6011,200 m2 hasta llegar a 1,000,000 m2
-De más de 1,000,0002,1481,500 m2 excedentes
-(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)
+Metros CuadradosUMAAdicionar 1.25 UMA
+por cada:
+Hasta de 150 39Costo fijo
+De más de 1503914 m2 hasta llegar
+a 500 m2
+De más de 50070.2523 m2 hasta llegar
+a 1,000 m2
+De más de 1,00097.42117 m2 hasta llegar
+a 5,000 m2
+De más de 5,000140.16135 m2 hasta llegar
+a 20,000 m2
+De más de 20,000279.05163 m2 hasta llegar
+a 50,000 m2
+De más de 50,000509.11265 m2 hasta llegar
+a 100,000 m2
+De más de 100,000744.96580 m2 hasta llegar
+a 500,000 m2
+De más de 500,0001,607.031,000 m2 hasta llegar
+a 1,000,000 m2
+De más de 1,000,0002,232.031,500 m2 excedentes
+(REFORMADO ESTE PÁRRAFO [N. DE E. CON SU TABLA], P.O. 22 DE DICIEMBRE DE 2022)
 II. Cuando impliquen la realización de trabajos de cartografía o aerofotografía, de un predio o un desarrollo inmobiliario con superficie de:
-Metros CuadradosUMAAdicionar 1.00 UMA por cada:
-Hasta de 15019Costo fijo
-De más de 1501950 m2 hasta llegar a 500 m2
-De más de 50027140 m2 hasta llegar a 1,000 m2
-De más de 1,00030360 m2 hasta llegar a 5,000 m2
-De más de 5,00042500 m2 hasta llegar a 20,000 m2
-De más de 20,00074700 m2 hasta llegar a 50,000 m2
-De más de 50,0001191,200 m2 hasta llegar a 100,000 m2
-De más de 100,0001621,600 m2 hasta llegar a 500,000 m2
-De más de 500,0004252,400 m2 hasta llegar a 1,000,000 m2
-De más de 1,000,0006443,200 m2 excedentes
+Metros CuadradosUMAAdicionar 1.00 UMA
+por cada:
+Hasta de 15021Costo fijo
+De más de 1502150 m2 hasta llegar
+a 500 m2
+De más de 50028140 m2 hasta llegar
+a 1,000 m2
+De más de 1,00031.57360 m2 hasta llegar
+a 5,000 m2
+De más de 5,00042.68450 m2 hasta llegar
+a 20,000 m2
+De más de 20,00076.02680 m2 hasta llegar
+a 50,000 m2
+De más de 50,000120.131,100 m2 hasta llegar
+a 100,000 m2
+De más de 100,000165.591,500 m2 hasta llegar
+a 500,000 m2
+De más de 500,000432.252,100 m2 hasta llegar
+a 1,000,000 m2
+De más de 1,000,000670.353,200 m2 excedentes
+(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)
 Con ortofoto de fondo, se adicionarán 6 UMA.
-(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)
+(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)
 III. Cuando el plano catastral se genere con información obtenida de un procedimiento de deslinde catastral, que se haya realizado dentro de un periodo no mayor de cinco años a partir de la solicitud del plano catastral, siempre y cuando el predio conserve las condiciones físicas o jurídicas; para un predio con superficie de:
-Metros CuadradosUMAAdicionar 1.25 UMA por cada:
-Hasta de 15019Costo fijo
-De más de 1501925 m2 hasta llegar a 500 m2
-De más de 5003870 m2 hasta llegar a 1,000 m2
-De más de 1,00047180 m2 hasta llegar a 5,000 m2
-De más de 5,00076250 m2 hasta llegar a 20,000 m2
-De más de 20,000155350 m2 hasta llegar a 50,000 m2
-De más de 50,000268600 m2 hasta llegar a 100,000 m2
-De más de 100,000377800 m2 hasta llegar a 500,000 m2
-De más de 500,0001,0331,200 m2 hasta llegar a 1,000,000 m2
-De más de 1,000,0001,5801,600 m2 excedentes
-(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)
-IV. En el caso de las fracciones I y III de este artículo, cuando el contribuyente opte por efectuar el procedimiento para la elaboración del plano catastral mediante topógrafo externo inscrito en el Padrón de Contratistas de Obra Pública del Estado de Querétaro y reconocido por la Dirección de Catastro, se causará y pagará el 50 por ciento de los montos establecidos en las fracciones I y III del presente artículo, siempre y cuando dicho topógrafo externo presente ante la Dirección de Catastro el expediente que incluya el plano de levantamiento topográfico del predio, realizado conforme a las normas técnicas para ejecución de planos catastrales de la Dirección de Catastro, la investigación de antecedentes de propiedad del predio objeto de levantamiento y de los predios colindantes en el Registro Público de la Propiedad, la solicitud y la documentación requerida para el trámite de plano catastral. Dicho expediente se someterá a revisión por parte de la Dirección de Catastro, si éste tuviera alguna inconsistencia atribuible al topógrafo externo que ocasionará una nueva revisión, pagará 21 UMA por la misma. El topógrafo externo al que se hace referencia en esta fracción, estará obligado a realizar las modificaciones, actualizaciones y anotaciones que establezca la Dirección de Catastro, de acuerdo al resultado del procedimiento administrativo de plano catastral;
+Metros CuadradosUMAAdicionar 1.25 UMA
+por cada:
+Hasta de 15020Costo fijo
+De más de 1502024 m2 hasta llegar
+a 500 m2
+De más de 50038.2365 m2 hasta llegar
+a 1,000 m2
+De más de 1,00047.84175 m2 hasta llegar
+a 5,000 m2
+De más de 5,00076.42210 m2 hasta llegar
+a 20,000 m2
+De más de 20,000165.70365 m2 hasta llegar
+a 50,000 m2
+De más de 50,000268.44550 m2 hasta llegar
+a 100,000 m2
+De más de 100,000382.08750 m2 hasta llegar
+a 500,000 m2
+De más de 500,0001,048.741,100 m2 hasta llegar
+a 1,000,000 m2
+De más de 1,000,0001,616.931,600 m2 excedentes
+(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)
+IV. En el caso de las fracciones I y III de este artículo, cuando el contribuyente opte por efectuar el procedimiento para la elaboración del plano catastral mediante dictaminador catastral o topógrafo externo inscrito en el Padrón de Contratistas de Obra Pública del Estado de Querétaro y reconocido por la Dirección de Catastro, se causará y pagará el 50 por ciento de los montos establecidos en las fracciones I y III del presente artículo, siempre y cuando dicho dictaminador catastral o topógrafo externo presente ante la Dirección de Catastro el expediente que incluya el plano de levantamiento topográfico del predio, realizado conforme a las normas técnicas para ejecución de planos catastrales de la Dirección de Catastro, la investigación de antecedentes de propiedad del predio objeto de levantamiento y de los predios colindantes en el Registro Público de la Propiedad, la solicitud y la documentación requerida para el trámite de plano catastral. Dicho expediente se someterá a revisión por parte de la Dirección de Catastro, si éste tuviera alguna inconsistencia atribuible al dictaminador catastral o topógrafo externo que ocasionará una nueva revisión, pagará 21 UMA por la misma. El dictaminador catastral o topógrafo externo al que se hace referencia en esta fracción, estará obligado a realizar las modificaciones, actualizaciones y anotaciones que establezca la Dirección de Catastro, de acuerdo al resultado del procedimiento administrativo de plano catastral;
 (REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)
 V. Cuando derivado de la elaboración del plano catastral a que se refiere el presente artículo, se detecten diferencias en cuanto a la superficie del bien objeto del mismo manifestada al inicio de dicho trámite, el contribuyente deberá pagar la cantidad correspondiente a la diferencia entre los derechos pagados inicialmente y los efectivamente causados conforme a la superficie derivada de la elaboración de dicho plano;
 (ADICIONADA, P.O. 23 DE DICIEMBRE DE 2021)

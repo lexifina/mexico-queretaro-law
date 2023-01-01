@@ -1,0 +1,4 @@
+Artículo 69 Ter. El impuesto se calculará aplicando la tasa del 10% al monto de las erogaciones efectivamente realizadas por la persona que participe en juegos con apuestas, ya sean pagos en efectivo, en especie, por medios electrónicos o por cualquier otro medio que permita participar en los mismos.
+Las erogaciones a que se refiere el párrafo anterior incluyen cualquier carga que se realice mediante tarjetas, bandas magnéticas, dispositivos electrónicos, fichas, contraseñas, comprobantes o cualquier otro medio que permitan participar en los juegos con apuestas a que se refieren las fracciones I a V del artículo 69 Bis de esta Ley, o el uso o acceso a las máquinas de juegos a que se refiere dicho artículo, ya sea que dichos medios o dispositivos se usen en la fecha en que se efectúe el pago o en una posterior.
+(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)
+Momento de causación
