@@ -1,5 +1,4 @@
 LEY DE SERVICIOS AUXILIARES DEL TRANSPORTE PÚBLICO DEL ESTADO DE QUERÉTARO
-[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE OCTUBRE DE 2021.]
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 20 de enero de 2012.
 LIC. JOSÉ EDUARDO CALZADA ROVIROSA,
 Gobernador Constitucional del Estado de Querétaro, a los habitantes del mismo, sabed que:
