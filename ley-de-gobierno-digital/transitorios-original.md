@@ -55,3 +55,4 @@ Gobernador del Estado de Querétaro
 Rúbrica
 María Guadalupe Murguía Gutiérrez
 Secretaria de Gobierno
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
