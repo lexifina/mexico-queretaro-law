@@ -1,27 +1,34 @@
+TRANSITORIOS:
+ARTÍCULO PRIMERO. Declaratoria
+Para los efectos señalados en el artículo segundo transitorio del Decreto de reforma a la Constitución Política del Estado Libre y Soberano de Nayarit, publicado en el Periódico Oficial del Estado con fecha 13 de octubre del año 2012, se declara que la presente legislación recoge los principios del nuevo sistema de justicia penal acusatorio en México, y entrará en vigor de acuerdo con los artículos siguientes.
+ARTÍCULO SEGUNDO. Vigencia
+Este Código entrará en vigor gradualmente en los términos previstos en la Declaratoria que mediante Bando Solemne emita el Congreso del Estado de Nayarit, previa solicitud de la Secretaría Técnica de la Comisión de Coordinación Interinstitucional para la Implementación del Sistema de Justicia Penal Acusatorio; la vigencia total del presente Código no podrá exceder del 18 de junio de 2016.
+ARTÍCULO TERCERO. Abrogación
+El Código Penal vigente promulgado mediante Decreto número 7009, publicado en el Periódico Oficial con fecha veintinueve de noviembre de mil novecientos ochenta y seis, así como todas sus reformas, se derogará de manera gradual hasta su abrogación en la medida en que avance la vigencia del presente Código, en los términos de la Declaratoria referida en el artículo transitorio primero.
+ARTÍCULO CUARTO. Ultractividad.
+Los procedimientos penales iniciados con anterioridad a la entrada en vigor del presente Código, así como los recursos de apelación serán concluidos conforme a las disposiciones vigentes al momento en que se cometió el delito.
+ARTÍCULO QUINTO. Efectos reincidencia-habitualidad.
+Las declaratorias de delincuentes reincidentes y/o habituales realizadas en el sistema penal tradicional, no surtirán ningún tipo de efecto jurídico en el sistema penal acusatorio.
+D A D O en la Sala de Sesiones "Lic. Benito Juárez García" del Honorable Congreso del Estado Libre y Soberano de Nayarit, en Tepic, su Capital, a los cinco días del mes de agosto del año dos mil catorce.
+Dip. Armando García Jiménez, Presidente.- Rúbrica.- Dip. María Dolores Porras Domínguez, Secretaria.- Rúbrica.- Dip. Miguel Angel Mú Rivera, Secretario.- Rúbrica.
+Y en cumplimiento a lo dispuesto en la fracción II del artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Código en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los seis días del mes de Septiembre del año dos mil catorce.- ROBERTO SANDOVAL CASTAÑEDA.- Rúbrica.- El Secretario General de Gobierno, Lic. José Trinidad Espinoza Vargas.- Rúbrica.
+N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DE LA DECLARATORIA DE IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO EN EL ESTADO DE NAYARIT Y SUS RESPECTIVOS TRANSITORIOS, P.O. DE 18 DE AGOSTO DE 2014.
+Artículo Primero. El Honorable Congreso del Estado de Nayarit representado por su Trigésima Legislatura, de conformidad a lo dispuesto por el artículo segundo transitorio de la reforma a la Constitución Política de los Estados Unidos Mexicanos, y artículo segundo transitorio del Código Nacional de Procedimientos Penales publicados con fecha 18 de junio de 2008 y 5 de marzo de 2014, respectivamente, en el Diario Oficial de la Federación, emite la presente declaratoria de entrada en vigor del Sistema de Justicia Penal Acusatorio en el Estado de Nayarit a partir del día 15 de diciembre de 2014 en los siguientes términos:
+a) Los efectos de la presente declaratoria aplicarán únicamente en los Municipios de Santa María del Oro, Tepic y Xalisco, Nayarit, respecto de los delitos de violencia familiar; abandono de familiares; delitos de tránsito ejecutados por conductores de vehículos o autoridades de tránsito previstos en el Libro Segundo, Título Segundo, Capítulo Quinto; daño en las cosas; y robo simple, tipificados en el Código a que se refiere el inciso c) del presente artículo;
+b) Con esta fecha entra en vigor la reforma a la Constitución Política del Estado Libre y Soberano de Nayarit, publicada el día 13 de octubre de 2012, en materia de Sistema de Justicia Penal Acusatorio, y supeditadas a su vigencia en los artículos segundo y tercero transitorios de dichas reformas a la presente declaración;
+c) Previamente a su publicación en el Periódico Oficial, con esta fecha surte efectos la vigencia del Nuevo Código Penal para el Estado de Nayarit, aprobado por la Trigésima Legislatura al H. Congreso del Estado de Nayarit, en sesión pública extraordinaria de fecha 5 de agosto del año 2014, cuya aplicación operará en los municipios y delitos descritos en el inciso a) del artículo primero del presente Decreto, hasta en tanto no se emita una nueva declaratoria, respecto de los demás delitos del citado Código;
+d) Para los efectos previstos en los incisos a), b) y c) del presente Decreto, el Estado Libre y Soberano de Nayarit, con esta fecha adopta el Código Nacional de Procedimientos Penales, y
+e) Respecto al Código Penal para el Estado de Nayarit, publicado en el Periódico Oficial, Órgano del Gobierno del Estado el 29 de noviembre de 1986, dicho instrumento seguirá vigente en todo el territorio estatal, con la salvedad prevista en los incisos a) y c) del artículo primero del presente Decreto.
+Artículo Segundo.- Para los efectos de su aplicación armónica y sistemática, con fecha 15 de diciembre del 2014, entrarán en vigor en la parte conducente, los siguientes ordenamientos legales:
+a) Ley Orgánica de la Fiscalía General, publicada en el Periódico Oficial, Órgano del Gobierno del Estado con fecha 15 de mayo del 2014, y
+b) Reformas a la Ley Orgánica del Poder Judicial del Estado de Nayarit, publicadas en el Periódico Oficial, Órgano del Gobierno del Estado con fecha 28 de mayo del 2014.
+Artículo Tercero.- Para los efectos de su aplicación armónica y sistemática, con fecha 15 de diciembre del 2014, entrarán en vigor previa publicación oficial, los siguientes ordenamientos legales, aprobados por la Trigésima Legislatura al H. Congreso del Estado de Nayarit, en sesión pública extraordinaria de fecha 5 de agosto del año 2014:
+a) Ley de Víctimas para el Estado de Nayarit, y
+b) Ley de Defensoría Pública y Asistencia Jurídica para el Estado de Nayarit.
+Artículo Cuarto.- Para continuar con la aplicación gradual y en su caso la implementación total del Sistema de Justicia Penal Acusatorio en el Estado de Nayarit, la Comisión de Coordinación Interinstitucional deberá solicitar por escrito al Poder Legislativo del Estado que en ejercicio de sus facultades emita la Declaratoria respectiva.
 TRANSITORIOS
-Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
-Artículo Segundo. Se abroga la Ley Electoral del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", en fecha 1 de junio de 2017, así como todas las disposiciones legales vigentes de igual o menor jerarquía en la materia, o que resulten contrarias a la presente Ley.
-Artículo Tercero. Los asuntos que a la entrada en vigor de esta Ley se encuentren en proceso, se resolverán conforme a las disposiciones vigentes al momento en que iniciaron.
-Artículo Cuarto. La Dirección Ejecutiva de Educación Cívica y Participación Ciudadana, y la Unidad de Acceso a la Información Pública, ahora Dirección Ejecutiva de Educación Cívica y Participación, así como Unidad de Transparencia del Instituto Electoral del Estado de Querétaro, respectivamente, mantendrán su integración.
-Artículo Quinto. El Consejo General del Instituto Electoral del Estado de Querétaro estará facultado para emitir los reglamentos, acuerdos y disposiciones administrativas, en el ámbito de su competencia.
-Artículo Sexto. Previo al inicio del proceso electoral 2020-2021, el Tribunal Electoral del Estado de Querétaro estará facultado para emitir la normatividad de los procedimientos administrativos sancionadores.
-LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO DE QUERÉTARO Y MANDARÁ SE IMPRIMA, PUBLIQUE Y OBSERVE.
-DADO EN EL SALÓN DE SESIONES "CONSTITUYENTES 1916-1917" RECINTO OFICIAL DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, A LOS VEINTIDÓS DÍAS DEL MES DE MAYO DEL AÑO DOS MIL VEINTE.
-ATENTAMENTE
-QUINCUAGÉSIMA NOVENA LEGISLATURA DEL ESTADO DE QUERÉTARO
-MESA DIRECTIVA
-DIP. MA. CONCEPCIÓN HERRERA MARTÍNEZ
-PRESIDENTA
-Rúbrica
-DIP. JORGE HERRERA MARTÍNEZ
-PRIMER SECRETARIO
-Rúbrica
-Francisco Domínguez Servién, Gobernador del Estado de Querétaro, en ejercicio de lo dispuesto por los artículos 22 fracción I, 23 de la Constitución Política del Estado Libre y Soberano de Querétaro y 8 de la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro; expido y promulgo la presente LEY ELECTORAL DEL ESTADO DE QUERÉTARO.
-Dado en el Palacio de la Corregidora, sede del Poder Ejecutivo del Estado de Querétaro, en la ciudad de Santiago de Querétaro, Qro., el día veintinueve del mes de mayo del año dos mil veinte; para su debida publicación y observancia.
-Francisco Domínguez Servién
-Gobernador del Estado de Querétaro
-Rúbrica
-Juan Martín Granados Torres
-Secretario de Gobierno
-Rúbrica
-[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+Artículo Segundo.- La presente Declaratoria deberá difundirse mediante Bando Solemne en el Estado de Nayarit.
+Artículo Tercero.- Para su conocimiento y efectos conducentes, remítase el presente Decreto a las Cámaras que componen el Honorable Congreso de la Unión, a las legislaturas estatales y a la Asamblea Legislativa del Distrito Federal.
+Artículo Cuarto.- Comuníquese el presente Decreto a la Secretaría de Gobernación del Gobierno de la República, por conducto de la Secretaría Técnica del Consejo de Coordinación para la Implementación del Sistema de Justicia Penal.
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
