@@ -8,7 +8,8 @@ Se considera que existen razones de género, en cualquiera de las circunstancias
 I. La víctima presente signos de violencia sexual de cualquier tipo;
 II. A la víctima se le hayan infligido lesiones o mutilaciones infamantes o marcas degradantes, previas o posteriores a la privación de la vida o actos de necrofilia;
 III. Existan datos que establezcan que hubo amenazas, acoso o lesiones del sujeto activo en contra de la víctima;
-IV. El cuerpo de la víctima haya sido expuesto, depositado o arrojado en un lugar público o paraje despoblado o exhibido por cualquier medio;
+(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)
+IV. El cuerpo o restos de la víctima hayan sido expuestos, depositados, enterrados o arrojados en un lugar público, paraje despoblado o exhibidos por cualquier medio;
 (REFORMADA, P.O. 8 DE MAYO DE 2015)
 V. Existan antecedentes o datos de cualquier tipo de violencia, en el ámbito familiar, laboral, escolar o vecinal del sujeto activo en contra de la víctima;
 (REFORMADA, P.O. 8 DE MAYO DE 2015)
