@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2023)
+Artículo 210 Bis. Corresponderá a cada Municipio en el ámbito de su competencia, vigilar el proceso de entrega-recepción de obras de urbanización de los Fraccionamientos, de conformidad con los Planes o Programas de desarrollo urbano, preservando el equilibrio ecológico, la protección al medio ambiente, garantizando la conectividad y movilidad, otorgando los servicios dignos para el sano desarrollo de la sociedad y las demás que le señalen las disposiciones en la materia.
