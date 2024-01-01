@@ -1,5 +1,4 @@
 LEY DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE QUERÉTARO
-[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUERÉTARO EL 31 DE MARZO DE 2023.]
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 27 de febrero de 2009.
 LIC. FRANCISCO GARRIDO PATRÓN,
 Gobernador Constitucional del Estado de Querétaro, a los habitantes del mismo, sabed que:
