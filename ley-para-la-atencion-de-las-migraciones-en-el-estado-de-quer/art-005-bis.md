@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 16 DE FEBRERO DE 2024)
+Artículo 5 Bis. Los sujetos de la presente Ley tienen el derecho a recibir un trato digno y sin discriminación en el acceso, goce y ejercicio de todos sus derechos, ya sea por su origen étnico, nacionalidad, condición migratoria o cualquier otra circunstancia ligada a su estatus migratorio o al de su familia.
+A fin de lograr lo anterior, las autoridades estatales y municipales deben generar acciones y políticas tendientes a prevenir y erradicar todos los actos discriminatorios en contra de todas las personas migrantes, ya sea su residencia temporal o definitiva, o que hayan retornado a sus comunidades de origen en el Estado.
