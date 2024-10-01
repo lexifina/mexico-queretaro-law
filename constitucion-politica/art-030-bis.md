@@ -11,3 +11,5 @@ III. Si enviada la terna, la Legislatura no procediere al nombramiento respectiv
 Solamente podrá ser removido por la Legislatura, por las causas que expresamente establezca la Ley, mediante la misma votación requerida para su nombramiento.
 Las ausencias del Fiscal General del Estado serán suplidas en los términos que determine la Ley.
 El Fiscal General del Estado presentará un informe anual mediante comparecencia ante la Legislatura del Estado.
+(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2024)
+La persona que sea declarada deudora alimentaria morosa no podrá ocupar el cargo de Fiscal General del Estado.
