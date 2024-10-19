@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 18 DE OCTUBRE DE 2024)
+Artículo 38 Ter. La Defensoría podrá realizar acciones de capacitación y formación académica en materia de Derechos Humanos y temas afines, para lo cual contará con una unidad administrativa denominada Centro de Estudios sobre Derechos Humanos de Querétaro, en lo sucesivo el CEDHQ que además tendrá a su cargo enriquecer, mantener y custodiar el acervo documental de la Defensoría. La formación académica que imparta será de nivel superior, conforme a los planes y programas de estudio que éste diseñe.
+Las acciones de capacitación y formación académica, así como la organización, operación y funcionamiento del CEDHQ, se regirá conforme a las disposiciones reglamentarias que para tal efecto emita el Presidente de la Defensoría.

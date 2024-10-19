@@ -12,5 +12,6 @@ IX. Organizar al personal administrativo a su cargo;
 X. Fungir como asesor jurídico del Presidente;
 XI. Representar a la Defensoría en sesiones de organismos, comités, asambleas y demás que le instruya el Presidente; y
 XII. Las demás que le señale la presente Ley y la normatividad aplicable.
-Título Tercero
-Del régimen laboral, patrimonio y presupuesto
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE OCTUBRE DE 2024)
+Capítulo VIII
+Del Centro de Estudios sobre Derechos Humanos de Querétaro
