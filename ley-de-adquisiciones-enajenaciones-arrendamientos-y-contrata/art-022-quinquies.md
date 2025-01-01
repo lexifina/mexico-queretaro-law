@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)
+Artículo 22 Quinquies. Adicionalmente a los supuestos previstos en el artículo 22 de la presente Ley, los Comités de los Poderes del Estado, Ayuntamientos y entidades públicas, podrán autorizar la realización de la adjudicación directa de adquisiciones, contrataciones y servicios, en los supuestos en que existan donaciones en especie o coinversión con Asociaciones Civiles sin fines de lucro, debiendo acreditar el beneficio social.

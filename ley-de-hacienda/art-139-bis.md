@@ -1,2 +1,2 @@
-(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)
-Artículo 139 Bis. Por la inscripción en el Padrón de Contratistas de Obra Pública del Estado de Querétaro, causará y pagará el equivalente a 56 UMA; por la renovación, adición de especialidades, actualización de situación financiera y actualización de datos en la constancia de registro en el Padrón de Contratistas de Obra Pública del Estado de Querétaro, causará y pagará el equivalente a 46 UMA.
+(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)
+Artículo 139 Bis. Por la inscripción en el Padrón de Contratistas de Obra Pública del Estado de Querétaro, causará y pagará el equivalente a 60 UMA; por la renovación, adición de especialidades, actualización de situación financiera y actualización de datos en la constancia de registro en el Padrón de Contratistas de Obra Pública del Estado de Querétaro, causará y pagará el equivalente a 50 UMA.
