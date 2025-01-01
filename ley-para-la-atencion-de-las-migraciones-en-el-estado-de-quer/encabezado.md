@@ -1,3 +1,4 @@
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 LEY PARA LA ATENCIÓN DE LAS MIGRACIONES EN EL ESTADO DE QUERÉTARO
 Ley publicada en el No. 45 del Periódico Oficial del Estado de Querétaro, el miércoles 2 de junio de 2021.
 FRANCISCO DOMÍNGUEZ SERVIÉN, Gobernador del Estado de Querétaro, a los habitantes del mismo, sabed que:

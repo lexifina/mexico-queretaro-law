@@ -6,5 +6,6 @@ III. Realizar expresiones de incapacidad, y menosprecio, vinculadas a su materni
 IV. Condicionar su autonomía e independencia a la decisión de otros miembros del núcleo familiar;
 V. Negar injustificadamente la representación jurídica en cualquier materia que corresponda conforme a las leyes aplicables;
 VI. Someter a procedimientos de conciliación, negociación, mediación o acuerdo entre las partes, existiendo la presunción de alguna modalidad o tipo de violencia;
-VII. Proporcionar psicoterapia de agresores de violencia familiar sin la validación del Instituto Queretano de las Mujeres o sin supervisión clínica y registro del modelo terapéutico que haya probado su eficacia; y
+(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)
+VII. Proporcionar psicoterapia de agresores de violencia familiar sin la validación de la Secretaría de las Mujeres del Poder Ejecutivo del Estado de Querétaro o sin supervisión clínica y registro del modelo terapéutico que haya probado su eficacia; y
 VIII. Proporcionar a las víctimas psicoterapia de pareja o familiar sin estar debidamente acreditado para ello.

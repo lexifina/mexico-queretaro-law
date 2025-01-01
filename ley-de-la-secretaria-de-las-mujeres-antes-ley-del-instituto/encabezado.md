@@ -1,4 +1,5 @@
-LEY DEL INSTITUTO QUERETANO DE LAS MUJERES
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+LEY DE LA SECRETARÍA DE LAS MUJERES DEL ESTADO DE QUERÉTARO
 Ley publicada en el Número 93 del Periódico Oficial del Estado de Querétaro, el viernes 24 de noviembre de 2023.
 MAURICIO KURI GONZÁLEZ,
 Gobernador del Estado de Querétaro, a los habitantes del mismo, sabed que:
@@ -6,7 +7,8 @@ LA SEXAGÉSIMA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTA
 CONSIDERANDO
 […]
 Por lo anteriormente expuesto, la Sexagésima Legislatura del Estado de Querétaro, expide la siguiente:
-LEY DEL INSTITUTO QUERETANO DE LAS MUJERES
+(REFORMADA SU DENOMINACIÓN, P.O. 27 DE SEPTIEMBRE DE 2024)
+LEY DE LA SECRETARÍA DE LAS MUJERES
 Título Primero
 Disposiciones Generales
 Capítulo Único
