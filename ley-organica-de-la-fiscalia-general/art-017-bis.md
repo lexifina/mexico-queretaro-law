@@ -16,7 +16,6 @@ XIII. Autorizar las formas de terminación de la investigación de conformidad c
 XIV. Las demás que resulten necesarias para el ejercicio de sus funciones.
 La Vice Fiscalía Regional para la ejecución de sus atribuciones, contará con los departamentos, áreas y demás personal que el servicio requiera, conforme a la disponibilidad presupuestal y demás disposiciones jurídicas aplicables.
 La Vice Fiscalía Regional ejercerá sus atribuciones respecto de hechos acaecidos en la circunscripción territorial que comprende los Municipios de Amealco de Bonfil, Arroyo Seco, Cadereyta de Montes, Colón, Ezequiel Montes, Jalpan de Serra, Landa de Matamoros, Pedro Escobedo, Peñamiller, Pinal de Amoles, San Joaquín, San Juan del Río, Tequisquiapan y Tolimán.
-Título Tercero
-De las atribuciones de las Direcciones
-Capítulo Primero
-Disposiciones generales
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE ABRIL DE 2025)
+Capítulo Noveno
+De la Vice Fiscalía de Formación y Capacitación
