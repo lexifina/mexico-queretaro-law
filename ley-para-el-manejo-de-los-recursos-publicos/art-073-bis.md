@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2025)
+Artículo 73 Bis. Los subsidios para cubrir impactos financieros destinados a sectores de la sociedad, podrán además otorgarse con el fin de aminorar las cargas económicas de manera parcial de los sujetos obligados al pago de contribuciones, conforme a la política tributaria que al efecto emitan los gobiernos estatal o municipales mediante el respectivo programa.

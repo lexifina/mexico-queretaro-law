@@ -4,6 +4,8 @@ No obstante lo dispuesto en el párrafo anterior, el contribuyente podrá modifi
 I. Cuando sólo incrementen sus ingresos o el valor de sus actos o actividades.
 II. Cuando sólo disminuyan sus deducciones o reduzcan las cantidades acreditables o compensadas o de contribuciones a cuenta.
 III. Cuando la presentación de la declaración que modifica a la original se establezca como obligación por disposición expresa de Ley.
+(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2025)
+IV. Cuando se incrementen las bases gravables de la contribución, monto o valor sobre la cual se calcula la contribución.
 Lo dispuesto en este precepto no limita las facultades de comprobación de las autoridades fiscales.
 La modificación de las declaraciones a que se refiere este artículo se efectuará mediante la presentación de la declaración que sustituya a la anterior, debiendo contener todos los datos que requiera la declaración, aun cuando sólo se modifique alguno de ellos.
 Iniciado el ejercicio de facultades de comprobación, únicamente se podrá presentar declaración complementaria, cuando así lo permitan las disposiciones legales aplicables, debiendo pagarse las multas previstas en el artículo 103 de este Código.
