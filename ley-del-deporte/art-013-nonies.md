@@ -1,5 +1,5 @@
-(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)
-Artículo 13 Nonies. El Director General será designado y removido libremente por el Gobernador del Estado o por el Secretario de Educación del Poder Ejecutivo del Estado de Querétaro y tendrá las siguientes atribuciones:
+(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2026)
+Artículo 13 Nonies. El titular de la Dirección General será designado y removido libremente por el titular del Poder Ejecutivo del Estado o por el titular de la Secretaría de Educación del Poder Ejecutivo del Estado de Querétaro y tendrá las siguientes atribuciones
 (ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)
 I. Ejecutar los acuerdos aprobados por la Junta Directiva;
 (ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)

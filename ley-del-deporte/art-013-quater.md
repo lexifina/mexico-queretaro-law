@@ -1,8 +1,9 @@
 (ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)
 Artículo 13 Quáter. La Junta Directiva estará integrada por:
-(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)
-I. Un Presidente, cuyo titular será el Gobernador del Estado o el titular de la Secretaría de Educación del Poder Ejecutivo del Estado de Querétaro;
-II. Un Secretario Técnico que será el Director General del INDEREQ;
+(REFORMADA, P.O. 8 DE MAYO DE 2026)
+I. Una Presidencia, cuyo titular será el Gobernador del Estado o el titular de la Secretaría de Educación del Poder Ejecutivo del Estado de Querétaro;
+(REFORMADA, P.O. 8 DE MAYO DE 2026)
+II. Una Secretaría Técnica, que será el titular de la Dirección General del INDEREQ;
 III. Seis Vocales, que serán:
 a) Un representante de la Secretaría de Educación;
 b) Un representante de la Secretaría de la Juventud;
