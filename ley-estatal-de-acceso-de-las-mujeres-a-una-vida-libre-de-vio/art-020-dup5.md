@@ -1,6 +1,2 @@
 (ADICIONADO, P.O. 21 DE ENERO DE 2019)
 Artículo 20. quinquies. Se considera violencia mediática a las conductas que a través de cualquier medio de comunicación impreso, electrónico o publicidad local, promueva la explotación de mujeres, adolescentes y niñas o sus imágenes, injurie, difame, discrimine, deshonre, humille o atente contra su dignidad y fomenten la desigualdad entre hombres y mujeres o construya patrones socioculturales reproductores de la desigualdad o generadores de violencia, estas acciones serán vigiladas y sancionadas por las autoridades competentes.
-Título Tercero
-Del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres
-Capítulo Primero
-Del Sistema Estatal y su integración
