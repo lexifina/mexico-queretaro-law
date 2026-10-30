@@ -1,0 +1,11 @@
+{
+  "path": "mx-que",
+  "code": "MX-QUE",
+  "name": "Querétaro",
+  "level": "state",
+  "parent": "mx",
+  "repo": "https://github.com/lexifina/mexico-queretaro-law",
+  "build": "built: constitution, codes and laws (152 ordenamientos, 1159 versions) from SCJN Legislación",
+  "language": "es",
+  "sources": 1
+}

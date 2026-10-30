@@ -1,0 +1,684 @@
+day,kind,law,acts,files,branch
+1917-09-25,start,constitucion-1917-09-22-22,constitucion-politica,173,main
+1918-11-12,law,decreto-1918-11-09-45,constitucion-politica,3,main
+1921-05-24,law,ley-1921-05-21-20,constitucion-politica,2,main
+1923-07-03,law,ley-1923-06-30-26,constitucion-politica,3,main
+1923-09-25,law,ley-1923-09-22-38,constitucion-politica,3,main
+1927-12-08,law,ley-1927-12-08-49,constitucion-politica,2,main
+1928-01-08,law,ley-1928-01-05-1,constitucion-politica,2,main
+1928-09-27,law,reforma-1928-09-27-39,constitucion-politica,15,main
+1928-11-04,law,ley-1928-11-01-44,constitucion-politica,8,main
+1929-01-01,law,ley-1928-12-27-52,constitucion-politica,22,main
+1929-01-27,law,ley-1929-01-24-4,constitucion-politica,3,main
+1929-01-27,law,ley-1929-01-24-4-2,constitucion-politica,2,main
+1929-01-27,law,ley-1929-01-24-4-3,constitucion-politica,2,main
+1929-01-27,law,ley-1929-01-24-4-4,constitucion-politica,2,main
+1929-09-16,law,ley-1929-09-13-37,constitucion-politica,3,main
+1929-12-29,law,decreto-1929-12-26-52,constitucion-politica,2,main
+1931-04-12,law,ley-1931-04-09-15,constitucion-politica,2,main
+1931-05-31,law,ley-1931-05-28-22,constitucion-politica,3,main
+1933-01-01,law,ley-1932-12-29-52,constitucion-politica,8,main
+1933-03-12,law,ley-1933-03-09-10,constitucion-politica,3,main
+1934-10-21,law,ley-1934-10-18-42,constitucion-politica,2,main
+1935-07-14,law,ley-1935-07-11-28,constitucion-politica,2,main
+1935-10-13,law,ley-1935-10-10-41,constitucion-politica,2,main
+1935-12-26,law,ley-1935-12-26-52,constitucion-politica,6,main
+1936-07-09,law,ley-1936-07-09-28,constitucion-politica,2,main
+1936-12-20,law,ley-1936-12-17-51,constitucion-politica,4,main
+1937-10-31,law,ley-1937-10-28-43,constitucion-politica,6,main
+1939-02-26,law,ley-1939-02-23-8,constitucion-politica,2,main
+1939-07-09,law,ley-1939-07-06-27,constitucion-politica,3,main
+1939-09-24,start,ley-1939-09-21-38,ley-numero-1-de-la-xxxii-legislatura,9,main
+1940-01-01,law,ley-1939-12-28-51,constitucion-politica,8,main
+1941-04-24,law,ley-1941-04-24-17,constitucion-politica,2,main
+1943-05-16,law,ley-1943-05-13-19,constitucion-politica,5,main
+1943-12-09,law,ley-1943-12-09-49-alcance,constitucion-politica,2,main
+1963-07-21,start,ley-1963-07-18-29,ley-por-la-que-se-faculta-al-ejecutivo-local-para-enajenar-l,5,main
+1967-12-31,start,ley-1967-12-28-52,ley-por-la-que-se-faculta-al-c-gobernador-constitucional,3,main
+1969-08-03,law,ley-1969-07-31-31,constitucion-politica,7,main
+1969-09-28,law,ley-1969-09-25-39,constitucion-politica,7,main
+1969-12-07,start,ley-1969-12-04-49,ley-que-establece-la-obligacion-de-bardear-los-predios-urban,11,main
+1972-04-27,law,ley-1972-04-27-17,constitucion-politica,3,main
+1972-07-06,law,ley-1972-07-06-27,constitucion-politica,5,main
+1973-03-01,law,ley-1973-03-01-9,constitucion-politica,4,main
+1973-05-03,start,ley-1973-05-03-18,ley-que-crea-la-orquesta-de-camara-de-queretaro,6,main
+1974-05-02,law,ley-1974-05-02-18,constitucion-politica,2,main
+1974-08-18,start,ley-1974-08-15-33,ley-que-crea-la-comision-tripartita,19,main
+1974-11-28,start,ley-1974-11-28-48,ley-que-crea-el-consejo-consultivo,13,main
+1975-07-10,law,ley-1975-07-10-28,constitucion-politica,4,main
+1976-03-07,law,ley-1976-03-04-10,constitucion-politica,3,main
+1976-07-25,law,ley-1976-07-22-30,constitucion-politica,3,main
+1976-09-09,start,ley-1976-09-09-37,ley-que-crea-la-escuela-normal-superior-de-queretaro,19,main
+1977-12-18,law,ley-1977-12-15-50,constitucion-politica,7,main
+1978-07-23,law,ley-1978-07-20-29,constitucion-politica,4,main
+1978-08-13,law,ley-1978-08-10-32,constitucion-politica,9,main
+1979-10-18,start,ley-1979-10-18-42,ley-que-establece-los-limites-urbanos,10,main
+1979-12-09,law,ley-1979-12-06-49,constitucion-politica,11,main
+1981-01-02,start,ley-1981-01-01-1,ley-que-crea-la-direccion-estatal-coordinadora-del-registro,5,main
+1982-10-10,start,ley-1982-10-07-40,ley-que-prorroga-los-contratos-de-arrendamiento-de-bienes-in,7,main
+1983-12-09,law,ley-1983-12-08-49,constitucion-politica,32,main
+1984-12-27,start,ley-1984-12-27-52,ley-que-aprueba-la-incorporacion,6,main
+1985-11-03,law,ley-1985-10-31-44,constitucion-politica,14,main
+1985-11-03,law,ley-1985-10-31-44-2,constitucion-politica,6,main
+1985-11-29,start,ley-1985-11-28-40,ley-de-estimulos-civiles,44,main
+1985-12-20,law,ley-1985-12-19-51,constitucion-politica,4,main
+1985-12-27,start,ley-1985-12-26-52,ley-que-crea-la-comision-estatal-de-infraestructura-de-quere,17,main
+1985-12-27,law,ley-1985-12-26-52,constitucion-politica,2,main
+1986-01-03,start,ley-1986-01-02-1,ley-organica-de-la-universidad-autonoma-de-queretaro,58,main
+1987-04-24,law,ley-1987-04-23-17,constitucion-politica,2,main
+1987-08-22,start,codigo-1987-07-23-30-anexo,codigo-penal,310,main
+1987-12-27,start,ley-1987-12-24-52,ley-organica-de-la-escuela-normal,69,main
+1989-09-28,law,ley-1987-07-02-27,constitucion-politica,19,main
+1989-09-28,law,ley-1988-04-14-16,constitucion-politica,4,main
+1989-09-28,law,ley-1988-08-18-34,constitucion-politica,5,main
+1990-11-02,law,ley-1990-11-01-46,codigo-penal,10,main
+1991-01-06,law,ley-1991-01-03-1,constitucion-politica,184,main
+1991-01-11,law,ley-1991-01-10-2,codigo-penal,7,main
+1992-01-01,law,ley-1991-12-31-60,codigo-penal,10,main
+1992-06-05,law,ley-1992-06-04-23,codigo-penal,10,main
+1992-07-10,law,ley-1992-07-09-29,ley-que-crea-la-comision-estatal-de-infraestructura-de-quere,19,main
+1992-08-07,law,ley-1992-08-06-33,codigo-penal,5,main
+1993-12-17,law,ley-1993-12-16-51,codigo-penal,11,main
+1993-12-29,law,reforma-1993-12-28-53,constitucion-politica,8,main
+1993-12-29,law,reforma-1993-12-28-53-2,constitucion-politica,7,main
+1994-07-08,law,ley-1994-07-07-28,codigo-penal,11,main
+1994-07-08,law,reforma-1994-07-07-28,constitucion-politica,5,main
+1996-09-13,law,ley-1996-09-12-38,constitucion-politica,27,main
+1996-09-13,law,ley-1996-09-12-38-2,constitucion-politica,7,main
+1996-12-20,law,ley-1996-12-19-52,codigo-penal,16,main
+1997-09-20,law,ley-1997-09-19-38,constitucion-politica,23,main
+1999-04-05,law,ley-1999-04-02-14,codigo-penal,17,main
+1999-06-07,start,,codigo-municipal-de-queretaro,1048,main
+1999-07-17,law,ley-1999-07-16-29,codigo-penal,5,main
+1999-10-16,law,ley-1999-10-15-42,codigo-penal,6,main
+1999-10-30,law,acuerdo-s-1999-10-29-44,codigo-municipal-de-queretaro,4,main
+1999-12-11,law,ley-1999-12-10-50,constitucion-politica,11,main
+2000-01-29,law,acuerdo-s-2000-01-28-44,codigo-municipal-de-queretaro,9,main
+2000-02-26,law,ley-2000-02-25-8,constitucion-politica,3,main
+2000-06-17,law,reglamento-2000-06-16-24,codigo-municipal-de-queretaro,19,main
+2000-09-02,law,reglamento-2000-09-01-35,codigo-municipal-de-queretaro,37,main
+2000-09-16,law,ley-2000-09-15-37,constitucion-politica,19,main
+2000-10-21,law,ley-2000-10-20-43,codigo-penal,10,main
+2000-12-25,law,acuerdo-s-2000-12-22-52,codigo-municipal-de-queretaro,9,main
+2001-06-01,start,ley-2001-05-25-24,ley-organica-municipal,181,main
+2002-03-23,law,reglamento-2002-03-22-22,codigo-municipal-de-queretaro,19,main
+2002-08-24,law,ley-2002-08-23-39,codigo-penal,10,main
+2002-08-24,law,ley-2002-08-23-39-2,codigo-penal,8,main
+2002-10-26,law,ley-2002-10-25-48,codigo-penal,7,main
+2002-11-02,law,ley-2002-11-01-49,codigo-penal,3,main
+2002-11-16,law,ley-2002-11-15-52,codigo-penal,4,main
+2002-12-07,law,ley-2002-12-06-55,codigo-penal,5,main
+2002-12-09,law,ley-2002-12-06-55-2,codigo-penal,6,main
+2002-12-21,law,ley-2002-12-20-57,codigo-penal,508,main
+2002-12-21,law,ley-2002-12-20-57-2,codigo-penal,512,main
+2003-06-28,law,ley-2003-06-27-36,codigo-penal,7,main
+2003-10-03,law,ley-2003-10-03-62,codigo-penal,13,main
+2003-11-13,start,ley-2003-11-12-68,ley-de-obra-publica,85,main
+2004-10-02,law,acuerdo-s-2004-10-01-56,codigo-municipal-de-queretaro,81,main
+2004-10-09,law,ley-2004-10-08-57,ley-organica-municipal,4,main
+2004-10-30,law,ley-2004-10-29-61,ley-organica-municipal,2,main
+2004-12-17,start,ley-2004-12-17-70,ley-de-fomento-a-la-actividad-artesanal-en-el-estado-de-quer,53,main
+2005-04-02,law,ley-2005-04-01-18,ley-organica-municipal,6,main
+2005-04-10,law,ley-2005-03-11-13,codigo-penal,8,main
+2005-06-16,law,reglamento-2005-06-15-30,codigo-municipal-de-queretaro,10,main
+2005-07-02,law,acuerdo-s-2005-07-01-33,codigo-municipal-de-queretaro,4,main
+2005-10-21,law,ley-2005-10-21-54,ley-organica-municipal,3,main
+2005-10-31,law,ley-2005-10-28-57,constitucion-politica,13,main
+2005-12-10,law,reglamento-2005-12-09-66,codigo-municipal-de-queretaro,9,main
+2005-12-31,start,ley-2005-12-30-76,ley-para-la-cultura-y-las-artes,57,main
+2006-02-01,law,ley-2006-01-31-6,constitucion-politica,19,main
+2006-03-04,law,ley-2006-03-03-12,ley-organica-municipal,2,main
+2006-05-06,start,ley-2006-05-05-24,ley-que-fija-el-arancel-para-el-cobro-de-honorarios-profesio,24,main
+2006-10-12,law,decreto-2006-10-11-70,ley-organica-municipal,3,main
+2006-11-18,law,ley-2006-11-17-77,ley-organica-municipal,3,main
+2006-11-20,law,ley-2006-11-17-77,codigo-penal,10,main
+2007-01-13,law,ley-2007-01-12-2,constitucion-politica,12,main
+2007-01-13,law,ley-2007-01-12-2-2,constitucion-politica,10,main
+2007-03-17,law,acuerdo-s-2007-03-16-18,codigo-municipal-de-queretaro,3,main
+2007-09-08,law,ley-2007-09-07-53,codigo-penal,6,main
+2008-01-01,law,ley-2007-12-10-73,ley-de-obra-publica ley-organica-municipal,7,main
+2008-02-12,law,ley-2008-02-11-8,ley-de-obra-publica,3,main
+2008-03-01,law,ley-2008-02-29-12,codigo-penal,14,main
+2008-03-01,law,ley-2008-02-29-12-2,codigo-penal,9,main
+2008-03-15,law,ley-2008-03-14-15,codigo-penal,11,main
+2008-03-29,law,reglamento-2008-03-28-17,codigo-municipal-de-queretaro,6,main
+2008-04-01,law,reforma-2008-03-31-18,constitucion-politica,107,main
+2008-06-21,law,ley-2008-06-20-35,codigo-penal,7,main
+2008-06-21,law,ley-2008-06-20-35-2,codigo-penal,4,main
+2008-06-21,law,ley-2008-06-20-35-3,codigo-penal,5,main
+2008-07-19,law,ley-2008-07-18-40,codigo-penal,6,main
+2008-07-26,law,ley-2008-07-25-41,codigo-penal,4,main
+2008-09-06,law,reglamento-2008-09-05-48,codigo-municipal-de-queretaro,10,main
+2008-09-29,law,ley-2008-09-26-51,codigo-penal,7,main
+2008-12-04,start,ley-2008-12-01-64,ley-organica-del-poder-legislativo,201,main
+2008-12-14,start,ley-2008-12-13-68,ley-de-coordinacion-fiscal-estatal-intermunicipal,34,main
+2008-12-18,start,ley-2008-12-17-69,ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le,35,main
+2008-12-18,start,ley-2008-12-17-69,ley-de-planeacion,64,main
+2008-12-18,start,ley-2008-12-17-69,ley-del-sistema-de-asistencia-social,26,main
+2008-12-18,start,ley-2008-12-17-69,ley-organica-del-poder-ejecutivo,35,main
+2008-12-18,start,ley-2008-12-17-69,ley-que-establece-las-bases-para-la-prevencion-y-la-atencion,22,main
+2009-01-01,law,reforma-2008-12-31-76,constitucion-politica,41,main
+2009-01-24,law,reglamento-2009-01-23-5,codigo-municipal-de-queretaro,104,main
+2009-02-28,start,ley-2009-02-27-15,ley-de-procedimientos-administrativos,122,main
+2009-03-21,start,ley-2009-03-20-20,ley-de-deuda-publica,18,main
+2009-03-21,start,ley-2009-03-20-20,ley-de-entrega-recepcion,26,main
+2009-03-21,start,ley-2009-03-20-20,ley-de-los-trabajadores,197,main
+2009-03-21,law,ley-2009-03-20-20,ley-organica-municipal,66,main
+2009-03-28,start,ley-2009-03-27-21,ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-vio,65,main
+2009-04-04,start,ley-2009-04-03-22,ley-industrial,61,main
+2009-04-26,start,ley-2009-03-27-21,ley-de-justicia-constitucional,121,main
+2009-05-30,law,ley-2009-05-29-34,ley-que-crea-la-comision-estatal-de-infraestructura-de-quere,3,main
+2009-06-18,start,ley-2009-06-17-42,ley-de-fundos-legales,15,main
+2009-06-18,start,ley-2009-06-17-42,ley-de-la-administracion-publica-paraestatal,66,main
+2009-06-18,start,ley-2009-06-17-42,ley-organica-del-colegio-de-bachilleres,58,main
+2009-06-19,law,fe-de-erratas-2009-06-19-43,ley-de-los-trabajadores,2,main
+2009-06-27,start,ley-2009-06-26-45,ley-de-adquisiciones-enajenaciones-arrendamientos-y-contrata,99,main
+2009-06-27,start,ley-2009-06-26-45,ley-del-deporte,40,main
+2009-06-27,start,ley-2009-06-26-45,ley-del-notariado,182,main
+2009-07-25,start,ley-2009-07-24-53,ley-de-archivos,56,main
+2009-07-25,start,ley-2009-07-24-53,ley-de-derechos-y-cultura-de-los-pueblos-y-comunidades-indig,71,main
+2009-07-25,start,ley-2009-07-24-53,ley-de-desarrollo-pecuario,95,main
+2009-07-25,start,ley-2009-07-24-53,ley-de-expropiacion,21,main
+2009-07-25,start,ley-2009-07-24-53,ley-de-instituciones-de-asistencia-privada,81,main
+2009-08-01,start,ley-2009-07-31-55,ley-de-educacion,81,main
+2009-08-01,start,ley-2009-07-31-55,ley-de-turismo,71,main
+2009-08-04,start,ley-2009-08-03-56,ley-de-profesiones,133,main
+2009-08-04,start,ley-2009-08-03-56,ley-de-responsabilidad-patrimonial,25,main
+2009-08-22,law,reglamento-2009-08-21-59,codigo-municipal-de-queretaro,50,main
+2009-08-22,law,acuerdo-s-2009-08-21-59,codigo-municipal-de-queretaro,27,main
+2009-09-19,law,ley-2009-09-18-68,constitucion-politica,3,main
+2009-10-10,law,ley-2009-10-09-77,constitucion-politica,3,main
+2009-10-15,law,ley-2009-10-14-78,ley-de-deuda-publica ley-de-educacion,6,main
+2009-10-22,start,codigo-2009-10-21-80,codigo-civil,2944,main
+2009-10-22,start,codigo-2009-10-21-80,codigo-de-procedimientos-civiles,1026,main
+2009-10-24,start,ley-2009-10-23-81,ley-de-ejecucion-de-penas-y-medidas-de-seguridad,139,main
+2009-10-24,law,codigo-2009-10-23-81,codigo-penal,8,main
+2009-11-15,start,ley-2009-10-16-79,ley-de-publicaciones-oficiales,34,main
+2009-12-08,law,ley-2009-12-07-90,codigo-penal,7,main
+2010-01-01,law,ley-2009-12-23-94,ley-organica-municipal,14,main
+2010-01-31,start,ley-2010-01-30-7,ley-de-salud,186,main
+2010-01-31,start,ley-2010-01-30-7,ley-para-el-fomento-de-la-investigacion-cientifica-tecnologi,23,main
+2010-01-31,law,ley-2010-01-30-7,constitucion-politica,5,main
+2010-05-15,law,ley-2010-05-14-27,ley-de-estimulos-civiles,13,main
+2010-07-07,law,ley-2010-07-06-38,ley-organica-del-poder-legislativo,3,main
+2010-07-10,law,ley-2010-07-09-39,ley-de-educacion,2,main
+2010-09-04,law,ley-2010-09-03-48,ley-de-salud,5,main
+2010-11-06,law,reglamento-2010-11-05-60,codigo-municipal-de-queretaro,7,main
+2010-11-13,law,ley-2010-11-12-61,ley-de-educacion,6,main
+2010-11-27,law,ley-2010-11-26-64,codigo-de-procedimientos-civiles ley-de-salud ley-del-sistema-de-asistencia-social ley-organica-del-poder-ejecutivo,27,main
+2010-11-27,law,ley-2010-11-26-64-2,ley-de-salud,2,main
+2010-12-11,law,ley-2010-12-10-67,codigo-civil,9,main
+2010-12-22,law,ley-2010-12-21-70,ley-de-deuda-publica,3,main
+2011-01-01,law,ley-2010-12-21-70,ley-de-coordinacion-fiscal-estatal-intermunicipal,4,main
+2011-01-22,law,ley-2011-01-21-5,codigo-civil codigo-penal ley-de-derechos-y-cultura-de-los-pueblos-y-comunidades-indig,13,main
+2011-02-26,law,ley-2011-02-25-12,codigo-penal,26,main
+2011-03-26,law,ley-2011-03-25-16,ley-organica-del-poder-ejecutivo,4,main
+2011-04-23,law,ley-2011-04-22-24,codigo-penal ley-de-educacion,399,main
+2011-05-06,law,fe-de-erratas-2011-05-06-27,ley-de-coordinacion-fiscal-estatal-intermunicipal,5,main
+2011-05-30,law,ley-2011-03-31-19,codigo-civil codigo-de-procedimientos-civiles ley-organica-del-poder-ejecutivo,66,main
+2011-05-31,law,ley-2011-05-30-31,codigo-penal,401,main
+2011-06-18,law,ley-2011-06-17-34,codigo-penal ley-de-ejecucion-de-penas-y-medidas-de-seguridad ley-organica-del-poder-ejecutivo,85,main
+2011-07-20,law,ley-2011-07-19-39,constitucion-politica,2,main
+2011-07-23,start,ley-2011-07-22-40,ley-que-regula-el-sistema-estatal-de-promocion-del-uso-de-la,15,main
+2011-07-23,law,ley-2011-07-22-40,ley-de-la-administracion-publica-paraestatal ley-de-salud ley-para-el-fomento-de-la-investigacion-cientifica-tecnologi,22,main
+2011-07-25,law,ley-2011-07-22-40,ley-organica-del-poder-legislativo,7,main
+2011-08-14,law,ley-2011-07-15-38,codigo-penal,24,main
+2011-08-21,law,ley-2011-07-22-40,codigo-de-procedimientos-civiles codigo-penal,25,main
+2011-09-28,law,ley-2011-04-01-20,codigo-civil,3,main
+2011-10-06,start,ley-2011-10-05-52,ley-que-fija-el-arancel-para-el-cobro-de-honorarios-de-aboga,38,main
+2011-10-06,law,ley-2011-10-05-52,ley-de-profesiones,78,main
+2011-10-22,law,ley-2011-10-21-56,constitucion-politica,3,main
+2011-11-05,start,ley-2011-11-04-58,ley-para-la-inclusion-al-desarrollo-social-de-las-personas-c,92,main
+2011-11-14,start,ley-2011-11-11-59,ley-organica-de-la-universidad-tecnologica-de-queretaro,32,main
+2011-11-26,law,ley-2011-11-25-61,codigo-de-procedimientos-civiles ley-de-justicia-constitucional ley-de-salud,29,main
+2011-11-28,law,ley-2011-11-25-61,ley-organica-del-poder-legislativo,11,main
+2012-01-14,law,ley-2012-01-13-2,ley-organica-del-poder-ejecutivo,4,main
+2012-01-19,law,ley-2012-01-18-3,ley-organica-del-poder-ejecutivo,3,main
+2012-01-21,law,ley-2012-01-20-4,codigo-penal ley-de-salud ley-del-deporte,12,main
+2012-01-21,law,ley-2012-01-20-4-2,ley-de-salud,5,main
+2012-01-23,start,ley-2012-01-20-4,ley-de-servicios-auxiliares-del-transporte-publico,59,main
+2012-02-09,start,ley-2011-11-11-59,ley-de-estacionamientos-publicos-y-servicios-de-recepcion-y,17,main
+2012-02-19,law,ley-2012-01-20-4-2,codigo-penal,2,main
+2012-02-26,start,ley-2012-01-27-6,ley-de-donacion-y-trasplantes-de-organos-tejidos-y-celulas-h,82,main
+2012-03-03,start,ley-2012-03-02-12,ley-para-el-desarrollo-de-los-jovenes-en-el-estado-de-queret,72,main
+2012-03-03,law,ley-2012-03-02-12,codigo-penal ley-de-educacion ley-de-los-trabajadores,17,main
+2012-03-03,law,ley-2012-03-02-12-2,ley-de-educacion,19,main
+2012-03-08,law,ley-2012-03-07-14,codigo-penal,50,main
+2012-03-10,law,ley-2012-03-09-15,ley-de-educacion ley-de-salud,13,main
+2012-03-17,law,ley-2012-03-16-16,codigo-civil,58,main
+2012-04-01,law,ley-2012-03-02-12,codigo-de-procedimientos-civiles,40,main
+2012-05-02,start,ley-2012-03-03-13,ley-de-la-agencia-de-movilidad-y-modalidades-de-transporte-p,231,main
+2012-05-19,law,ley-2012-05-18-25,ley-de-educacion ley-de-los-trabajadores ley-organica-del-poder-ejecutivo,13,main
+2012-05-19,law,ley-2012-05-18-25-2,ley-organica-del-poder-ejecutivo,2,main
+2012-06-01,start,codigo-2012-05-31-27,codigo-urbano,539,main
+2012-06-09,law,ley-2012-06-08-29,ley-organica-del-poder-legislativo,2,main
+2012-06-17,law,ley-2012-05-18-25,codigo-civil codigo-penal,5,main
+2012-06-17,law,ley-2012-06-08-29,codigo-civil codigo-penal,30,main
+2012-06-17,law,ley-2012-06-08-29-2,codigo-penal,14,main
+2012-06-23,law,ley-2012-06-22-34,ley-de-educacion ley-de-salud,24,main
+2012-06-25,start,ley-2012-06-22-34,ley-para-regularizar-la-pequena-propiedad-de-predios-rustico,25,main
+2012-07-07,start,ley-2012-07-06-37,ley-que-establece-el-secreto-profesional-periodistico-en-el,14,main
+2012-07-07,law,ley-2012-07-06-37,ley-de-procedimientos-administrativos,11,main
+2012-07-08,law,ley-2012-06-08-29-3,codigo-penal,4,main
+2012-07-13,law,fe-de-erratas-2012-07-13-39,codigo-penal,4,main
+2012-08-31,start,ley-2012-08-30-49,ley-de-igualdad-sustantiva-entre-mujeres-y-hombres,43,main
+2012-08-31,start,ley-2012-08-30-49,ley-para-prevenir-y-eliminar-toda-forma-de-discriminacion-en,35,main
+2012-09-01,law,ley-2012-08-31-50,constitucion-politica,4,main
+2012-09-15,law,ley-2012-09-14-53,codigo-penal,12,main
+2012-10-06,law,ley-2012-10-03-58,ley-organica-del-poder-legislativo,3,main
+2012-10-06,law,ley-2012-10-03-58-2,ley-organica-del-poder-legislativo,2,main
+2012-11-08,law,ley-2012-11-07-68,codigo-de-procedimientos-civiles ley-de-los-trabajadores ley-organica-municipal ley-para-regularizar-la-pequena-propiedad-de-predios-rustico,11,main
+2012-11-09,start,ley-2012-11-09-69,ley-de-respeto-vecinal,99,main
+2012-11-10,law,ley-2012-11-09-69,ley-de-turismo,4,main
+2013-01-01,law,ley-2012-12-18-77,ley-de-la-administracion-publica-paraestatal,5,main
+2013-01-12,law,ley-2013-01-11-3,ley-de-derechos-y-cultura-de-los-pueblos-y-comunidades-indig,4,main
+2013-01-17,law,ley-2012-09-19-54,codigo-penal ley-de-ejecucion-de-penas-y-medidas-de-seguridad ley-de-salud,31,main
+2013-01-17,law,ley-2012-11-07-68,codigo-penal,9,main
+2013-01-17,law,ley-2012-11-09-69,ley-de-salud,6,main
+2013-01-17,law,ley-2012-11-07-68-2,codigo-penal,7,main
+2013-01-17,law,ley-2012-12-18-77,codigo-penal,5,main
+2013-02-02,law,ley-2013-02-01-7,constitucion-politica ley-de-deuda-publica,13,main
+2013-03-09,start,ley-2013-03-08-12,ley-para-prevenir-combatir-y-sancionar-la-trata-de-personas,86,main
+2013-03-30,law,ley-2013-03-29-16,constitucion-politica,20,main
+2013-06-13,law,ley-2013-06-12-28,codigo-civil codigo-de-procedimientos-civiles codigo-penal ley-de-ejecucion-de-penas-y-medidas-de-seguridad,87,main
+2013-07-06,law,ley-2013-07-05-33,ley-de-la-agencia-de-movilidad-y-modalidades-de-transporte-p ley-organica-del-poder-ejecutivo,145,main
+2013-07-20,start,ley-2013-07-19-35,ley-para-la-promocion-fomento-y-desarrollo-de-la-industria-c,30,main
+2013-07-20,law,ley-2013-07-19-35,constitucion-politica ley-de-educacion,7,main
+2013-08-31,law,ley-2013-08-30-43,ley-de-turismo,14,main
+2013-09-21,law,ley-2013-09-20-46,constitucion-politica,2,main
+2013-09-28,law,ley-2013-09-27-47,constitucion-politica,5,main
+2013-10-18,start,ley-2013-10-17-51,ley-de-hacienda-de-los-municipios,185,main
+2013-10-21,law,ley-2013-10-18-52,ley-organica-del-poder-legislativo,25,main
+2013-12-23,law,ley-2013-12-20-63,ley-organica-del-poder-legislativo,2,main
+2014-01-14,law,ley-2014-01-13-4,ley-de-adquisiciones-enajenaciones-arrendamientos-y-contrata ley-de-obra-publica ley-organica-del-poder-legislativo,10,main
+2014-01-25,law,ley-2014-01-24-6,ley-de-derechos-y-cultura-de-los-pueblos-y-comunidades-indig,2,main
+2014-02-08,law,ley-2014-02-07-8,ley-del-deporte ley-para-el-desarrollo-de-los-jovenes-en-el-estado-de-queret,5,main
+2014-02-10,law,ley-2014-02-07-8,codigo-urbano,4,main
+2014-02-19,start,ley-2013-08-23-42,ley-del-sistema-para-el-desarrollo-integral-de-la-familia,36,main
+2014-03-01,law,acuerdo-s-2014-02-28-11,codigo-municipal-de-queretaro,2,main
+2014-03-13,law,ley-2014-03-12-13,ley-de-educacion ley-organica-del-poder-ejecutivo,12,main
+2014-03-13,law,ley-2014-03-12-13-2,ley-de-educacion,59,main
+2014-03-21,start,ley-2014-03-20-15,ley-de-proteccion-a-victimas-y-personas-que-intervienen-en-e,110,main
+2014-04-05,law,ley-2014-04-04-21,constitucion-politica,2,main
+2014-04-05,law,ley-2014-04-04-21-2,constitucion-politica,2,main
+2014-04-05,law,ley-2014-04-04-21-3,constitucion-politica,3,main
+2014-04-07,law,ley-2014-04-04-21,ley-organica-del-poder-legislativo,4,main
+2014-05-03,law,ley-2014-05-02-25,ley-de-educacion,3,main
+2014-05-10,law,ley-2014-05-09-26,ley-de-donacion-y-trasplantes-de-organos-tejidos-y-celulas-h,6,main
+2014-06-07,start,ley-2014-06-06-31,ley-para-prevenir-investigar-sancionar-y-reparar-la-desapari,69,main
+2014-06-18,law,ley-2014-03-20-15,codigo-civil,3,main
+2014-06-27,law,ley-2014-06-26-34,constitucion-politica,18,main
+2014-06-29,law,ley-2014-06-29-36,codigo-penal,12,main
+2014-07-02,start,ley-2014-06-29-36,ley-organica-del-tribunal-electoral,41,main
+2014-07-05,law,ley-2014-07-04-38,codigo-civil codigo-de-procedimientos-civiles codigo-penal,24,main
+2014-07-22,start,codigo-2014-07-21-41,codigo-fiscal,216,main
+2014-07-22,start,ley-2014-07-21-41,ley-de-hacienda,186,main
+2014-10-13,law,ley-2014-10-10-57,ley-organica-del-poder-legislativo,4,main
+2014-10-13,law,ley-2014-10-10-57-2,ley-organica-del-poder-legislativo,2,main
+2014-11-01,law,ley-2014-10-31-62,codigo-urbano ley-de-salud,12,main
+2014-11-08,law,ley-2014-11-07-64,codigo-penal,16,main
+2014-11-30,law,ley-2014-11-29-71,codigo-civil ley-de-proteccion-a-victimas-y-personas-que-intervienen-en-e ley-organica-del-poder-ejecutivo,51,main
+2014-12-17,law,ley-2014-12-17-74,ley-de-hacienda,3,main
+2014-12-21,start,ley-2014-12-20-77,ley-para-el-manejo-de-los-recursos-publicos,106,main
+2014-12-21,law,ley-2014-12-20-77,codigo-penal ley-organica-municipal,5,main
+2015-01-01,law,ley-2014-12-20-77,codigo-fiscal ley-de-coordinacion-fiscal-estatal-intermunicipal ley-de-hacienda,152,main
+2015-01-01,law,ley-2014-12-20-77-2,ley-para-el-manejo-de-los-recursos-publicos,3,main
+2015-01-01,law,ley-2014-12-20-77-2,codigo-fiscal,2,main
+2015-01-10,law,acuerdo-s-2015-01-09-2,codigo-municipal-de-queretaro,7,main
+2015-04-10,law,fe-de-erratas-2015-04-10-17,constitucion-politica,2,main
+2015-04-20,law,ley-2015-04-17-18,ley-organica-del-poder-legislativo,4,main
+2015-05-09,law,ley-2015-05-08-22,codigo-civil codigo-penal ley-de-adquisiciones-enajenaciones-arrendamientos-y-contrata,12,main
+2015-05-09,law,ley-2015-05-08-22-2,codigo-penal,6,main
+2015-05-09,law,ley-2015-05-08-22-3,codigo-penal,6,main
+2015-05-23,law,ley-2015-05-22-26,codigo-civil codigo-urbano,58,main
+2015-05-25,start,ley-2015-05-22-26,ley-del-sistema-de-servicio-profesional-de-carrera-del-poder,59,main
+2015-07-11,law,ley-2015-07-10-46,ley-de-educacion,6,main
+2015-07-25,law,ley-2015-07-24-51,ley-de-la-agencia-de-movilidad-y-modalidades-de-transporte-p,20,main
+2015-07-27,law,ley-2015-07-24-51,ley-organica-del-poder-legislativo,2,main
+2015-09-04,start,ley-2015-09-03-62,ley-de-derechos-humanos,133,main
+2015-09-06,law,ley-2015-09-03-62,ley-organica-del-poder-legislativo,2,main
+2015-09-19,start,ley-2015-09-18-68,ley-de-asociaciones-publico-privadas,106,main
+2015-09-19,start,ley-2015-09-18-68,ley-del-sistema-estatal-de-proteccion-civil-prevencion-y-mit,155,main
+2015-09-22,start,ley-2015-09-21-69,ley-del-escudo-la-bandera-y-el-himno,32,main
+2015-09-26,law,ley-2015-09-25-71,ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-vio,55,main
+2015-09-30,law,ley-2015-09-29-73,ley-organica-municipal,31,main
+2015-10-01,start,ley-2015-03-27-14,ley-de-desarrollo-social,74,main
+2015-10-01,law,ley-2015-03-27-14,ley-organica-del-poder-ejecutivo,4,main
+2015-10-01,law,ley-2015-09-09-64,ley-de-desarrollo-social ley-organica-del-poder-ejecutivo,5,main
+2015-10-01,law,ley-2015-09-29-73,ley-de-desarrollo-social ley-organica-del-poder-ejecutivo,11,main
+2015-10-03,law,ley-2015-10-02-75,ley-de-los-trabajadores,6,main
+2015-10-15,law,fe-de-erratas-2015-10-15-79,ley-de-desarrollo-social ley-organica-del-poder-ejecutivo,7,main
+2015-10-24,law,ley-2015-10-23-81,codigo-de-procedimientos-civiles ley-para-la-inclusion-al-desarrollo-social-de-las-personas-c,12,main
+2015-10-30,law,ley-2015-10-29-82,codigo-civil,4,main
+2015-11-02,start,ley-2015-09-03-62,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,140,main
+2015-11-14,law,acuerdo-s-2015-11-13-87,codigo-municipal-de-queretaro,17,main
+2015-11-28,law,ley-2015-11-27-90,ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le,10,main
+2015-12-05,law,ley-2015-12-04-91,codigo-penal,2,main
+2015-12-05,law,ley-2015-12-04-91-2,codigo-penal,4,main
+2015-12-11,law,ley-2015-12-10-92,ley-de-los-trabajadores,17,main
+2016-01-01,start,ley-2015-12-17-95,ley-de-la-unidad-de-medida-y-actualizacion,13,main
+2016-01-01,law,ley-2015-12-17-95,ley-de-adquisiciones-enajenaciones-arrendamientos-y-contrata ley-de-asociaciones-publico-privadas ley-de-hacienda ley-de-la-administracion-publica-paraestatal ley-organica-del-poder-ejecutivo ley-para-el-manejo-de-los-recursos-publicos,128,main
+2016-01-16,law,acuerdo-s-2016-01-15-4,codigo-municipal-de-queretaro,8,main
+2016-02-01,start,ley-2015-11-13-87,ley-de-transparencia-y-acceso-a-la-informacion-publica,175,main
+2016-02-01,law,ley-2015-10-02-75,constitucion-politica,3,main
+2016-02-01,law,ley-2016-01-25-6,ley-de-transparencia-y-acceso-a-la-informacion-publica,26,main
+2016-02-06,law,ley-2016-02-05-8,codigo-de-procedimientos-civiles ley-de-derechos-humanos ley-de-derechos-y-cultura-de-los-pueblos-y-comunidades-indig ley-de-los-trabajadores ley-de-procedimientos-administrativos ley-para-prevenir-investigar-sancionar-y-reparar-la-desapari,23,main
+2016-02-20,law,acuerdo-s-2016-02-19-10,codigo-municipal-de-queretaro,14,main
+2016-05-14,law,ley-2016-05-13-27,constitucion-politica,13,main
+2016-05-16,law,ley-2016-05-13-27,ley-organica-del-poder-legislativo,9,main
+2016-05-16,law,ley-2016-05-13-27-2,ley-organica-del-poder-legislativo,6,main
+2016-05-27,law,fe-de-erratas-2016-05-27-31,ley-organica-del-poder-legislativo,1,main
+2016-05-28,law,ley-2016-05-27-31,codigo-de-procedimientos-civiles ley-de-la-agencia-de-movilidad-y-modalidades-de-transporte-p,100,main
+2016-05-30,start,ley-2016-05-30-33,ley-organica-de-la-fiscalia-general,53,main
+2016-05-30,law,ley-2016-05-30-33,ley-de-planeacion,24,main
+2016-05-31,start,ley-2016-05-30-33,ley-de-seguridad,82,main
+2016-05-31,start,ley-2016-05-30-33,ley-del-instituto-de-la-defensoria-penal-publica,29,main
+2016-05-31,law,ley-2016-05-30-33,ley-de-asociaciones-publico-privadas ley-de-deuda-publica ley-de-la-administracion-publica-paraestatal ley-de-transparencia-y-acceso-a-la-informacion-publica ley-para-el-manejo-de-los-recursos-publicos ley-que-crea-la-comision-estatal-de-infraestructura-de-quere,53,main
+2016-06-11,start,ley-2016-06-10-35,ley-de-la-secretaria-de-seguridad-ciudadana,47,main
+2016-07-09,law,ley-2016-07-08-40,ley-del-sistema-estatal-de-proteccion-civil-prevencion-y-mit,9,main
+2016-07-23,law,ley-2016-07-22-42,ley-de-derechos-humanos,17,main
+2016-08-08,law,ley-2016-08-05-44,ley-organica-del-poder-legislativo,8,main
+2016-10-24,law,ley-2016-10-21-56,ley-organica-del-poder-legislativo,3,main
+2016-10-29,law,ley-2016-10-28-58,ley-de-adquisiciones-enajenaciones-arrendamientos-y-contrata ley-de-desarrollo-social ley-de-igualdad-sustantiva-entre-mujeres-y-hombres ley-organica-del-poder-ejecutivo,26,main
+2016-10-31,law,ley-2016-10-28-58,ley-organica-del-poder-legislativo,6,main
+2016-11-12,law,ley-2016-11-11-61,ley-para-el-desarrollo-de-los-jovenes-en-el-estado-de-queret,6,main
+2016-11-30,law,ley-2016-11-30-64,ley-de-hacienda,2,main
+2016-12-01,law,ley-2016-11-30-64,codigo-civil codigo-de-procedimientos-civiles ley-de-derechos-y-cultura-de-los-pueblos-y-comunidades-indig ley-de-educacion ley-de-salud ley-para-el-desarrollo-de-los-jovenes-en-el-estado-de-queret,49,main
+2016-12-01,law,ley-2016-11-30-64-2,codigo-civil codigo-de-procedimientos-civiles ley-de-educacion,23,main
+2016-12-09,law,ley-2016-12-09-68,ley-para-el-manejo-de-los-recursos-publicos,6,main
+2016-12-10,law,ley-2016-12-09-68,constitucion-politica,2,main
+2016-12-17,law,ley-2016-12-16-69,constitucion-politica,3,main
+2016-12-22,law,ley-2016-12-21-71,constitucion-politica codigo-penal ley-para-el-desarrollo-de-los-jovenes-en-el-estado-de-queret,18,main
+2016-12-26,law,ley-2016-12-23-72,ley-organica-del-poder-legislativo,30,main
+2016-12-26,law,fe-de-erratas-2016-12-23-72,ley-organica-del-poder-legislativo,1,main
+2017-01-01,start,ley-2016-12-06-67,ley-que-regula-a-los-agentes-y-empresas-inmobiliarias-en-el,23,main
+2017-01-01,law,ley-2016-12-16-69,codigo-fiscal codigo-urbano ley-de-adquisiciones-enajenaciones-arrendamientos-y-contrata ley-de-hacienda ley-de-la-administracion-publica-paraestatal ley-de-la-unidad-de-medida-y-actualizacion ley-de-los-trabajadores ley-de-obra-publica ley-organica-del-poder-ejecutivo ley-para-el-manejo-de-los-recursos-publicos,145,main
+2017-01-01,law,ley-2016-12-21-71,ley-para-la-cultura-y-las-artes,43,main
+2017-01-01,law,ley-2016-12-21-71,ley-organica-del-poder-ejecutivo,5,main
+2017-01-07,law,ley-2017-01-06-1,codigo-civil codigo-de-procedimientos-civiles codigo-penal,13,main
+2017-01-14,start,ley-2017-01-13-3,ley-para-la-regularizacion-de-asentamientos-humanos-irregula,88,main
+2017-01-14,law,ley-2017-01-13-3,ley-para-el-desarrollo-de-los-jovenes-en-el-estado-de-queret,7,main
+2017-02-04,law,ley-2017-02-03-10,ley-de-salud ley-del-deporte,15,main
+2017-02-04,law,ley-2017-02-03-10-2,ley-de-salud,3,main
+2017-02-11,law,ley-2017-02-10-11,ley-de-turismo,3,main
+2017-03-04,law,ley-2017-03-03-15,ley-de-educacion,2,main
+2017-03-18,start,ley-2017-03-17-17,ley-de-valuacion-inmobiliaria,28,main
+2017-04-19,start,ley-2017-04-18-23,ley-del-sistema-estatal-anticorrupcion,42,main
+2017-04-19,start,ley-2017-04-18-23,ley-organica-del-tribunal-de-justicia-administrativa,63,main
+2017-04-19,law,ley-2017-04-18-23,ley-de-la-secretaria-de-seguridad-ciudadana ley-de-seguridad ley-organica-de-la-fiscalia-general ley-para-el-manejo-de-los-recursos-publicos,107,main
+2017-04-21,start,ley-2017-04-18-23,ley-de-responsabilidades-administrativas,59,main
+2017-04-21,law,ley-2017-04-18-23,ley-organica-del-poder-ejecutivo ley-organica-municipal,28,main
+2017-04-22,law,ley-2017-04-21-24,codigo-civil ley-de-planeacion,6,main
+2017-05-15,law,ley-2017-05-12-27,ley-organica-del-poder-legislativo,5,main
+2017-05-25,law,ley-2017-05-24-29,ley-del-sistema-para-el-desarrollo-integral-de-la-familia,16,main
+2017-06-01,law,ley-2017-06-01-32,ley-organica-del-tribunal-electoral,11,main
+2017-06-03,law,ley-2017-06-02-33,codigo-de-procedimientos-civiles codigo-urbano,64,main
+2017-06-17,law,ley-2017-06-16-36,codigo-civil codigo-urbano ley-de-turismo,10,main
+2017-07-04,law,ley-2017-07-03-41,constitucion-politica,5,main
+2017-07-18,start,ley-2017-07-17-46,ley-de-procedimiento-contencioso-administrativo,89,main
+2017-07-24,law,ley-2017-07-21-48,ley-organica-del-poder-legislativo,2,main
+2017-08-12,law,ley-2017-08-11-56,codigo-civil,5,main
+2017-08-17,law,ley-2017-08-16-57,ley-para-la-inclusion-al-desarrollo-social-de-las-personas-c,11,main
+2017-09-01,law,ley-2017-09-01-61,codigo-fiscal codigo-urbano ley-de-adquisiciones-enajenaciones-arrendamientos-y-contrata ley-de-hacienda ley-de-la-administracion-publica-paraestatal ley-de-la-unidad-de-medida-y-actualizacion ley-de-los-trabajadores ley-de-obra-publica ley-organica-del-poder-ejecutivo,63,main
+2017-09-02,law,ley-2017-09-01-61,codigo-penal ley-organica-de-la-fiscalia-general ley-para-el-manejo-de-los-recursos-publicos,85,main
+2017-09-02,law,ley-2017-09-01-61-2,ley-para-el-manejo-de-los-recursos-publicos,2,main
+2017-09-05,law,fe-de-erratas-2017-09-05-62,ley-del-deporte,2,main
+2017-09-06,start,ley-2017-09-05-62,ley-del-voluntariado,26,main
+2017-09-06,law,ley-2017-09-05-62,ley-de-desarrollo-pecuario ley-de-hacienda-de-los-municipios ley-de-los-trabajadores ley-organica-municipal,20,main
+2017-09-23,law,reglamento-2017-09-22-65,codigo-municipal-de-queretaro,138,main
+2017-10-07,law,acuerdo-s-2017-10-06-68,codigo-municipal-de-queretaro,3,main
+2017-10-14,start,ley-2017-10-11-69,ley-de-transito,112,main
+2017-10-31,law,ley-2017-10-30-73,ley-de-adquisiciones-enajenaciones-arrendamientos-y-contrata,2,main
+2017-11-28,law,ley-2017-11-27-81,ley-para-el-manejo-de-los-recursos-publicos,29,main
+2017-11-29,start,ley-2017-11-29-82,ley-del-centro-de-capacitacion-formacion-e-investigacion-par,23,main
+2017-11-29,start,ley-2017-11-29-82,ley-que-crea-el-centro-de-evaluacion-y-control-de-confianza,19,main
+2017-11-29,start,ley-2017-11-29-82,ley-que-crea-la-comision-estatal-del-sistema-penitenciario-d,19,main
+2017-11-29,law,ley-2017-11-29-82,ley-de-la-secretaria-de-seguridad-ciudadana ley-de-seguridad ley-del-deporte ley-organica-del-poder-ejecutivo,46,main
+2017-12-01,law,fe-de-erratas-2017-12-01-83,codigo-penal,11,main
+2017-12-21,start,ley-2017-09-22-65,ley-de-salud-mental,52,main
+2017-12-26,law,ley-2017-12-26-92,ley-organica-de-la-fiscalia-general,19,main
+2018-01-01,law,ley-2017-12-19-89,codigo-fiscal ley-de-adquisiciones-enajenaciones-arrendamientos-y-contrata ley-de-deuda-publica ley-de-hacienda ley-de-la-administracion-publica-paraestatal ley-de-obra-publica ley-organica-del-poder-ejecutivo ley-para-el-desarrollo-de-los-jovenes-en-el-estado-de-queret,124,main
+2018-01-27,start,ley-2018-01-26-6,ley-de-proteccion-de-datos-personales-en-posesion-de-sujetos,129,main
+2018-02-01,start,ley-2018-01-31-7,ley-de-cambio-climatico,66,main
+2018-02-21,law,fe-de-erratas-2018-02-21-14,ley-de-proteccion-de-datos-personales-en-posesion-de-sujetos,2,main
+2018-02-24,law,ley-2018-02-23-15,constitucion-politica,3,main
+2018-03-17,law,ley-2018-03-16-21,codigo-urbano,102,main
+2018-03-29,law,ley-2018-03-28-26,codigo-penal ley-del-deporte ley-para-el-fomento-de-la-investigacion-cientifica-tecnologi,15,main
+2018-03-29,law,ley-2018-03-28-26-2,codigo-penal,12,main
+2018-03-31,law,ley-2018-03-30-27,codigo-urbano,1,main
+2018-04-19,law,ley-2018-04-18-31,ley-para-la-inclusion-al-desarrollo-social-de-las-personas-c,5,main
+2018-05-10,law,ley-2018-05-09-37,ley-organica-del-poder-ejecutivo ley-para-el-manejo-de-los-recursos-publicos,18,main
+2018-05-12,start,ley-2018-05-11-38,ley-de-fomento-apicola-y-proteccion-del-proceso-de-polinizac,93,main
+2018-05-12,law,ley-2018-05-11-38,codigo-urbano,4,main
+2018-05-12,law,ley-2018-05-11-38-2,codigo-urbano,10,main
+2018-05-12,law,fe-de-erratas-2018-05-11-38,codigo-urbano,4,main
+2018-05-19,law,ley-2018-05-18-39,ley-de-educacion ley-para-la-regularizacion-de-asentamientos-humanos-irregula,16,main
+2018-05-26,law,ley-2018-05-25-41,ley-organica-del-poder-ejecutivo,2,main
+2018-06-09,law,ley-2018-06-08-43,ley-de-planeacion ley-organica-municipal,5,main
+2018-06-19,law,ley-2018-06-18-50,ley-de-los-trabajadores,3,main
+2018-06-30,law,ley-2018-06-29-55,ley-de-respeto-vecinal ley-organica-de-la-fiscalia-general ley-organica-municipal ley-que-crea-el-centro-de-evaluacion-y-control-de-confianza,210,main
+2018-06-30,law,ley-2018-06-29-55-2,ley-organica-de-la-fiscalia-general,5,main
+2018-07-07,law,ley-2018-07-07-58,ley-de-deuda-publica ley-para-el-manejo-de-los-recursos-publicos,9,main
+2018-08-16,law,ley-2018-08-15-70,constitucion-politica ley-de-salud,13,main
+2018-08-17,start,ley-2018-08-17-71,ley-que-crea-el-centro-de-informacion-y-analisis-para-la-seg,20,main
+2018-08-17,law,ley-2018-08-17-71,ley-de-la-secretaria-de-seguridad-ciudadana ley-de-seguridad ley-del-centro-de-capacitacion-formacion-e-investigacion-par,18,main
+2018-09-08,law,ley-2018-09-07-79,codigo-penal ley-organica-de-la-fiscalia-general ley-organica-del-poder-ejecutivo,20,main
+2018-09-13,law,ley-2018-09-12-80,ley-organica-del-tribunal-de-justicia-administrativa,4,main
+2018-09-22,law,ley-2018-09-21-82,ley-del-sistema-para-el-desarrollo-integral-de-la-familia,5,main
+2018-09-26,law,ley-2018-09-26-84,ley-organica-del-poder-legislativo,144,main
+2018-10-03,start,ley-2018-10-03-87,ley-que-crea-la-comision-para-la-evaluacion-de-la-operacion,18,main
+2018-10-04,start,ley-2018-10-03-87,ley-de-juicio-politico,32,main
+2018-10-04,law,ley-2018-10-03-87,codigo-civil codigo-fiscal codigo-urbano ley-de-adquisiciones-enajenaciones-arrendamientos-y-contrata ley-de-archivos ley-de-deuda-publica ley-de-hacienda-de-los-municipios ley-de-hacienda ley-de-la-administracion-publica-paraestatal ley-de-obra-publica ley-del-notariado ley-organica-del-poder-ejecutivo ley-para-el-desarrollo-de-los-jovenes-en-el-estado-de-queret ley-para-el-manejo-de-los-recursos-publicos,206,main
+2018-10-04,law,ley-2018-10-03-87-2,ley-organica-del-poder-ejecutivo,4,main
+2018-10-11,law,ley-2018-10-10-89,ley-de-adquisiciones-enajenaciones-arrendamientos-y-contrata ley-de-obra-publica ley-organica-municipal ley-para-el-manejo-de-los-recursos-publicos,219,main
+2018-10-16,law,ley-2018-10-15-91,codigo-civil codigo-penal,36,main
+2018-10-17,law,ley-2018-10-17-92,ley-de-instituciones-de-asistencia-privada,28,main
+2018-10-17,law,fe-de-erratas-2018-10-17-92,codigo-penal ley-organica-del-poder-legislativo,13,main
+2018-10-18,law,ley-2018-10-17-92,codigo-civil,3,main
+2018-10-18,law,fe-de-erratas-2018-10-17-92,codigo-civil,2,main
+2019-01-01,law,ley-2018-12-19-110,codigo-civil codigo-fiscal codigo-urbano ley-de-adquisiciones-enajenaciones-arrendamientos-y-contrata ley-de-archivos ley-de-deuda-publica ley-de-hacienda-de-los-municipios ley-de-hacienda ley-de-la-administracion-publica-paraestatal ley-de-obra-publica ley-de-planeacion ley-del-notariado ley-organica-del-poder-ejecutivo ley-para-el-desarrollo-de-los-jovenes-en-el-estado-de-queret,93,main
+2019-01-22,law,ley-2019-01-21-8,codigo-civil codigo-urbano ley-de-derechos-y-cultura-de-los-pueblos-y-comunidades-indig ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-vio,303,main
+2019-01-24,law,ley-2019-01-21-8,ley-organica-del-poder-legislativo,3,main
+2019-02-01,law,acuerdo-s-2019-01-31-13,codigo-municipal-de-queretaro,74,main
+2019-02-18,law,ley-2019-02-15-20,ley-organica-del-poder-legislativo,3,main
+2019-02-21,law,ley-2019-02-20-22,ley-del-notariado,26,main
+2019-03-07,law,ley-2019-03-06-26,ley-de-la-secretaria-de-seguridad-ciudadana ley-de-proteccion-a-victimas-y-personas-que-intervienen-en-e ley-de-seguridad ley-organica-municipal,109,main
+2019-04-12,law,ley-2019-04-12-34,ley-de-adquisiciones-enajenaciones-arrendamientos-y-contrata,2,main
+2019-04-15,law,ley-2019-04-12-34,ley-organica-del-poder-legislativo,3,main
+2019-04-19,law,ley-2019-04-19-35,ley-de-coordinacion-fiscal-estatal-intermunicipal,4,main
+2019-04-29,law,ley-2019-04-26-36,ley-organica-del-poder-legislativo,2,main
+2019-05-14,law,ley-2019-05-14-41,ley-de-adquisiciones-enajenaciones-arrendamientos-y-contrata,2,main
+2019-05-15,law,ley-2019-05-14-41,codigo-civil ley-de-educacion ley-organica-municipal ley-para-el-desarrollo-de-los-jovenes-en-el-estado-de-queret ley-para-prevenir-y-eliminar-toda-forma-de-discriminacion-en,26,main
+2019-05-15,law,ley-2019-05-14-41-2,codigo-civil,54,main
+2019-06-15,law,ley-2019-06-14-48,codigo-civil ley-de-salud ley-de-turismo,11,main
+2019-06-15,law,ley-2019-06-14-48-2,ley-de-salud ley-de-turismo,5,main
+2019-06-15,law,ley-2019-06-14-48-3,ley-de-turismo,13,main
+2019-07-01,law,ley-2019-06-30-51,codigo-civil codigo-fiscal codigo-urbano ley-de-adquisiciones-enajenaciones-arrendamientos-y-contrata ley-de-archivos ley-de-deuda-publica ley-de-hacienda-de-los-municipios ley-de-hacienda ley-de-la-administracion-publica-paraestatal ley-de-obra-publica ley-de-planeacion ley-del-notariado ley-organica-del-poder-ejecutivo ley-para-el-desarrollo-de-los-jovenes-en-el-estado-de-queret,31,main
+2019-07-13,law,ley-2019-07-12-54,codigo-penal ley-de-obra-publica,26,main
+2019-08-24,law,ley-2019-08-23-64,constitucion-politica ley-organica-del-tribunal-electoral,15,main
+2019-10-01,law,ley-2018-03-16-21,ley-de-la-agencia-de-movilidad-y-modalidades-de-transporte-p,7,main
+2019-10-01,law,ley-2018-04-06-28,ley-de-la-agencia-de-movilidad-y-modalidades-de-transporte-p,22,main
+2019-10-01,law,ley-2018-05-11-38,ley-de-la-agencia-de-movilidad-y-modalidades-de-transporte-p,69,main
+2019-10-01,law,ley-2018-09-21-82,ley-de-la-agencia-de-movilidad-y-modalidades-de-transporte-p,3,main
+2019-10-01,law,ley-2018-12-19-110,ley-de-la-agencia-de-movilidad-y-modalidades-de-transporte-p,6,main
+2019-10-01,law,ley-2019-07-12-54,ley-de-la-agencia-de-movilidad-y-modalidades-de-transporte-p,2,main
+2019-10-01,law,ley-2019-09-27-72,ley-de-la-agencia-de-movilidad-y-modalidades-de-transporte-p,3,main
+2019-10-12,law,ley-2019-10-11-75,codigo-penal,4,main
+2019-10-19,law,ley-2019-10-18-76,constitucion-politica ley-de-derechos-y-cultura-de-los-pueblos-y-comunidades-indig ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-salud,15,main
+2019-11-09,law,ley-2019-11-08-81,ley-de-derechos-humanos,3,main
+2019-11-23,law,ley-2019-11-22-84,ley-de-la-agencia-de-movilidad-y-modalidades-de-transporte-p ley-de-obra-publica ley-para-el-manejo-de-los-recursos-publicos,19,main
+2020-01-01,law,ley-2019-05-14-41,ley-de-transparencia-y-acceso-a-la-informacion-publica ley-organica-del-poder-legislativo,10,main
+2020-01-01,law,ley-2019-12-22-91,codigo-civil codigo-fiscal codigo-urbano ley-de-adquisiciones-enajenaciones-arrendamientos-y-contrata ley-de-archivos ley-de-cambio-climatico ley-de-deuda-publica ley-de-hacienda-de-los-municipios ley-de-hacienda ley-de-la-administracion-publica-paraestatal ley-de-obra-publica ley-de-planeacion ley-del-notariado ley-organica-del-poder-ejecutivo ley-organica-municipal ley-para-el-desarrollo-de-los-jovenes-en-el-estado-de-queret ley-para-el-manejo-de-los-recursos-publicos,242,main
+2020-01-01,law,ley-2019-06-28-50,ley-organica-del-poder-legislativo,3,main
+2020-01-01,law,ley-2019-09-27-72,ley-organica-del-poder-legislativo,2,main
+2020-01-01,law,ley-2019-09-27-72-2,ley-organica-del-poder-legislativo,2,main
+2020-01-18,law,ley-2020-01-17-3,ley-de-desarrollo-social ley-de-fomento-a-la-actividad-artesanal-en-el-estado-de-quer ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-de-los-trabajadores ley-de-salud ley-de-turismo ley-del-sistema-de-asistencia-social,28,main
+2020-01-18,law,acuerdo-s-2020-01-17-3,codigo-municipal-de-queretaro,3,main
+2020-01-18,law,ley-2020-01-17-3-2,ley-de-salud,2,main
+2020-02-24,law,ley-2020-02-21-12,ley-organica-del-poder-legislativo,4,main
+2020-03-30,law,acuerdo-s-2020-03-27-22,codigo-municipal-de-queretaro,4,main
+2020-06-01,start,ley-2020-06-01-46,ley-de-medios-de-impugnacion-en-materia-electoral,109,main
+2020-06-01,start,ley-2020-06-01-46,ley-electoral,260,main
+2020-06-01,law,ley-2020-06-01-46,ley-organica-del-tribunal-electoral ley-organica-municipal,28,main
+2020-06-02,law,ley-2020-06-01-46,constitucion-politica codigo-civil ley-del-notariado,70,main
+2020-06-04,law,ley-2020-06-01-46,ley-organica-del-poder-legislativo,5,main
+2020-07-03,law,fe-de-erratas-2020-07-03-57,ley-organica-del-tribunal-electoral,3,main
+2020-09-02,law,reglamento-2020-09-01-69,codigo-municipal-de-queretaro,6,main
+2020-09-12,law,ley-2020-09-11-71,ley-de-hacienda,2,main
+2020-09-16,law,reglamento-2020-09-15-72,codigo-municipal-de-queretaro,2,main
+2020-10-31,law,ley-2020-10-30-83,ley-de-adquisiciones-enajenaciones-arrendamientos-y-contrata ley-de-cambio-climatico ley-de-derechos-humanos,9,main
+2020-12-08,law,ley-2020-12-08-95,ley-de-planeacion,10,main
+2020-12-09,law,ley-2020-12-08-95,codigo-penal ley-organica-municipal ley-para-el-manejo-de-los-recursos-publicos,8,main
+2020-12-12,law,ley-2020-12-11-96,codigo-penal,2,main
+2020-12-19,law,ley-2020-12-18-99,codigo-penal ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le,20,main
+2020-12-19,law,ley-2020-12-18-99-2,codigo-penal,4,main
+2021-01-01,law,ley-2020-12-21-101,ley-de-hacienda,22,main
+2021-02-18,start,ley-2021-02-17-15,ley-para-agilizar-los-procedimientos-de-entrega-recepcion-de,9,main
+2021-03-05,law,ley-2021-03-05-20,ley-de-los-trabajadores ley-organica-del-poder-legislativo,21,main
+2021-04-14,law,ley-2021-04-13-30,constitucion-politica,5,main
+2021-04-17,law,ley-2021-04-16-31,constitucion-politica ley-de-valuacion-inmobiliaria,13,main
+2021-05-29,law,ley-2021-05-28-43,ley-de-obra-publica ley-para-el-desarrollo-de-los-jovenes-en-el-estado-de-queret,21,main
+2021-06-03,law,ley-2021-06-02-45,codigo-penal ley-de-desarrollo-pecuario ley-de-desarrollo-social ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-del-sistema-de-asistencia-social ley-del-sistema-para-el-desarrollo-integral-de-la-familia ley-organica-de-la-fiscalia-general ley-organica-del-poder-legislativo ley-organica-municipal,47,main
+2021-06-03,law,ley-2021-06-02-45-2,codigo-penal,14,main
+2021-07-15,law,decreto-2021-07-14-57,constitucion-politica,7,main
+2021-07-15,law,ley-2021-07-14-57,constitucion-politica,3,main
+2021-07-15,law,ley-2021-07-14-57-2,constitucion-politica,2,main
+2021-08-21,law,ley-2021-08-20-70,ley-para-agilizar-los-procedimientos-de-entrega-recepcion-de,3,main
+2021-08-27,law,fe-de-erratas-2021-08-27-74,ley-organica-de-la-fiscalia-general,2,main
+2021-08-28,law,ley-2021-08-27-74,ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-salud ley-de-transparencia-y-acceso-a-la-informacion-publica,15,main
+2021-10-01,start,ley-2021-09-30-87,ley-organica-de-la-agencia-de-energia,31,main
+2021-10-01,start,ley-2021-04-02-27,ley-organica-del-centro-de-conciliacion-laboral,55,main
+2021-10-01,law,ley-2021-04-02-27,ley-organica-del-poder-ejecutivo,3,main
+2021-10-01,law,ley-2021-09-30-87,codigo-fiscal codigo-urbano ley-de-adquisiciones-enajenaciones-arrendamientos-y-contrata ley-de-asociaciones-publico-privadas ley-de-cambio-climatico ley-de-coordinacion-fiscal-estatal-intermunicipal ley-de-desarrollo-pecuario ley-de-desarrollo-social ley-de-deuda-publica ley-de-donacion-y-trasplantes-de-organos-tejidos-y-celulas-h ley-de-fomento-a-la-actividad-artesanal-en-el-estado-de-quer ley-de-fomento-apicola-y-proteccion-del-proceso-de-polinizac ley-de-hacienda ley-de-instituciones-de-asistencia-privada ley-de-la-administracion-publica-paraestatal ley-de-la-agencia-de-movilidad-y-modalidades-de-transporte-p ley-de-la-secretaria-de-seguridad-ciudadana ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-los-trabajadores ley-de-obra-publica ley-de-planeacion ley-de-procedimiento-contencioso-administrativo ley-de-profesiones ley-de-proteccion-de-datos-personales-en-posesion-de-sujetos ley-de-responsabilidades-administrativas ley-de-seguridad ley-de-servicios-auxiliares-del-transporte-publico ley-de-transito ley-de-transparencia-y-acceso-a-la-informacion-publica ley-de-turismo ley-del-centro-de-capacitacion-formacion-e-investigacion-par ley-del-deporte ley-del-escudo-la-bandera-y-el-himno ley-del-sistema-estatal-de-proteccion-civil-prevencion-y-mit ley-del-sistema-para-el-desarrollo-integral-de-la-familia ley-electoral ley-industrial ley-organica-de-la-fiscalia-general ley-organica-de-la-universidad-tecnologica-de-queretaro ley-organica-del-colegio-de-bachilleres ley-organica-del-tribunal-de-justicia-administrativa ley-para-el-manejo-de-los-recursos-publicos ley-para-la-inclusion-al-desarrollo-social-de-las-personas-c ley-para-la-promocion-fomento-y-desarrollo-de-la-industria-c ley-para-la-regularizacion-de-asentamientos-humanos-irregula ley-que-crea-el-centro-de-evaluacion-y-control-de-confianza ley-que-crea-el-centro-de-informacion-y-analisis-para-la-seg ley-que-crea-la-comision-estatal-de-infraestructura-de-quere ley-que-crea-la-comision-estatal-del-sistema-penitenciario-d ley-que-crea-la-comision-para-la-evaluacion-de-la-operacion,402,main
+2021-10-01,law,ley-2021-09-30-87,ley-organica-del-centro-de-conciliacion-laboral ley-organica-del-poder-ejecutivo,22,main
+2021-10-08,law,fe-de-erratas-2021-10-08-91,codigo-fiscal codigo-urbano ley-de-adquisiciones-enajenaciones-arrendamientos-y-contrata ley-de-asociaciones-publico-privadas ley-de-cambio-climatico ley-de-coordinacion-fiscal-estatal-intermunicipal ley-de-desarrollo-pecuario ley-de-desarrollo-social ley-de-deuda-publica ley-de-donacion-y-trasplantes-de-organos-tejidos-y-celulas-h ley-de-fomento-a-la-actividad-artesanal-en-el-estado-de-quer ley-de-fomento-apicola-y-proteccion-del-proceso-de-polinizac ley-de-hacienda ley-de-instituciones-de-asistencia-privada ley-de-la-administracion-publica-paraestatal ley-de-la-agencia-de-movilidad-y-modalidades-de-transporte-p ley-de-la-secretaria-de-seguridad-ciudadana ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-los-trabajadores ley-de-obra-publica ley-de-planeacion ley-de-procedimiento-contencioso-administrativo ley-de-profesiones ley-de-proteccion-de-datos-personales-en-posesion-de-sujetos ley-de-responsabilidades-administrativas ley-de-seguridad ley-de-servicios-auxiliares-del-transporte-publico ley-de-transito ley-de-transparencia-y-acceso-a-la-informacion-publica ley-de-turismo ley-del-centro-de-capacitacion-formacion-e-investigacion-par ley-del-deporte ley-del-escudo-la-bandera-y-el-himno ley-del-sistema-estatal-de-proteccion-civil-prevencion-y-mit ley-del-sistema-para-el-desarrollo-integral-de-la-familia ley-electoral ley-industrial ley-organica-de-la-fiscalia-general ley-organica-de-la-universidad-tecnologica-de-queretaro ley-organica-del-centro-de-conciliacion-laboral ley-organica-del-colegio-de-bachilleres ley-organica-del-poder-ejecutivo ley-organica-del-tribunal-de-justicia-administrativa ley-para-el-manejo-de-los-recursos-publicos ley-para-la-inclusion-al-desarrollo-social-de-las-personas-c ley-para-la-promocion-fomento-y-desarrollo-de-la-industria-c ley-para-la-regularizacion-de-asentamientos-humanos-irregula ley-que-crea-el-centro-de-evaluacion-y-control-de-confianza ley-que-crea-el-centro-de-informacion-y-analisis-para-la-seg ley-que-crea-la-comision-estatal-de-infraestructura-de-quere ley-que-crea-la-comision-estatal-del-sistema-penitenciario-d ley-que-crea-la-comision-para-la-evaluacion-de-la-operacion,104,main
+2021-10-23,law,ley-2021-10-22-95,ley-del-sistema-estatal-de-proteccion-civil-prevencion-y-mit,4,main
+2021-11-29,law,ley-2021-11-26-102,ley-organica-del-poder-legislativo,2,main
+2021-12-04,start,codigo-2021-12-03-104,codigo-ambiental,506,main
+2021-12-04,start,ley-2021-12-03-104,ley-para-la-prevencion-gestion-integral-y-economia-circular,136,main
+2021-12-04,law,ley-2021-12-03-104,codigo-penal,6,main
+2021-12-13,law,ley-2021-12-10-106,ley-organica-del-poder-legislativo,2,main
+2021-12-14,law,ley-2021-12-14-107,ley-de-planeacion ley-para-el-manejo-de-los-recursos-publicos,9,main
+2021-12-24,law,ley-2021-12-23-109,ley-de-los-trabajadores,4,main
+2021-12-31,start,ley-2021-06-02-45,ley-para-la-atencion-de-las-migraciones-en-el-estado-de-quer,16,main
+2022-01-01,start,ley-2021-12-23-109,ley-de-catastro,115,main
+2022-01-01,law,ley-2021-12-23-109,codigo-fiscal ley-de-adquisiciones-enajenaciones-arrendamientos-y-contrata ley-de-coordinacion-fiscal-estatal-intermunicipal ley-de-hacienda ley-de-obra-publica ley-organica-del-poder-ejecutivo ley-para-el-manejo-de-los-recursos-publicos,128,main
+2022-01-07,law,fe-de-erratas-2022-01-07-1,ley-de-hacienda,3,main
+2022-01-08,start,ley-2022-01-07-1,ley-de-firma-electronica-avanzada,39,main
+2022-01-14,law,ley-2022-01-14-3,ley-para-la-regularizacion-de-asentamientos-humanos-irregula,3,main
+2022-02-19,law,ley-2022-02-18-13,codigo-civil ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-para-el-desarrollo-de-los-jovenes-en-el-estado-de-queret,9,main
+2022-03-05,law,ley-2022-03-04-17,codigo-ambiental,2,main
+2022-03-21,law,ley-2022-03-18-19,ley-organica-del-poder-legislativo,2,main
+2022-04-02,law,ley-2022-04-01-22,ley-de-cambio-climatico ley-de-educacion,5,main
+2022-05-03,start,ley-2022-05-02-30,ley-de-fomento-a-las-organizaciones-de-la-sociedad-civil,44,main
+2022-05-03,law,ley-2022-05-02-30,ley-de-desarrollo-social ley-de-instituciones-de-asistencia-privada,10,main
+2022-05-21,start,ley-2022-05-20-37,ley-de-gobierno-digital,41,main
+2022-05-21,law,ley-2022-05-20-37,ley-de-asociaciones-publico-privadas ley-de-obra-publica ley-del-notariado ley-para-el-manejo-de-los-recursos-publicos,78,main
+2022-05-24,start,ley-2022-05-21-38,ley-que-regula-la-prestacion-de-los-servicios-de-agua-potabl,218,main
+2022-05-24,law,ley-2022-05-21-38,codigo-urbano,111,main
+2022-05-28,law,ley-2022-05-27-39,codigo-civil codigo-penal,112,main
+2022-06-11,start,ley-2022-06-10-42,ley-del-centro-de-prevencion-social-del-delito-y-la-violenci,28,main
+2022-06-11,law,ley-2022-06-10-42,ley-de-la-secretaria-de-seguridad-ciudadana ley-de-proteccion-a-victimas-y-personas-que-intervienen-en-e ley-de-respeto-vecinal ley-de-seguridad ley-organica-de-la-fiscalia-general ley-organica-municipal ley-que-crea-el-centro-de-informacion-y-analisis-para-la-seg ley-que-crea-la-comision-para-la-evaluacion-de-la-operacion,169,main
+2022-07-02,law,ley-2022-07-01-46,ley-del-deporte,3,main
+2022-07-30,law,ley-2022-07-29-52,ley-organica-de-la-fiscalia-general,7,main
+2022-08-25,law,ley-2022-08-24-60,ley-electoral,3,main
+2022-09-10,start,ley-2022-09-09-65,ley-que-crea-el-instituto-queretano-del-emprendimiento-y-la,21,main
+2022-09-17,start,ley-2022-09-16-67,ley-de-fiscalizacion-superior-y-rendicion-de-cuentas,84,main
+2022-09-17,law,ley-2022-09-16-67,ley-de-derechos-humanos,16,main
+2022-09-30,start,ley-2022-09-30-70,ley-organica-del-poder-judicial,220,main
+2022-10-22,law,ley-2022-10-21-73,codigo-penal ley-para-el-desarrollo-de-los-jovenes-en-el-estado-de-queret,9,main
+2022-10-31,law,ley-2022-10-31-75,codigo-ambiental ley-del-centro-de-prevencion-social-del-delito-y-la-violenci,51,main
+2022-11-30,start,ley-2022-11-29-82,ley-de-mejora-regulatoria,95,main
+2022-11-30,law,ley-2022-11-29-82,ley-de-firma-electronica-avanzada ley-de-obra-publica ley-de-procedimientos-administrativos,25,main
+2022-12-03,law,ley-2022-12-02-83,ley-de-salud,2,main
+2022-12-21,law,ley-2022-12-21-88,ley-de-cambio-climatico ley-de-la-agencia-de-movilidad-y-modalidades-de-transporte-p ley-de-transito ley-para-la-inclusion-al-desarrollo-social-de-las-personas-c,201,main
+2022-12-28,law,ley-2022-12-27-91,ley-de-los-trabajadores ley-organica-del-poder-judicial ley-organica-municipal,10,main
+2022-12-30,law,ley-2022-12-30-93,ley-organica-de-la-fiscalia-general,6,main
+2022-12-31,law,ley-2022-12-30-93-2,ley-organica-de-la-fiscalia-general,2,main
+2023-01-01,law,ley-2022-12-22-89,codigo-fiscal ley-de-adquisiciones-enajenaciones-arrendamientos-y-contrata ley-de-coordinacion-fiscal-estatal-intermunicipal ley-de-hacienda-de-los-municipios ley-de-hacienda ley-de-la-administracion-publica-paraestatal ley-de-procedimientos-administrativos ley-organica-del-poder-ejecutivo,120,main
+2023-01-06,law,ley-2023-01-06-1,ley-de-servicios-auxiliares-del-transporte-publico,44,main
+2023-01-28,law,ley-2023-01-27-5,codigo-fiscal ley-de-adquisiciones-enajenaciones-arrendamientos-y-contrata ley-de-coordinacion-fiscal-estatal-intermunicipal ley-de-educacion ley-de-gobierno-digital ley-de-hacienda-de-los-municipios ley-de-hacienda ley-de-la-administracion-publica-paraestatal ley-de-procedimientos-administrativos ley-organica-del-poder-ejecutivo,32,main
+2023-02-03,law,ley-2023-01-31-6,ley-organica-del-poder-legislativo,25,main
+2023-03-04,law,ley-2023-03-03-15,ley-de-educacion,2,main
+2023-03-08,law,ley-2023-03-07-16,ley-de-instituciones-de-asistencia-privada ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-vio ley-industrial ley-para-el-desarrollo-de-los-jovenes-en-el-estado-de-queret,318,main
+2023-03-31,law,fe-de-erratas-2023-03-31-21,codigo-fiscal ley-de-adquisiciones-enajenaciones-arrendamientos-y-contrata ley-de-coordinacion-fiscal-estatal-intermunicipal ley-de-hacienda-de-los-municipios ley-de-hacienda ley-de-la-administracion-publica-paraestatal ley-de-procedimientos-administrativos ley-organica-del-poder-ejecutivo,16,main
+2023-04-06,law,ley-2023-04-03-22,ley-organica-del-poder-legislativo,5,main
+2023-04-15,law,ley-2023-04-14-25,constitucion-politica,2,main
+2023-04-22,law,ley-2023-04-21-26,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,2,main
+2023-07-01,law,ley-2023-06-30-47,ley-de-deuda-publica ley-de-la-administracion-publica-paraestatal ley-para-el-manejo-de-los-recursos-publicos,9,main
+2023-07-15,law,ley-2023-07-15-54,ley-electoral,484,main
+2023-08-05,start,ley-2023-08-04-61,ley-para-la-regularizacion-de-asentamientos-humanos-irregula-2,85,main
+2023-08-19,law,ley-2023-08-18-64,codigo-civil,3,main
+2023-09-09,law,ley-2023-09-08-70,codigo-penal,2,main
+2023-09-09,law,ley-2023-09-08-70-2,codigo-penal,3,main
+2023-09-16,law,ley-2023-09-15-72,codigo-civil ley-de-los-derechos-de-ninas-ninos-y-adolescentes,7,main
+2023-10-21,law,ley-2023-10-20-81,ley-de-firma-electronica-avanzada ley-de-seguridad ley-organica-de-la-fiscalia-general ley-que-crea-el-centro-de-informacion-y-analisis-para-la-seg,9,main
+2023-11-11,law,ley-2023-11-10-90,ley-de-la-agencia-de-movilidad-y-modalidades-de-transporte-p,3,main
+2023-11-16,law,ley-2023-11-15-91,ley-organica-del-poder-judicial,2,main
+2023-11-18,law,ley-2023-11-17-92,codigo-urbano ley-para-agilizar-los-procedimientos-de-entrega-recepcion-de,230,main
+2023-11-18,law,ley-2023-11-17-92-2,codigo-urbano,22,main
+2023-11-25,start,ley-2023-11-24-93,ley-de-la-secretaria-de-las-mujeres-antes-ley-del-instituto,32,main
+2023-11-25,law,ley-2023-11-24-93,ley-de-turismo,26,main
+2023-12-01,law,ley-2023-11-28-94,ley-organica-del-poder-legislativo,3,main
+2024-01-01,law,ley-2023-12-27-102,codigo-ambiental codigo-fiscal ley-de-hacienda ley-de-la-administracion-publica-paraestatal ley-de-procedimientos-administrativos,49,main
+2024-02-17,law,ley-2024-02-16-12,ley-para-la-atencion-de-las-migraciones-en-el-estado-de-quer,12,main
+2024-03-23,start,ley-2024-03-22-21,ley-del-instituto-registral-y-catastral,24,main
+2024-03-23,law,ley-2024-03-22-21,codigo-civil codigo-de-procedimientos-civiles ley-de-catastro ley-de-expropiacion ley-de-firma-electronica-avanzada ley-de-hacienda-de-los-municipios ley-de-hacienda ley-de-instituciones-de-asistencia-privada ley-de-valuacion-inmobiliaria ley-del-notariado ley-organica-del-poder-ejecutivo,120,main
+2024-04-09,law,ley-2024-04-09-25,ley-que-regula-la-prestacion-de-los-servicios-de-agua-potabl,23,main
+2024-08-17,law,ley-2024-08-16-79,ley-para-el-fomento-de-la-investigacion-cientifica-tecnologi ley-que-crea-el-instituto-queretano-del-emprendimiento-y-la,5,main
+2024-08-20,law,ley-2024-08-19-80,ley-organica-del-poder-judicial,26,main
+2024-08-26,law,ley-2024-08-23-82,ley-organica-del-poder-legislativo,19,main
+2024-09-14,law,ley-2024-09-13-89,constitucion-politica,2,main
+2024-09-14,law,ley-2024-09-13-89-2,constitucion-politica,2,main
+2024-09-21,law,ley-2024-09-20-90,codigo-civil codigo-de-procedimientos-civiles ley-de-catastro ley-de-expropiacion ley-de-firma-electronica-avanzada ley-de-hacienda-de-los-municipios ley-de-hacienda ley-de-instituciones-de-asistencia-privada ley-de-valuacion-inmobiliaria ley-del-instituto-registral-y-catastral ley-del-notariado ley-organica-del-poder-ejecutivo,32,main
+2024-09-28,law,ley-2024-09-27-93,ley-de-instituciones-de-asistencia-privada ley-de-seguridad ley-del-centro-de-prevencion-social-del-delito-y-la-violenci ley-organica-de-la-fiscalia-general ley-que-crea-el-centro-de-informacion-y-analisis-para-la-seg ley-que-crea-la-comision-para-la-evaluacion-de-la-operacion,43,main
+2024-10-01,law,ley-2024-09-13-89-3,constitucion-politica,2,main
+2024-10-01,law,ley-2024-09-13-89-4,constitucion-politica,5,main
+2024-10-01,law,ley-2024-09-13-89-5,constitucion-politica,2,main
+2024-10-01,law,ley-2024-09-13-89-6,constitucion-politica,2,main
+2024-10-12,law,decreto-2024-10-11-97,ley-para-la-cultura-y-las-artes,11,main
+2024-10-19,law,ley-2024-10-18-98,ley-de-derechos-humanos,6,main
+2024-10-26,law,ley-2024-10-25-99,ley-de-los-trabajadores,2,main
+2024-10-28,law,ley-2024-10-25-99,ley-para-la-inclusion-al-desarrollo-social-de-las-personas-c,3,main
+2025-01-01,law,ley-2024-09-27-93,ley-de-desarrollo-social ley-de-igualdad-sustantiva-entre-mujeres-y-hombres ley-de-la-secretaria-de-las-mujeres-antes-ley-del-instituto ley-de-proteccion-a-victimas-y-personas-que-intervienen-en-e ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-vio ley-organica-del-poder-ejecutivo ley-para-la-atencion-de-las-migraciones-en-el-estado-de-quer ley-para-prevenir-y-eliminar-toda-forma-de-discriminacion-en ley-para-prevenir-combatir-y-sancionar-la-trata-de-personas ley-que-crea-el-instituto-queretano-del-emprendimiento-y-la ley-que-establece-las-bases-para-la-prevencion-y-la-atencion,83,main
+2025-01-01,law,ley-2024-12-23-120,codigo-fiscal ley-de-adquisiciones-enajenaciones-arrendamientos-y-contrata ley-de-coordinacion-fiscal-estatal-intermunicipal ley-de-hacienda,55,main
+2025-02-15,start,ley-2025-02-14-12,ley-de-participacion-ciudadana,118,main
+2025-02-21,law,fe-de-erratas-2025-02-21-16,ley-de-participacion-ciudadana,2,main
+2025-03-08,law,ley-2025-03-07-20,codigo-civil ley-de-los-derechos-de-ninas-ninos-y-adolescentes,4,main
+2025-03-08,law,ley-2025-03-07-20-2,codigo-civil,2,main
+2025-04-05,law,ley-2025-04-04-31,ley-organica-de-la-fiscalia-general,16,main
+2025-04-21,law,ley-2025-04-18-34,ley-organica-del-poder-legislativo,9,main
+2025-05-02,law,fe-de-erratas-2025-05-02-37,ley-que-regula-la-prestacion-de-los-servicios-de-agua-potabl,2,main
+2025-06-07,law,acuerdo-s-2025-06-06-49,codigo-municipal-de-queretaro,2,main
+2025-07-04,law,fe-de-erratas-2025-07-04-54,ley-organica-de-la-fiscalia-general,2,main
+2025-08-20,law,ley-2025-08-19-67,codigo-penal,2,main
+2025-08-30,law,ley-2025-08-29-72,codigo-penal ley-de-los-derechos-de-ninas-ninos-y-adolescentes,7,main
+2025-11-08,law,ley-2025-11-07-90,codigo-penal ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-vio,5,main
+2025-11-29,law,ley-2025-11-28-94,ley-organica-de-la-fiscalia-general,3,main
+2025-12-31,law,ley-2025-12-30-106,ley-de-cambio-climatico ley-de-la-agencia-de-movilidad-y-modalidades-de-transporte-p ley-de-transito ley-para-la-inclusion-al-desarrollo-social-de-las-personas-c,8,main
+2026-01-01,start,ley-2025-12-23-101,ley-de-ingresos,27,main
+2026-01-01,start,ley-2025-12-24-102,ley-de-ingresos-del-municipio-de-colon-qro-para-el-ejercicio,2,main
+2026-01-01,start,ley-2025-12-24-102,ley-de-ingresos-del-municipio-de-corregidora-qro-para-el-eje,2,main
+2026-01-01,start,ley-2025-12-25-103,ley-de-ingresos-del-municipio-de-jalpan-de-serra-qro-para-el,3,main
+2026-01-01,start,ley-2025-12-25-103,ley-de-ingresos-del-municipio-de-landa-de-matamoros-qro-para,3,main
+2026-01-01,start,ley-2025-12-25-103,ley-de-ingresos-del-municipio-de-pedro-escobedo-qro-para-el,3,main
+2026-01-01,start,ley-2025-12-25-103,ley-de-ingresos-del-municipio-de-penamiller-qro-para-el-ejer,3,main
+2026-01-01,start,ley-2025-12-25-103,ley-de-ingresos-del-municipio-de-pinal-de-amoles-qro-para-el,3,main
+2026-01-01,start,ley-2025-12-25-103,ley-de-ingresos-del-municipio-de-queretaro-qro-para-el-ejerc,3,main
+2026-01-01,start,ley-2025-12-25-103,ley-de-ingresos-del-municipio-de-san-joaquin-qro-para-el-eje,3,main
+2026-01-01,start,ley-2025-12-25-103,ley-de-ingresos-del-municipio-de-san-juan-del-rio-qro-para-e,3,main
+2026-01-01,start,ley-2025-12-25-103,ley-de-ingresos-del-municipio-de-tequisquiapan-qro-para-el-e,3,main
+2026-01-01,start,ley-2025-12-25-103,ley-de-ingresos-del-municipio-de-toliman-qro-para-el-ejercic,3,main
+2026-01-01,start,ley-2025-12-23-101,ley-que-fija-las-bases-montos-y-plazos-conforme-a-los-cuales,21,main
+2026-01-01,law,ley-2025-12-23-101,codigo-fiscal ley-de-coordinacion-fiscal-estatal-intermunicipal ley-de-firma-electronica-avanzada ley-de-hacienda ley-para-el-manejo-de-los-recursos-publicos,76,main
+2026-02-21,law,ley-2026-02-20-16,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,2,main
+2026-02-21,law,ley-2026-02-20-16-2,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,7,main
+2026-02-23,law,ley-2026-02-20-16,ley-para-la-inclusion-al-desarrollo-social-de-las-personas-c,2,main
+2026-02-24,law,ley-2026-02-23-17,codigo-penal ley-de-seguridad ley-organica-de-la-fiscalia-general,8,main
+2026-02-28,law,ley-2026-02-27-19,codigo-penal ley-de-la-secretaria-de-seguridad-ciudadana ley-organica-de-la-escuela-normal ley-organica-del-colegio-de-bachilleres,18,main
+2026-05-01,law,ley-2026-04-30-35,constitucion-politica,14,main
+2026-05-06,law,ley-2026-05-05-37,ley-de-los-trabajadores,2,main
+2026-05-09,law,ley-2026-05-08-39,ley-de-salud ley-del-deporte,14,main
+2026-06-06,law,ley-2026-06-05-48,ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-vio,3,main
+2026-06-16,law,ley-2026-06-15-51,ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-vio,4,main
+2026-07-16,law,ley-2026-07-15-58,constitucion-politica,2,main
